@@ -1,5 +1,7 @@
 const fs = require('fs');
+//import fs from 'fs';
 const path = require('path');
+//import path from 'path';
 
 function load_novel_data() {
     const datasetFile_path = path.join(__dirname, '../../dataset', 'novel_data.json');

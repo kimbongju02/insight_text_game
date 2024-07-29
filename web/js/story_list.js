@@ -1,6 +1,5 @@
 const load_novel_data = require('./parse_json');
-
-const contentsContainer = document.querySelector('.contents');
+//import {load_novel_data} from './parse_json.js';
 
 function create_story(position, idx1, idx2){
     const story_list = load_novel_data();
@@ -26,4 +25,4 @@ function common_html(story){
     return result;
 }
 
-contentsContainer.innerHTML = create_story('left', 0, 1);
+module.exports = create_story;
