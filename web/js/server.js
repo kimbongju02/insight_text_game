@@ -8,7 +8,6 @@ app.use(express.static('../public'));
 app.use(express.static('../js'));
 
 app.get('/', (req, res) => {
-    console.log(__dirname);
     res.sendFile(path.join(__dirname, '../public/html/mainPage.html'));
 });
 
@@ -21,5 +20,6 @@ app.get('/detail_story/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`서버가 http://localhost:${port}에서 실행 중입니다.`);
+    console.log(__dirname);
+    console.log(`서버가 http://localhost:${port} 에서 실행 중입니다.`);
 });
