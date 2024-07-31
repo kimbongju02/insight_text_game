@@ -23,7 +23,7 @@ function common_html(story){
         `onclick="window.location.href = '/detail_story/${story.id}'" style="cursor:pointer;">\n`+
         `<div class="box-background"></div>\n`+
         `<div class="box-content">\n`+
-        `<div class="box-title" text="${story.title}"></div>\n`+
+        `<div class="box-title">${story.title}</div>\n`+
         `</div>\n`+
         `</div>`;
     return result;
