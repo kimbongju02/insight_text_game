@@ -1,8 +1,11 @@
-const load_novel_data = require('./parse_json');
-//import {load_novel_data} from './parse_json.js';
+const contentsContainer = document.querySelector('.contents');
+
+window.onload = function(){
+    request_get_method();
+    //create_story_list();
+}
 
 function create_story(position, idx1, idx2){
-    const story_list = load_novel_data();
     const story_list_idx1 = story_list[idx1];
     const story_list_idx2 = story_list[idx2];
     const result = `<div class="${position}">\n`+
@@ -25,4 +28,20 @@ function common_html(story){
     return result;
 }
 
-module.exports = create_story;
+function create_story_list(){
+    const create_story_list = create_story('left',1,2);
+    console.log(create_story_list);
+    contentsContainer.innerHTML = create_story_list;
+}
+
+function request_get_method(){
+    fetch('/get_story_list')
+    .then(response => response.json())
+    .then(data => {
+        var story_list = data;
+        console.log(story_list);
+    })
+    .catch(error =>{
+        console.error('Error:', error);
+    });
+}
