@@ -1,6 +1,10 @@
+require('dotenv').config();
+const env = {
+    PORT: process.env.PORT
+}
+
 const express = require('express');
 
-const port = 5500;
 const app = express();
 
 const path = require('path');
@@ -18,7 +22,7 @@ app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/html/mainPage.html'));
 });
 
-app.listen(port, () => {
+app.listen(env.PORT, () => {
     console.log(__dirname);
-    console.log(`서버가 http://localhost:${port} 에서 실행 중입니다.`);
+    console.log(`서버가 http://localhost:${env.PORT} 에서 실행 중입니다.`);
 });

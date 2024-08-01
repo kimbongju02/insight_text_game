@@ -10,7 +10,10 @@ router.get('/detail_story/:id', (req, res) => {
 });
 
 router.get('/story_info/:id',(req, res)=>{
+    const id = req.params.id;
     const story = load_data.load_novel_data(id);
+    if(story === null)
+        console.log('No story');
     res.send(story);
 })
 

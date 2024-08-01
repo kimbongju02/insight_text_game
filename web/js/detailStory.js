@@ -1,19 +1,27 @@
+const contentsContainer = document.querySelector('.contents');
+const container = document.querySelector('.container');
+const selectId = (window.location.pathname).split('/').pop();
 
-let story;
+window.onload = function(){
+    request_story(selectId);
+}
 
-window.onload = funciton(){
+async function story_html(story){
+    const contentsHtml = story_content_html(story) + story_image_html(story);
+    console.log(contentsHtml);
+    contentsContainer.innerHTML = contentsHtml;
+    
+    container.style = `
+  background-image: url('/img/background-shadow.png'), url('${story.image}');`;
 
 }
 
-function story_html(){
-    request_story(idx);
-}
 //어떻게 idx값을 가져와서 보낼 수가 있을까?
 function request_story(idx){
     fetch('/story_info/'+idx)
     .then(response => response.json())
     .then(data=>{
-        story = data;
+        story_html(data);
     })
     .catch(error=>{
         console.error('Error:', error);
@@ -21,18 +29,18 @@ function request_story(idx){
 }
 
 function story_content_html(story){
-    const charaters = story.charater;
+    const char = story.character;
     let result =
     `<div class="left">\n`+
-    `<div class="title">${story.title}<div>\n`+
+    `<div class="title">${story.title}</div>\n`+
     `<div class="charater">등장인물: `
 
-    charaters.forEach(element => {
+    char.forEach(element => {
         result += element.name + ', ';
     });
 
     result +=
-    `<div class="story">\n`+
+    `</div>\n<div class="story">\n`+
     `<div class="story-text">${story.summary}</div>`+
     `</div>\n </div>`;
 
@@ -43,8 +51,9 @@ function story_image_html(story){
     let result = 
     `<div class="right">\n`+
     `<div class="img-box">\n`+
-    `<img class="img" src=${story.image_char}\n`+
+    `<img class="img" src=${story.image_char}>\n`+
     `</div>\n`+
-    `<div class="start" onclick="window.location.href=/story/${story.id};" style="cursor:pointer;>시작</div>\n`+
+    `<div class="start" onclick="window.location.href='/story/${story.id}'" style="cursor:pointer;">시작 버튼</div>\n`+
     `</div>`;
+    return result;
 }
