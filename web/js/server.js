@@ -1,25 +1,28 @@
+require('dotenv').config();
+const env = {
+    PORT: process.env.PORT
+}
+
 const express = require('express');
-const port = 5500;
 
 const app = express();
+
 const path = require('path');
 
 app.use(express.static('../public'));
 app.use(express.static('../js'));
 
+const storyList = require('./router/storyListR');
+const detailStory = require('./router/detailStoryR');
+
+app.use('/', storyList);
+app.use('/', detailStory);
+
 app.get('/', (req, res) => {
-    console.log(__dirname);
     res.sendFile(path.join(__dirname, '../public/html/mainPage.html'));
 });
 
-app.get('/list', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/html/storyList.html'));
-});
-
-app.get('/detail_story/:id', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/html/detailStory.html'));
-});
-
-app.listen(port, () => {
-    console.log(`서버가 http://localhost:${port}에서 실행 중입니다.`);
+app.listen(env.PORT, () => {
+    console.log(__dirname);
+    console.log(`서버가 http://localhost:${env.PORT} 에서 실행 중입니다.`);
 });
