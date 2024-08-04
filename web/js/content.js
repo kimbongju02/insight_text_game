@@ -11,7 +11,7 @@ var option_cnt=0;
 
 // history 영역 포커스 아래 고정
 window.onload = function() {
-    load_image_story(story_id);
+    load_image_ofstory(story_id);
     load_start_story(story_id);
 
     var historyContainer = document.querySelector('.history');
@@ -39,13 +39,34 @@ function load_start_story(id){
     .catch(error => console.error('Error:', error));
 }
 
-function load_image_story(id){
+function load_image_ofstory(id){
     fetch('/load/image/story/'+id)
     .then(response => response.text())
     .then(data => {
         background_container.style.backgroundImage='url("/img/background-shadow.png"), '+"url("+data+")";
     })
     .catch(error => console.error('Error:', error));
+}
+
+// 사용자가 선택지 클릭 시 다음 스토리 생성을 요청
+function load_next_story(){
+    fetch("/generate/story", {
+        method: 'POST',
+        body: JSON.stringify({
+            data: JSON.stringify(data_history[part_cnt]),
+            choice: choice_history[part_cnt],
+        }),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        create_chat_div(data);
+    })
+    .catch(error => {
+        console.error('error occur:', error);
+    });
 }
 
 // 스토리를 생성할 때 스토리마다 div 영역을 생성하여 추가
@@ -59,7 +80,7 @@ async function create_chat_div(data) {
     await add_dialogue(part_container, data['dialogue']);
     await add_option(data['choice1'], data['choice2'], data['choice3']);
     
-    select_button_event(part_container);
+    selectButton_event(part_container);
     save_data_history(data);
     enable_history();
 }
@@ -153,7 +174,7 @@ function add_option(choice1, choice2, choice3){
 
 // 사용자가 선택지 버튼 클릭 시 수행
 // 선택한 선택지를 분기 영역에 추가 및 create_chat_div 영역에도 추가
-function select_button_event(select_part_container){
+function selectButton_event(select_part_container){
     return new Promise((resolve) => {
         const buttons = document.querySelectorAll('.options button');
         buttons.forEach(button => {
@@ -171,33 +192,12 @@ function select_button_event(select_part_container){
                 // 사용자가 선택지 클릭 시 분기 영역에 선택지 추가
                 add_history(select_button_text);
 
-                create_next_story();
+                load_next_story();
                 part_cnt += 1;
 
                 options.innerHTML = ''; 
             });
         });
-    });
-}
-
-// 사용자가 선택지 클릭 시 다음 스토리 생성을 요청
-function create_next_story(){
-    fetch("/generate/story", {
-        method: 'POST',
-        body: JSON.stringify({
-            data: JSON.stringify(data_history[part_cnt]),
-            choice: choice_history[part_cnt],
-        }),
-        headers: {
-            'Content-Type': 'application/json'
-        }
-    })
-    .then(response => response.json())
-    .then(data => {
-        create_chat_div(data);
-    })
-    .catch(error => {
-        console.error('error occur:', error);
     });
 }
 
@@ -220,7 +220,7 @@ function one_word_one_time(div, story){
                 }
             }, interval);
         } catch (TypeError) {
-            createRootModal();
+            goRoot_modal();
         }
         
     });
@@ -268,7 +268,7 @@ function add_history(select_button_text) {
 
 // 분기 클릭시 대화상자 이벤트
 function confirmGoBack(history_element, select_button_text) {
-    createModal(select_button_text); // 모달 생성 시 선택지 텍스트를 전달
+    select_change_modal(select_button_text); // 모달 생성 시 선택지 텍스트를 전달
 
     // 모달 엘리먼트 가져오기
     const modal = document.getElementById("myModal");
@@ -321,7 +321,7 @@ function confirmGoBack(history_element, select_button_text) {
 }
 
 // 모달을 동적으로 생성하는 함수
-function createModal(text) {
+function select_change_modal(text) {
     // 기존 모달을 제거
     const existingModal = document.getElementById("myModal");
     if (existingModal) {
@@ -355,11 +355,11 @@ function createModal(text) {
 const homeButton = document.querySelector('.home-button');
 homeButton.addEventListener('click', function(event) {
     event.preventDefault();
-    createHomeModal();
+    goMain_modal();
 });
 
 // 메인화면으로 이동 모달 생성
-function createHomeModal() {
+function goMain_modal() {
     // 기존 모달을 제거
     const existingModal = document.getElementById("myModal");
     if (existingModal) {
@@ -413,7 +413,7 @@ function createHomeModal() {
 }
 
 // 메인화면으로 이동 모달 생성
-function createRootModal() {
+function goRoot_modal() {
     // 기존 모달을 제거
     const existingModal = document.getElementById("myModal");
     if (existingModal) {
