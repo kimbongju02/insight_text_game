@@ -1,2 +1,5 @@
 .venv
-dataset/
+dataset/novel-character_info
+dataset/visual-novels
+dataset/visual-novels-yaml
+dataset/visual-novels-yaml-v2
