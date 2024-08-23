@@ -18,18 +18,58 @@
 
 
 A Clockwork Ley-Line - The Borderline of Dusk 		        "TO:~ 로 시작하는 편지 존재
-Academy34 								                    YOU(name) 존재
-AIR 									                	나레이션 태그 없음, *로시작하는 감탄어 존재
-Aokana - Four Rhythms Across the Blue		        		나레이션 태그 없음
-CLANNAD									                    나레이션 태그 없음
+Academy34 								                    YOU(name) 존재 <USER> 존재
+*AIR 									                	나레이션 태그 없음, *로시작하는 감탄어 존재, 소괄호로 구분되는 독백 존재
+*Amatarasu Riddle Star                                       **~**로 구분되는 동작, 효과음 태그 존재
+*Aokana - Four Rhythms Across the Blue		        		나레이션 태그 없음, <i></i> 형태의 강조 태그 존재
+*Arknights                                                  소괄호로 구분되는 독백 존재, 나레이션 태그에 효과음과 동작도 포함됨, ""없음                    
+*Blackberry Honey                                           대화문장 뒤 with dissolve존재, 대화 문장 내부에 중괄호, 언더바 존재
+*Chasing Tails A Promise In the Snow                        나레이션 태그와 대화 문장 내부에 중괄호 존재                            
+*Cho Dengeki Stryker                                        "" 없음, 나레이션 태그에 효과음과 동작도 포함됨.                                   
+*CLANNAD									                나레이션 태그 없음, You 존재, 중괄호 내부의 코드? 존재, 소괄호 존재, ""없음
 Comyu - Kuroi Ryuu to Yasashii Oukoku	          			나레이션 태그 없음
-CrossChannel						                  		나레이션 태그 없음
-Dawn Of Malice							            	    나레이션에 ( 와 ) 존재, <USER> 존재
-Doki Doki Literature Club					            	<USER> 존재
-Euphoria								                	name 없는 " " 존재, 나레이션 태그 없음
+*Cross Worlds                                               Narrator라는 name 존재, 나레이터 태그는 독백으로 보임.
+*CrossChannel						                  		나레이션 태그 없음, 『』존재, > 존재, # 존재, 나레이션 태그가 효과음과 동작을 나타냄.
+*Daitoshokan no Hitsujikai                                  "" 없음
+*Dawn Of Malice							            	    나레이션에 ( 와 ) 존재, <USER> 존재, *선정적인 내용*
+*Dues Irae                                                  대화에 [], ()존재
+*Doki Doki Literature Club					            	<USER> 존재, 대화에 {} 존재
+*DRACU-RIOT!                                                ""없음, 나레이션 태그가 효과음과 동작도 나타냄, %% 존재
+*DRAMAticla Murder                                          대화에 @와 <> 존재
+*Driven Affairs                                             <USER> 존재, "" 없음, -GASP-존재, *선정적인 내용*
+*Elfheim                                                    *선정적인 내용*
+*Eroge! ~H mo Game mo Kauhatsu Zanmai~                      *선정적인 내용*
+*Euphoria								                	name 없는 " " 존재, 나레이션 태그 없음, *선정적인 내용*
+*Everlasting Summer                                         You(name)존재, <>존재
+*Fashing Little Miss Lonesome                               *선정적인 내용*
+*Fxxx Me Royally!! Horny Magical Princess (Himetai)         [] 존재, 나레이션 태그 내부에 () 존재, 【】존재, "" 없음, 한자 존재, *선정적인 내용*
+*Gaikokujin no Sensei                                       *선정적인 내용*
 Girls Frontline (Extras)					        		필요없는 데이터로 판단
 Girls Frontline							    	            너무 짧은 에피소드 존재
+*Hoshuzora no Memoria -Eternal Heart                        *선정적인 내용*
+*Ikinari Annata ni Koishiteiru                              *선정적인 내용*
+*Island Diary                                                "" 없음, 
+*Juicy Futa                                                  <USER> 존재, *선정적인 내용*
+*Kara no Shoujo - The Second Episode                        *선정적인 내용*
+*Katawa Shoujo                                              {} 존재, 
+*Kindred Spirits On The Roof                                *선정적인 내용*
+*Kinkoi - Golden Loveriche (Kin'iro Loveriche)              _ _ 존재, *선정적인 내용*
+*Koi to Senkyo to Chocolate                                 *선정적인 내용*
+*Libra of the Vampire Princess (Kyuuketsuki no Libra)       대화 안 *효과음* 존재
+*Little Busters!                                            **효과음** 존재, [] 존재
+*Love At First Sight                                        You(name) 존재
+*Love Ribbon                                                *선정적인 내용*
+*Lust Legacy                                                <USER> 존재, *선정적인 내용*
+*Maitetsu                                                   **효과음** 존재, *선정적인 내용*
+*Majikoi! Love Me Seriously!                                ""없음, ()존재, *선정적인 내용*
+*Master Magistrate (Ouka Sabaki)                            *선정적인 내용*
 MonsterGirlQuest					    	        		완전 이상한 형태
+*Muv Luv Alternative                                        *──* ~ ** 형태의 태그 존재, *선정적인 내용*
+*Muv Luv Extra                                              *──* ~ ** 형태의 태그 존재, *선정적인 내용*
+*Muv Luv Unlimited                                          *──* ~ ** 형태의 태그 존재, *선정적인 내용*
+*My Catgirl Maid Thinks She Runs The Place                  You(name)존재, <USER> 존재, *선정적인 내용*
+*My Girlfriend is the President                             *선정적인 내용*
+*Nanairo Reincarnation                                      "" 없음, 
 Nurse Love Addiction			    		        		나레이션 태그 없음
 Nurse Love Syndrome			    				            나레이션 태그 없음
 Prince Of Suburbia		    				            	나레이션에 ( 와 ) 존재, <USER> 존재
@@ -43,7 +83,7 @@ The House in Fata Morgana					            	Unknown라는 name 존재
 The Labyrinth of Grisaia					            	Narration라는 name 존재(나레이션 태그 미존재)
 TheDevilOnGstring							                나레이션 태그 없음
 Tokyo Bable                                                 대화 외적인 부분은 모두 *로 통합하여 처리. 나레이션 태그와 구분될까? (제외하기)                                           
-Waifu Hub                                                   YOU(name) 존재, <USER> 존재, *(~)* 형태의 동작/효과음 태그 존재, 내용의 부적절성(제외하기)
+Waifu Hub                                                   YOU(name) 존재, <USER> 존재, *(~)* 형태의 동작/효과음 태그 존재, *선정적인 내용*
 Wanting Wings Her and Her Romance!                          동시대화 존재(name&name:)
 Wolf Tails                                                  You(name) 존재, {i}**{/i} 동작(감정) 태그 존재, [player_name] 존재, *()* 독백 태그 존재
                     
