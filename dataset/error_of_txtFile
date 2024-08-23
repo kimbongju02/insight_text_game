@@ -1,6 +1,9 @@
 나레이션 태그 *~*
 인물 태그 name : "~"
 인물 태그에 YOU, <USER> 존재
+인물의 대화에서 "~" 없는 경우도 존재하여, "~" 제거
+물음표가 중간에 위치하는 경우가 아닌 마지막에 위치할 경우에만 처리하도록 수정
+대화에서 <USER>로 사용자를 지칭하는 경우 존재
 
 ['Shikkoku no Sharnoth ~What a beautiful tomorrow~', 'Euphoria'] 제외
 ['A Clockwork Ley-Line - The Borderline of Dusk'] name이 To의 경우 narraition으로 처리
@@ -29,7 +32,7 @@ Doki Doki Literature Club					            	<USER> 존재
 Euphoria								                	name 없는 " " 존재, 나레이션 태그 없음
 Girls Frontline (Extras)					        		필요없는 데이터로 판단
 Girls Frontline							    	            너무 짧은 에피소드 존재
-MonsterGirlQuest					    	        		완전 이상한 형태
+MonsterGirlQuest					    	        		완전 이상한 형태(제외)
 Nurse Love Addiction			    		        		나레이션 태그 없음
 Nurse Love Syndrome			    				            나레이션 태그 없음
 Prince Of Suburbia		    				            	나레이션에 ( 와 ) 존재, <USER> 존재
@@ -47,3 +50,5 @@ Waifu Hub                                                   YOU(name) 존재, <U
 Wanting Wings Her and Her Romance!                          동시대화 존재(name&name:)
 Wolf Tails                                                  You(name) 존재, {i}**{/i} 동작(감정) 태그 존재, [player_name] 존재, *()* 독백 태그 존재
                     
+
+Neko Para Vol.0.txt                                         여러 사람이 같은 말을 할 때 &로 구분 ex) 김 & 박
