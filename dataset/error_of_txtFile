@@ -114,10 +114,10 @@ Neko Para Vol.0.txt                                         여러 사람이 같
     대화문장 뒤 with dissolve존재, 대화 문장 내부에 {}, 언더바 존재
 ['Chasing Tails A Promise In the Snow']
     {}, [] 존재
-['Comyu - Kuroi Ryuu to Yasashii Oukoku', 'Euphoria', 'Nurse Love Addiction', 'Nurse Love Syndrome', 'Sorcery Jokers','TheDevilOnGstring']
+['Comyu - Kuroi Ryuu to Yasashii Oukoku', 'Euphoria', 'Nurse Love Addiction', 'Nurse Love Syndrome', 'Sorcery Jokers','TheDevilOnGstring', 'CLANNAD']
     나레이션 태그 없음
 ['Cross Worlds','Sisterly Bliss (Tsui Yuri ~Okaa-san ni wa Naisho da yo~)', 'The Eden of Grisaia', 'The Fruit of Grisaia', 'The Labyrinth of Grisaia']
-    Narrator, Narraition라는 name 존재
+    Narrator, Narration라는 name 존재
 ['CrossChannel']
     나레이션 태그 없음, 『』존재, 나레이션 태그가 효과음과 동작을 나타냄.
 ['Dies Irae - Acta Est Fabula']
@@ -147,5 +147,4 @@ Neko Para Vol.0.txt                                         여러 사람이 같
 ['Shikkoku no Sharnoth ~What a beautiful tomorrow~', 'Euphoria', 'Girls Frontline (Extras)', 'Girls Frontline', 'MonsterGirlQuest']
     제외
 ['Dawn Of Malice', 'Love At First Sight', 'Academy34', 'Dawn Of Malice', 'Doki Doki Literature Club', 'Prince Of Suburbia', 'REFLEXIA Prototype ver', 'Sugar Style', 'Waifu Hub']
-    YOU, you, user, <USER>를 you로 변경
-['AIR', 'Aokana - Four Rhythms Across the Blue', 'CLANNAD','Comyu - Kuroi Ryuu to Yasashii Oukoku','CrossChannel', 'Nurse Love Addiction', 'Nurse Love Syndrome', 'Rewrite', 'Sorcery Jokers', 'TheDevilOnGstring']
+    YOU, you, user, <USER>를 you로 변경+
