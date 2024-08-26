@@ -1,8 +1,4 @@
 .venv
 dataset/novel-character_info
-dataset/visual-novels
-dataset/visual-novels-yaml
-dataset/visual-novels-yaml-v2
-dataset/visual-novels-yaml-v3
-dataset/visual-novels-yaml-v4
+dataset/visual*
 dataset/VNDB
