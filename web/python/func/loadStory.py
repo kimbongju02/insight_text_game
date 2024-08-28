@@ -3,7 +3,7 @@ import json
 
 currnet_path = os.getcwd()
 
-dataset_path = os.path.join(currnet_path, '../../../datasets')
+dataset_path = os.path.join(currnet_path, '../../dataset')
 novelData_path = os.path.join(dataset_path, 'novel_data.json')
 
 def load_all_novel_data():
@@ -12,5 +12,5 @@ def load_all_novel_data():
     
 def load_novel_data(idx):
     with open(novelData_path, 'r', encoding="UTF-8") as f:
-        result =  json.load(f)
-        return result[idx]
+        result = json.load(f)
+    return result[idx]

@@ -18,10 +18,11 @@ async function story_html(story){
 
 //어떻게 idx값을 가져와서 보낼 수가 있을까?
 function request_story(idx){
-    fetch('/story_info/'+idx)
+    fetch('/detail/info/'+idx)
     .then(response => response.json())
     .then(data=>{
-        story_html(data);
+        console.log(data['data']);
+        story_html(data['data']);
     })
     .catch(error=>{
         console.error('Error:', error);

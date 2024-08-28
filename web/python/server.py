@@ -4,6 +4,8 @@ from starlette.middleware.cors import CORSMiddleware
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 
+import os
+
 from router import detailStoryR, storyListR
 
 app = FastAPI()
@@ -20,13 +22,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-templates = Jinja2Templates(directory="../html")
-app.mount("/static", StaticFiles(directory="../static"), name="static")
+app.include_router(detailStoryR.router)
+app.include_router(storyListR.router)
 
+templates = Jinja2Templates(directory="../html")
+
+app.mount("/img", StaticFiles(directory="../static/img"), name="img")
+app.mount("/css", StaticFiles(directory="../static/css"), name="css")
+app.mount("/list", StaticFiles(directory="../static"), name="list")
+app.mount("/detail/story", StaticFiles(directory="../static"), name="detail")
 
 @app.get("/")
 async def root(request: Request):
     return templates.TemplateResponse("mainPage.html", {"request": request})
 
-app.include_router(detailStoryR.router)
-app.include_router(storyListR.router)

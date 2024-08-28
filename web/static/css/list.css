@@ -84,21 +84,27 @@ body {
     padding: 0 10%;
 }
 
+.content {
+	overflow-y: scroll;
+    display: flex;
+    height: 74vh;
+    width: 100%; /* 필요에 따라 width 설정 */
+}
+.content::-webkit-scrollbar { /* 스크롤바 영역 전체*/
+	width: 10px;
+	
+}
+.content::-webkit-scrollbar-thumb { /* 스크롤 막대 */
+	background-color: #6B7C7A;
+	border-radius: 50px;
+}
+.content::-webkit-scrollbar-track { /* 스크롤 여백 */
+	background-color: transparent;
+}
+
 .mid {
-	padding: 6vh 8vh 0 8vh;
+    padding: 6vh 8vh 0 8vh;
 }
-
-.up-box {
-	position: relative;
-	overflow: hidden;
-	width: 31.153vh;
-    height: 30.47vh;
-	border-radius: 20px;
-	background-position: center center;
-    background-size: 100% 100%;
-    opacity: 0.45;
-}
-
 
 .down-box {
 	position: relative;
