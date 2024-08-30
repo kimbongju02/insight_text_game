@@ -6,7 +6,7 @@ from fastapi.staticfiles import StaticFiles
 
 import os
 
-from router import detailStoryR, storyListR
+from router import detailStoryR, storyListR, createStoryR
 
 app = FastAPI()
 
@@ -24,6 +24,7 @@ app.add_middleware(
 
 app.include_router(detailStoryR.router)
 app.include_router(storyListR.router)
+app.include_router(createStoryR.router)
 
 templates = Jinja2Templates(directory="../html")
 
@@ -31,6 +32,7 @@ app.mount("/img", StaticFiles(directory="../static/img"), name="img")
 app.mount("/css", StaticFiles(directory="../static/css"), name="css")
 app.mount("/list", StaticFiles(directory="../static"), name="list")
 app.mount("/detail/story", StaticFiles(directory="../static"), name="detail")
+app.mount("/create", StaticFiles(directory="../static"), name="create")
 
 @app.get("/")
 async def root(request: Request):

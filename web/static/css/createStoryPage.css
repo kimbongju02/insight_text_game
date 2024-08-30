@@ -1,0 +1,185 @@
+@font-face {
+	font-family: 'Noto Sans KR';font-style: normal;
+	font-weight: 400;
+	src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff2) format('woff2'),url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff) format('woff'),url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.otf) format('opentype');
+	}
+
+body, h1, h2, h3, h4, h5, h6, input, textarea, select {
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+body {
+	margin: 0;
+	width: auto;
+	height: 100vh;
+}
+
+.header {
+	display: flex;
+	justify-content: center;
+	gap: 7px;
+	width: 100%;
+	padding: 10px 0 10px 0;
+	background: #0F0F12;
+}
+
+.header img {
+    width: 64.36px;
+	height: 57px;
+	opacity: 0.7;
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+}
+
+.insight-story {
+	width: 260px;
+	height: 57px;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 58px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #84B9B3;
+}
+
+.back {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 142px;
+    height: 38.22px;
+    padding: 10px 64px;
+    color: #6B9691;
+}
+
+.icon {
+	position: relative;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	width: 41px;
+	height: 38.12px;
+	border-radius: 50%;
+	border: 3.5px solid;
+}
+
+.back-text {
+	position: relative;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	width: 110px;
+	height: 35.33px;
+	padding-left: 7px;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.contents {
+    position: relative;
+    display: flex;
+    justify-content: center;  /* 수직 방향으로 중앙 정렬 */
+    align-items: center;      /* 수평 방향으로 중앙 정렬 */
+    width: 100%;
+    height: 100%;
+    flex-direction: column;   /* 자식 요소를 수직으로 정렬 */
+}
+
+.subtitle {
+	font-size: 24px;
+}
+
+.title {
+	position: relative;
+	transform: translateY(-11px);
+    padding-bottom: 5px;
+	font-weight: bold;
+	font-size: 64px;
+	border-bottom: solid 3px #FFF;
+
+}
+
+.img-box {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 530px;
+    height: 682px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.img-box img {
+	width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.start {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 5vh;
+    margin-bottom: 10vh;
+	width: 338px;
+	height: 66px;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 4px;
+	color: #FFF;
+	background-color: #1B9C8E;
+    cursor:pointer;
+    margin-left: 90vh; /* 요소를 오른쪽으로 정렬 */
+}
+
+.container {
+    flex-direction: column;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	/*opacity: 0.7;*/
+	background-size: cover;
+	background-position: center;
+    background-image: url('../img/background.png');
+}
+
+.character{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    margin-top: 8vh;
+    overflow-y: auto;
+}
+
+.name{
+    flex-grow: 0;
+    width: 20vh;
+    height: 5vh;
+    margin-left: 10vh;
+    opacity: 0.5;
+    border-radius: 15px;
+    background: rgba(69, 81, 79, 0.56);
+}
+
+.feature{
+    flex-grow:0;
+    margin-left: 10vh;
+    width: 85vh;
+    height: 10vh;
+    background: rgba(69, 81, 79, 0.56);
+    opacity: 0.5;
+    border-radius: 15px;
+}
+
+.add-button{
+    box-sizing: border-box;
+}
+
+.story{
+
+}
