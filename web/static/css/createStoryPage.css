@@ -16,11 +16,13 @@ body {
 
 .header {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 	gap: 7px;
 	width: 100%;
 	padding: 10px 0 10px 0;
-	background: #0F0F12;
+	
 }
 
 .header img {
@@ -33,7 +35,7 @@ body {
 }
 
 .insight-story {
-	width: 260px;
+	width: auto;
 	height: 57px;
 	font-family: 'Noto Sans KR';
 	font-style: normal;
@@ -44,6 +46,7 @@ body {
 	align-items: center;
 	text-align: center;
 	color: #84B9B3;
+	gap: 3vh;
 }
 
 .back {
@@ -80,13 +83,15 @@ body {
 }
 
 .contents {
+	margin: 0 auto;
     position: relative;
     display: flex;
     justify-content: center;  /* 수직 방향으로 중앙 정렬 */
     align-items: center;      /* 수평 방향으로 중앙 정렬 */
-    width: 100%;
+    width: 80%;
     height: 100%;
     flex-direction: column;   /* 자식 요소를 수직으로 정렬 */
+	
 }
 
 .subtitle {
@@ -133,7 +138,8 @@ body {
 	color: #FFF;
 	background-color: #1B9C8E;
     cursor:pointer;
-    margin-left: 90vh; /* 요소를 오른쪽으로 정렬 */
+	float: right;
+	margin-right: 20vh;
 }
 
 .container {
@@ -150,15 +156,17 @@ body {
 .character{
     display: flex;
     flex-direction: row;
+	justify-content: center;
     width: 100%;
     height: 100%;
     margin-top: 8vh;
     overflow-y: auto;
+	gap:10vh;
 }
 
 .name{
     flex-grow: 0;
-    width: 20vh;
+    width: 16%;
     height: 5vh;
     margin-left: 10vh;
     opacity: 0.5;
@@ -169,7 +177,7 @@ body {
 .feature{
     flex-grow:0;
     margin-left: 10vh;
-    width: 85vh;
+    width: 60%;
     height: 10vh;
     background: rgba(69, 81, 79, 0.56);
     opacity: 0.5;
