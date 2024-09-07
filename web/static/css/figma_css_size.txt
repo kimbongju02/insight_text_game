@@ -1,0 +1,1422 @@
+/* 소설 등록 페이지_2 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+
+
+/* Novel Detail Background */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+
+
+/* bg image */
+
+position: absolute;
+width: 1439.25px;
+height: 1019.89px;
+left: 0.75px;
+top: 1.9px;
+
+background: url(1137797.jpg);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: rgba(15, 15, 15, 0.65);
+opacity: 0.9;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1440px;
+height: 1023.05px;
+left: 0px;
+top: 0px;
+
+background: radial-gradient(136.03% 54.57% at 50% 48.04%, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0) 60.63%, #080A0B 99.74%);
+
+
+/* Group 46 */
+
+position: absolute;
+width: 142px;
+height: 38.22px;
+left: 71px;
+top: 77px;
+
+
+
+/* arrow-circle-right */
+
+position: absolute;
+width: 41px;
+height: 38.12px;
+left: 112px;
+top: 115.22px;
+
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 7.54%;
+right: 90.09%;
+top: 10.94%;
+bottom: 85.96%;
+
+border: 3.5px solid #6B9691;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.5%;
+right: 93.08%;
+top: 9.94%;
+bottom: 88.97%;
+
+border: 3.5px solid #6B9691;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 4.93%;
+right: 92.22%;
+top: 7.53%;
+bottom: 88.75%;
+
+opacity: 0;
+border: 3.5px solid #6B9691;
+
+
+/* h3 */
+
+position: absolute;
+left: 8.54%;
+right: 85.21%;
+top: 7.52%;
+bottom: 89.03%;
+
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #6B9691;
+
+
+
+/* 소설 상세 페이지 - v2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 10px;
+gap: 7px;
+
+position: absolute;
+width: 1440px;
+height: 77px;
+left: 0px;
+top: 0px;
+
+/* Background */
+background: #0F0F12;
+
+
+/* Group 41 */
+
+width: 64.36px;
+height: 57px;
+
+opacity: 0.7;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 원 */
+
+position: absolute;
+width: 41.97px;
+height: 47.48px;
+left: 565.51px;
+top: 10px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* 원 */
+
+position: absolute;
+width: 41.97px;
+height: 47.48px;
+left: 565.51px;
+top: 10px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* Ellipse 42 */
+
+position: absolute;
+width: 5.6px;
+height: 6.33px;
+left: 583.7px;
+top: 29.63px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 133 */
+
+position: absolute;
+width: 1.96px;
+height: 22.16px;
+left: 585.51px;
+top: 35.32px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 134 */
+
+position: absolute;
+width: 1.4px;
+height: 4.12px;
+left: 585.65px;
+top: 22.98px;
+
+background: #FFFFFF;
+border-radius: 8px;
+
+
+/* Rectangle 135 */
+
+position: absolute;
+width: 1.49px;
+height: 3.9px;
+left: 591.76px;
+top: 25.51px;
+
+background: #FFFFFF;
+border-radius: 8px;
+transform: matrix(0.69, 0.72, -0.63, 0.77, 0, 0);
+
+
+/* Rectangle 136 */
+
+position: absolute;
+width: 1.49px;
+height: 3.9px;
+left: 579.78px;
+top: 26.59px;
+
+background: #FFFFFF;
+border-radius: 8px;
+transform: matrix(0.69, -0.72, 0.63, 0.77, 0, 0);
+
+
+/* Rectangle 137 */
+
+position: absolute;
+width: 1.58px;
+height: 3.64px;
+left: 591.39px;
+top: 33.58px;
+
+background: #FFFFFF;
+border-radius: 8px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 138 */
+
+position: absolute;
+width: 1.58px;
+height: 3.64px;
+left: 577.96px;
+top: 33.58px;
+
+background: #FFFFFF;
+border-radius: 8px;
+transform: rotate(-90deg);
+
+
+/* Group 17 */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+background: linear-gradient(180deg, #A84AC9 0%, #A147C7 0.01%, #3114A2 98.15%);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 67.11px;
+height: 15.4px;
+left: 552.6px;
+top: 35.96px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 56.04px;
+height: 10.31px;
+left: 558.34px;
+top: 37.36px;
+
+background: #C44E4E;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 43.68px;
+height: 29.78px;
+left: 564.39px;
+top: 9.05px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 152.75%);
+
+
+/* 원 */
+
+position: absolute;
+width: 44.63px;
+height: 50.49px;
+left: 564.39px;
+top: 9.05px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 59.21px;
+height: 36.97px;
+left: 558.09px;
+top: 40.65px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.26, 0.21, 0.98, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 619.51px;
+top: 22.03px;
+
+background: linear-gradient(180deg, #A84AC9 0%, #A147C7 0.01%, #3114A2 98.15%);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 619.51px;
+top: 22.03px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 67.11px;
+height: 15.4px;
+left: 617.79px;
+top: 36.44px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 56.04px;
+height: 10.31px;
+left: 623.53px;
+top: 37.84px;
+
+background: #C44E4E;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 43.68px;
+height: 29.78px;
+left: 629.58px;
+top: 9.53px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 152.75%);
+
+
+/* 원 */
+
+position: absolute;
+width: 44.63px;
+height: 50.49px;
+left: 629.58px;
+top: 9.53px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 59.21px;
+height: 36.97px;
+left: 623.29px;
+top: 41.13px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.26, 0.21, 0.98, 0, 0);
+
+
+/* Ellipse 43 */
+
+position: absolute;
+width: 26.86px;
+height: 3.17px;
+left: 573.06px;
+top: 60.49px;
+
+background: linear-gradient(180deg, #B14DCB 19.57%, #3D19A6 95.65%);
+
+
+/* Subtract */
+
+position: absolute;
+width: 21.54px;
+height: 2.23px;
+left: 575.86px;
+top: 64.77px;
+
+background: linear-gradient(180deg, #B14DCB -17.71%, #3D19A6 71.85%);
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 21.54px;
+height: 2.63px;
+left: 575.86px;
+top: 64.37px;
+
+background: linear-gradient(180deg, #B14DCB 0%, #3D19A6 76.09%);
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 41.78px;
+height: 4.12px;
+left: 564.98px;
+top: 60.82px;
+
+background: linear-gradient(180deg, #B14DCB 0%, #3D19A6 76.09%);
+
+
+/* 원 */
+
+position: absolute;
+width: 41.97px;
+height: 47.48px;
+left: 565.51px;
+top: 10px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* 원 */
+
+position: absolute;
+width: 41.97px;
+height: 47.48px;
+left: 565.51px;
+top: 10px;
+
+background: linear-gradient(180deg, #19D3BE 8%, #1C47B7 100%);
+
+
+/* Ellipse 44 */
+
+position: absolute;
+width: 5.6px;
+height: 6.33px;
+left: 583.7px;
+top: 29.63px;
+
+background: #000000;
+
+
+/* Rectangle 139 */
+
+position: absolute;
+width: 1.96px;
+height: 22.16px;
+left: 585.51px;
+top: 35.32px;
+
+background: #000000;
+
+
+/* Rectangle 140 */
+
+position: absolute;
+width: 1.4px;
+height: 4.12px;
+left: 585.65px;
+top: 22.98px;
+
+background: #000000;
+border-radius: 8px;
+
+
+/* Rectangle 141 */
+
+position: absolute;
+width: 1.49px;
+height: 3.9px;
+left: 591.76px;
+top: 25.51px;
+
+background: #000000;
+border-radius: 8px;
+transform: matrix(0.69, 0.72, -0.63, 0.77, 0, 0);
+
+
+/* Rectangle 142 */
+
+position: absolute;
+width: 1.49px;
+height: 3.9px;
+left: 579.78px;
+top: 26.59px;
+
+background: #000000;
+border-radius: 8px;
+transform: matrix(0.69, -0.72, 0.63, 0.77, 0, 0);
+
+
+/* Rectangle 143 */
+
+position: absolute;
+width: 1.58px;
+height: 3.64px;
+left: 591.39px;
+top: 33.58px;
+
+background: #000000;
+border-radius: 8px;
+transform: rotate(-90deg);
+
+
+/* Rectangle 144 */
+
+position: absolute;
+width: 1.58px;
+height: 3.64px;
+left: 577.96px;
+top: 33.58px;
+
+background: #000000;
+border-radius: 8px;
+transform: rotate(-90deg);
+
+
+/* Group 18 */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+background: linear-gradient(180deg, #25DAC5 0%, #19D3BE 0.01%, #103AA5 98.15%);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 554.32px;
+top: 21.55px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 67.11px;
+height: 15.4px;
+left: 552.6px;
+top: 35.96px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 56.04px;
+height: 10.31px;
+left: 558.34px;
+top: 37.36px;
+
+background: #C44E4E;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 43.68px;
+height: 29.78px;
+left: 564.39px;
+top: 9.05px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 152.75%);
+
+
+/* 원 */
+
+position: absolute;
+width: 44.63px;
+height: 50.49px;
+left: 564.39px;
+top: 9.05px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 59.21px;
+height: 36.97px;
+left: 558.09px;
+top: 40.65px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.26, 0.21, 0.98, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 619.51px;
+top: 22.03px;
+
+background: linear-gradient(180deg, #A84AC9 0%, #A147C7 0.01%, #3114A2 98.15%);
+
+
+/* Subtract */
+
+position: absolute;
+width: 64.36px;
+height: 24.47px;
+left: 619.51px;
+top: 22.03px;
+
+background: #D9D9D9;
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 67.11px;
+height: 15.4px;
+left: 617.79px;
+top: 36.44px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 56.04px;
+height: 10.31px;
+left: 623.53px;
+top: 37.84px;
+
+background: #C44E4E;
+transform: matrix(0.96, -0.29, 0.23, 0.97, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 43.68px;
+height: 29.78px;
+left: 629.58px;
+top: 9.53px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 152.75%);
+
+
+/* 원 */
+
+position: absolute;
+width: 44.63px;
+height: 50.49px;
+left: 629.58px;
+top: 9.53px;
+
+background: linear-gradient(180deg, #DC4553 0%, #6400DA 90.1%);
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 59.21px;
+height: 36.97px;
+left: 623.29px;
+top: 41.13px;
+
+background: #D9D9D9;
+transform: matrix(0.96, -0.26, 0.21, 0.98, 0, 0);
+
+
+/* Ellipse 45 */
+
+position: absolute;
+width: 26.86px;
+height: 3.17px;
+left: 573.06px;
+top: 60.49px;
+
+background: #163FA8;
+
+
+/* Subtract */
+
+position: absolute;
+width: 21.54px;
+height: 2.23px;
+left: 575.86px;
+top: 64.77px;
+
+background: linear-gradient(180deg, #163FA8 -17.71%, #0F3084 71.85%);
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 21.54px;
+height: 2.63px;
+left: 575.86px;
+top: 64.37px;
+
+background: linear-gradient(180deg, #9045DC 0%, #3D19A6 76.09%);
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 41.78px;
+height: 4.12px;
+left: 564.98px;
+top: 60.82px;
+
+background: linear-gradient(180deg, #B14DCB 0%, #3D19A6 76.09%);
+
+
+/* Insight Story */
+
+width: 260px;
+height: 57px;
+
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #84B9B3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 47 */
+
+position: absolute;
+width: 142px;
+height: 38.22px;
+left: 71px;
+top: 77px;
+
+
+
+/* arrow-circle-right */
+
+position: absolute;
+width: 41px;
+height: 38.12px;
+left: 112px;
+top: 115.22px;
+
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 7.54%;
+right: 90.09%;
+top: 10.94%;
+bottom: 85.96%;
+
+border: 3.5px solid #6B9691;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 6.5%;
+right: 93.08%;
+top: 9.94%;
+bottom: 88.97%;
+
+border: 3.5px solid #6B9691;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 4.93%;
+right: 92.22%;
+top: 7.53%;
+bottom: 88.75%;
+
+opacity: 0;
+border: 3.5px solid #6B9691;
+
+
+/* h3 */
+
+position: absolute;
+left: 8.54%;
+right: 85.21%;
+top: 7.52%;
+bottom: 89.03%;
+
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #6B9691;
+
+
+
+/* 상세 내용 Frame */
+
+position: absolute;
+width: 1298px;
+height: 888px;
+left: calc(50% - 1298px/2);
+top: 108px;
+
+
+
+/* Frame 682 */
+
+position: absolute;
+width: 1284px;
+height: 757px;
+left: 0px;
+top: 50px;
+
+
+
+/* about game text */
+
+position: absolute;
+width: 733px;
+height: 70px;
+left: 0px;
+top: 434px;
+
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Frame 675 */
+
+position: absolute;
+width: 1202px;
+height: 257px;
+left: 0px;
+top: 500px;
+
+background: rgba(69, 81, 79, 0.56);
+border-radius: 15px;
+
+
+/* Group 22 */
+
+position: absolute;
+width: 1124.81px;
+height: 222.98px;
+left: 27px;
+top: 4.05px;
+
+
+
+/* about game text */
+
+position: absolute;
+left: 2.25%;
+right: 4.18%;
+top: 1.58%;
+bottom: 11.66%;
+
+/* Main */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+
+
+/* .Thumb Size / 50% */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 6px;
+height: 297px;
+left: 1196px;
+top: 0px;
+
+
+
+/* Thumb */
+
+width: 6px;
+height: 148.5px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Track Spacer */
+
+width: 6px;
+height: 148.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Thumb */
+
+position: absolute;
+width: 10px;
+left: calc(50% - 10px/2 + 637px);
+top: 0px;
+bottom: 201px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+
+/* Regenerate Response Button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 30px;
+gap: 10px;
+
+position: absolute;
+width: 175px;
+height: 54px;
+left: calc(50% - 175px/2 + 7.5px);
+top: 310px;
+
+background: rgba(69, 81, 79, 0.56);
+border: 1px solid #ABB4B3;
+box-shadow: 0px 0px 10px rgba(223, 239, 237, 0.65);
+border-radius: 45px;
+
+
+/* 추가하기 */
+
+width: 74px;
+height: 29px;
+
+/* Button */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 676 */
+
+position: absolute;
+width: 189px;
+height: 38px;
+left: 0px;
+top: 87px;
+
+background: rgba(69, 81, 79, 0.56);
+border-radius: 15px;
+
+
+/* Group 22 */
+
+position: absolute;
+width: 176.86px;
+height: 32.97px;
+left: 4.25px;
+top: 0.6px;
+
+
+
+/* about game text */
+
+position: absolute;
+left: 2.25%;
+right: 4.18%;
+top: 1.58%;
+bottom: 11.66%;
+
+/* Main */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+
+
+/* .Thumb Size / 50% */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 6px;
+height: 297px;
+left: 1196px;
+top: 0px;
+
+
+
+/* Thumb */
+
+display: none;
+width: 6px;
+height: 140px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Track Spacer */
+
+width: 6px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 678 */
+
+position: absolute;
+width: 950px;
+height: 77px;
+left: 252px;
+top: 87px;
+
+background: rgba(69, 81, 79, 0.56);
+border-radius: 15px;
+
+
+/* .Thumb Size / 50% */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 6px;
+height: 297px;
+left: 1196px;
+top: 0px;
+
+
+
+/* Thumb */
+
+display: none;
+width: 6px;
+height: 140px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Track Spacer */
+
+width: 6px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* 등장인물의 성격, 특징 등을 적어주세요. 미입력 시 랜덤하게 적용됩니다. */
+
+position: absolute;
+width: 394px;
+height: 70px;
+left: 20px;
+top: calc(50% - 70px/2 + 0.5px);
+
+/* Main */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+
+
+/* Frame 679 */
+
+position: absolute;
+width: 189px;
+height: 38px;
+left: 0px;
+top: 197px;
+
+background: rgba(69, 81, 79, 0.56);
+opacity: 0.5;
+border-radius: 15px;
+
+
+/* Group 22 */
+
+position: absolute;
+width: 176.86px;
+height: 32.97px;
+left: 4.25px;
+top: 0.6px;
+
+
+
+/* about game text */
+
+position: absolute;
+left: 2.25%;
+right: 4.18%;
+top: 1.58%;
+bottom: 11.66%;
+
+/* Main */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* .Thumb Size / 50% */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 6px;
+height: 297px;
+left: 1196px;
+top: 0px;
+
+
+
+/* Thumb */
+
+display: none;
+width: 6px;
+height: 140px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Track Spacer */
+
+width: 6px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 680 */
+
+position: absolute;
+width: 950px;
+height: 77px;
+left: 252px;
+top: 197px;
+
+background: rgba(69, 81, 79, 0.56);
+border-radius: 15px;
+
+
+/* .Thumb Size / 50% */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 6px;
+height: 297px;
+left: 1196px;
+top: 0px;
+
+
+
+/* Thumb */
+
+display: none;
+width: 6px;
+height: 140px;
+
+background: #6B7C7A;
+border-radius: 3px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Track Spacer */
+
+width: 6px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* 등장인물의 성격, 특징 등을 적어주세요. 미입력 시 랜덤하게 적용됩니다. */
+
+position: absolute;
+width: 394px;
+height: 70px;
+left: 20px;
+top: calc(50% - 70px/2 + 0.5px);
+
+/* Main */
+font-family: 'Noto Sans KR';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: justify;
+
+color: #FFFFFF;
+
+opacity: 0.5;

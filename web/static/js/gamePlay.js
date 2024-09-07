@@ -3,6 +3,7 @@ const options = document.querySelector('.options');
 const history = document.querySelector('.history');
 const background_container = document.querySelector('.container');
 const story_id = background_container.id;
+let data = {}
 
 var part_cnt = 0;
 const data_history = {};
@@ -11,11 +12,19 @@ var option_cnt=0;
 
 // history 영역 포커스 아래 고정
 window.onload = function() {
+    try{
+        data = JSON.parse(localStorage.getItem("data"));
+        localStorage.removeItem('data');
+    }catch(e){
+        console.log('error code : ', e);
+    }
+    /*
     load_image_ofstory(story_id);
     load_start_story(story_id);
 
     var historyContainer = document.querySelector('.history');
     historyContainer.scrollTop = historyContainer.scrollHeight;
+    */
 };
 
 // chat 영역 포커스 아래 고정

@@ -1,4 +1,5 @@
 import uvicorn
+# uvicorn server:app --reload
 from fastapi import FastAPI, Request, Response, APIRouter
 from starlette.middleware.cors import CORSMiddleware
 from fastapi.templating import Jinja2Templates
@@ -6,7 +7,7 @@ from fastapi.staticfiles import StaticFiles
 
 import os
 
-from router import detailStoryR, storyListR, createStoryR
+from router import detailStoryR, storyListR, createStoryR, playGameR
 
 app = FastAPI()
 
@@ -25,14 +26,18 @@ app.add_middleware(
 app.include_router(detailStoryR.router)
 app.include_router(storyListR.router)
 app.include_router(createStoryR.router)
+app.include_router(playGameR.router)
 
 templates = Jinja2Templates(directory="../html")
 
 app.mount("/img", StaticFiles(directory="../static/img"), name="img")
 app.mount("/css", StaticFiles(directory="../static/css"), name="css")
+app.mount("/js", StaticFiles(directory="../static/js"), name="js")
 app.mount("/list", StaticFiles(directory="../static"), name="list")
 app.mount("/detail/story", StaticFiles(directory="../static"), name="detail")
 app.mount("/create", StaticFiles(directory="../static"), name="create")
+app.mount("/user", StaticFiles(directory="../static"), name="userStory")
+app.mount("/local/story", StaticFiles(directory="../static"), name="localStory")
 
 @app.get("/")
 async def root(request: Request):
