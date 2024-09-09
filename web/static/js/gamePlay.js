@@ -2,6 +2,11 @@ const chat_div = document.querySelector('.chat');
 const options = document.querySelector('.options');
 const history = document.querySelector('.history');
 const background_container = document.querySelector('.container');
+const mainContainer = document.querySelector('.container');
+const homeImage = document.querySelector('.home-button .icon');
+const homeText = document.querySelector(".home-button .home-text");
+const logo_a = document.getElementById('logo-a');
+const game_div = document.getElementById('game-div');
 const story_id = background_container.id;
 let data = {}
 
@@ -229,7 +234,7 @@ function one_word_one_time(div, story){
                 }
             }, interval);
         } catch (TypeError) {
-            goRoot_modal();
+            console.log("load story error")
         }
         
     });
@@ -360,13 +365,6 @@ function select_change_modal(text) {
     modal.style.display = "flex";
 }
 
-// home-button 클릭 시 모달 표시
-const homeButton = document.querySelector('.home-button');
-homeButton.addEventListener('click', function(event) {
-    event.preventDefault();
-    goMain_modal();
-});
-
 // 메인화면으로 이동 모달 생성
 function goMain_modal() {
     // 기존 모달을 제거
@@ -421,41 +419,6 @@ function goMain_modal() {
     }
 }
 
-// 메인화면으로 이동 모달 생성
-function goRoot_modal() {
-    // 기존 모달을 제거
-    const existingModal = document.getElementById("myModal");
-    if (existingModal) {
-        existingModal.remove();
-    }
-
-    const modalHtml = `
-        <div id="myModal" class="modal">
-            <div class="modal-content">
-                <span class="close">&times;</span>
-                <p>GPT API KEY 입력이 잘못되었습니다. 시작 페이지로 돌아갑니다.</p>
-                <div class="button-container">
-                    <button id="homeSubmitBtn">확인</button>
-                </div>
-            </div>
-        </div>
-    `;
-    document.body.insertAdjacentHTML('beforeend', modalHtml);
-
-    // 모달 엘리먼트 가져오기
-    const modal = document.getElementById("myModal");
-    const span = document.getElementsByClassName("close")[0];
-    const homeSubmitBtn = document.getElementById("homeSubmitBtn");
-
-    modal.style.display = "flex";
-
-    // 확인 버튼 클릭 시
-    homeSubmitBtn.onclick = function() {
-        modal.style.display = "none";
-        window.location.href = '/';
-    }
-}
-
 // 분기를 클릭하여 돌아갈 때 스토리 전달을 위해 사용하는 함수들
 function save_data_history(data){
     data_history[part_cnt] = data;
@@ -476,3 +439,40 @@ function delete_choice_history(part_cnt){
     delete choice_history[part_cnt];
     console.log(choice_history);
 }
+
+// 햄버거 버튼 클릭 시 동작
+document.getElementById('hamburger').addEventListener('change', function() {
+    const isChecked = this.checked;
+    
+    if (isChecked) {
+        able_hamburger()
+    } else {
+        disable_hamburger();
+    }
+})
+
+// 햄버거 창에서 마우스 벗어났을 때
+document.querySelector('.sidebar').addEventListener('mouseleave', function() {
+    document.getElementById('hamburger').checked = false;
+    disable_hamburger();
+})
+
+function able_hamburger(){
+    logo_a.style.opacity = '0.2';
+    game_div.style.opacity = '0.2';
+    disable_history();
+    homeImage.style.pointerEvents = 'none';
+    homeText.style.pointerEvents = 'none';
+}
+
+function disable_hamburger(){
+    logo_a.style.opacity = '1';
+    game_div.style.opacity = '1';
+    enable_history();
+    homeImage.style.pointerEvents = 'auto';
+    homeText.style.pointerEvents = 'auto';
+}
+
+function goBack() {
+    window.history.back();
+};

@@ -23,12 +23,9 @@ body {
 
 .wrap {
 	display: flex;
-	margin: 37px ;
-	width: 1440px;
-	height: 857px;
-	top: 114px;
-	margin-left: 75px;
-	margin-right: 75px;
+	width: 100%;
+	height: 100%;
+    margin-top: 5vh;
 }
 
 .insight-story {
@@ -45,13 +42,21 @@ body {
 	color: #84B9B3;
 }
 
+#game-div{
+    width: 90%;
+    position: relative;
+    display: flex;
+}
 .chat-container {
-	width: 70%;
+    display: flex;
+    flex-direction: column;
+	width: 80%;
+    height: 70vh;
 }
 
 .chat {
 	overflow-y: auto;
-	height:780px;
+	height:100%;
 }
 
 .chat::-webkit-scrollbar {
@@ -64,11 +69,17 @@ body {
     border-radius: 10px;
 }
 
+.main-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
 .container {
 	display: flex;
+    flex-direction: column;
 	width: 100%;
-	height: 947px;
-	/*opacity: 0.7;*/
+	height: 100%;
 	background-size: cover;
 	background-position: center;
 }
@@ -110,51 +121,26 @@ body {
 .history-wrapper {
     display: flex;
     flex-direction: column;
-    margin-left: 34px;
-}
-
-.home-button {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    margin-bottom: 10px;
-    opacity: 0.7;
-}
-
-/*.home-button a {
-    text-decoration: none;
-    font-family: 'Noto Sans KR';
-    font-weight: 700;
-    font-size: 1.5rem;
-    color: #78A49F;
-}*/
-
-.icon {
-	display: flex;
-}
-
-.icon img {
-	color: #78A49F;
-}
-
-.home-text {
-	text-decoration: none;
-    font-family: 'Noto Sans KR';
-    font-weight: 700;
-    font-size: 1.25rem;
-    color: #78A49F;
-    padding-left: 6px;
+    margin-left: 10vh;
 }
 
 .history-container {
-    width: 347px;
+    width: 15vh;
     padding: 20px;
     background-color: rgba(214, 214, 214, 0.2);
     border-radius: 10px;
-    margin-left: 34px;
     display: flex;
     flex-direction: column;
-    height: 770px;
+    height: 100%;
+}
+.history-container:hover{
+    width: 25vh;
+    padding: 20px;
+    background-color: rgba(214, 214, 214, 0.2);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .history-container p {
@@ -164,11 +150,11 @@ body {
     font-size: 1.5rem;
     line-height: 35px;
     text-align: center;
-    color: #78A49F;
+    color: #1DA494;
     margin: 0;
 }
 
-.history {
+.history-text {
     overflow-y: auto;
     display: flex;
     flex-grow: 1;
@@ -193,7 +179,7 @@ body {
 	font-size: 16px;
 	line-height: 23px;
 	text-align: left;
-	color: #78A49F;
+	color: #1DA494;
 	text-shadow: 0px 0px 10px rgba(30, 236, 236, 0.5);
 	width: 270px;
     overflow: hidden;
@@ -223,12 +209,12 @@ body {
 	width: 23px;
 	height: 23px;
 	border-radius: 15px;
-	background-color: #78A49F;
+	background-color: #1DA494;
 	margin-left: 19px;
 }
 
 .line {
-	border-left : thick dashed #78A49F;
+	border-left : thick dashed #1DA494;
     height : 73px;
     right: 18.5px;
     position: relative;
@@ -236,16 +222,12 @@ body {
 
 .options {
 	display: flex;
-	position: fixed;
+	position: relative;
 	justify-content: space-between;
 	align-items: center;
 	width: 70%; 
-    bottom: 50px;
     max-width: 800px;
-    margin-left: 50px;
-	margin-right: 50px;
 }
-
 
 .options button {
     display: flex;
@@ -427,3 +409,130 @@ button {
     color: white;
     border: 1px solid #888;
 }
+
+.settings {
+    position: relative; /* 새로운 레이어 생성 */
+    width: 5%;
+    height: 5vh;
+    margin-left: 5vh;
+    background-color: #fff; /* 배경색 설정으로 시각적 구분 */
+    opacity: 1; /* 자식 요소의 투명도 설정 */
+    z-index: 10; /* 부모 위로 배치 */
+}
+
+/* 햄버거 버튼*/
+a {text-decoration: none;
+    color: #1DA494;}
+
+* {margin: 0; padding: 0;}
+
+
+input[id="hamburger"] {
+  display: none;
+}
+input[id="hamburger"] + label {
+  display: block;
+  width: 5vh;
+  height: 4vh;
+  position: relative;
+  cursor: pointer;
+}
+input[id="hamburger"] + label span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  border-radius: 30px;
+  background: #1DA494;
+  transition: all 0.35s;
+}
+input[id="hamburger"] + label span:nth-child(1) {
+  top: 0;
+}
+input[id="hamburger"] + label span:nth-child(2) {
+  top: 50%;
+  transform: translateY(-50%);
+}
+input[id="hamburger"] + label span:nth-child(3) {
+  bottom: 0;
+}
+input[id="hamburger"]:checked + label {
+  z-index: 99;
+}
+input[id="hamburger"]:checked + label span {
+  background: #1DA494;
+}
+input[id="hamburger"]:checked + label span:nth-child(1) {
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+}
+input[id="hamburger"]:checked + label span:nth-child(2) {
+  opacity: 0;
+}
+input[id="hamburger"]:checked + label span:nth-child(3) {
+  bottom: 50%;
+  transform: translateY(50%) rotate(-45deg);
+}
+
+
+div[class="sidebar"] {
+  width: 50vh;
+  height: 100%;
+  background: white;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  z-index: 98;
+  transition: all 0.35s;
+}
+
+input[id="hamburger"]:checked + label + div {
+  left: 0;
+}
+
+.nav_mobile {
+    position: absolute;
+    top:20vh;
+    width: 100%;
+    }
+
+.sidebar .nav_mobile li {
+	color:black;
+    position: relative;
+    float:left; 
+    width:100%; 
+    list-style-type:none; 
+    font-size:20px;
+    border-bottom:1px solid #ccc;
+    font-family: 'Noto Sans KR';
+    font-weight:bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    }
+    
+.sidebar a {
+    padding: 0;
+    text-decoration: none;
+    display: block;
+}
+
+.sidebar li a{
+    display:block;
+    font-weight:bold;
+    line-height:40px;
+    margin:0px;
+    padding:0;
+    text-align:center;
+    text-decoration:none;
+    transition: all 0.4s;
+    }
+
+.sidebar li a:hover, .sidebar ul li:hover a {
+    text-decoration: none;
+    color: #eee;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+}
+/* 햄버거 버튼 종료*/
