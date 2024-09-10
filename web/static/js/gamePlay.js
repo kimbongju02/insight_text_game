@@ -1,12 +1,14 @@
 const chat_div = document.querySelector('.chat');
 const options = document.querySelector('.options');
-const history = document.querySelector('.history');
+const history = document.querySelector('.history-logs');
 const background_container = document.querySelector('.container');
 const mainContainer = document.querySelector('.container');
 const homeImage = document.querySelector('.home-button .icon');
 const homeText = document.querySelector(".home-button .home-text");
 const logo_a = document.getElementById('logo-a');
-const game_div = document.getElementById('game-div');
+const settings = document.querySelector('.settings');
+const chatContainer = document.querySelector('.chat-container');
+const historyWrapper = document.querySelector('.history-wrapper');
 const story_id = background_container.id;
 let data = {}
 
@@ -23,13 +25,14 @@ window.onload = function() {
     }catch(e){
         console.log('error code : ', e);
     }
-    /*
-    load_image_ofstory(story_id);
-    load_start_story(story_id);
+    
+    //load_image_ofstory(story_id);
+    //load_start_story(story_id);
+    load_next_story();
 
-    var historyContainer = document.querySelector('.history');
+    var historyContainer = document.querySelector('.history-text');
     historyContainer.scrollTop = historyContainer.scrollHeight;
-    */
+    
 };
 
 // chat 영역 포커스 아래 고정
@@ -76,6 +79,7 @@ function load_next_story(){
     })
     .then(response => response.json())
     .then(data => {
+        console.log(data);
         create_chat_div(data);
     })
     .catch(error => {
@@ -85,7 +89,7 @@ function load_next_story(){
 
 // 스토리를 생성할 때 스토리마다 div 영역을 생성하여 추가
 async function create_chat_div(data) {
-    await disable_history();
+    await deact_history_log();
     const part_container = document.createElement('div');
     part_container.id = 'part-' + part_cnt;
     part_container.setAttribute('data-value', part_cnt);
@@ -96,25 +100,7 @@ async function create_chat_div(data) {
     
     selectButton_event(part_container);
     save_data_history(data);
-    enable_history();
-}
-
-// 스토리 생성 중에 클릭을 막는 함수
-function disable_history() {
-    const history_paragraphs = document.querySelectorAll('.history1, .history2');
-    history_paragraphs.forEach(function(history) {
-        history.addEventListener('click', preventClick, true);
-        history.style.pointerEvents = 'none';
-    });
-}
-
-// 스토리 생성 후 클릭을 허용하는 함수
-function enable_history() {
-    const history_paragraphs = document.querySelectorAll('.history1, .history2');
-    history_paragraphs.forEach(function(history) {
-        history.removeEventListener('click', preventClick, true);
-        history.style.pointerEvents = 'auto';
-    });
+    act_history_log();
 }
 
 // 클릭을 막는 이벤트 리스너
@@ -219,7 +205,7 @@ function selectButton_event(select_part_container){
 function one_word_one_time(div, story){
     return new Promise((resolve) => {
         let index = 0;
-        const interval = 30;
+        const interval = 1;
         try {
             if (story === null) {
                 throw new TypeError();
@@ -249,7 +235,7 @@ function add_history(select_button_text) {
     const history_text = (part_cnt + 1) + '번 선택: ' + select_button_text;
     
     if (part_cnt == 0) {
-        history_element.classList.add('history1');
+        history_element.classList.add('history-log-start');
         var history_p_tag = document.createElement('p'); // 수정된 부분
         history_p_tag.textContent = history_text;
         const history_circle = document.createElement('div');
@@ -258,7 +244,7 @@ function add_history(select_button_text) {
         history_element.appendChild(history_p_tag);
         history_element.appendChild(history_circle);
     } else {
-        history_element.classList.add('history2');
+        history_element.classList.add('history-log');
         var history_p_tag = document.createElement('p'); // 수정된 부분
         history_p_tag.textContent = history_text;
         const history_circle = document.createElement('div');
@@ -419,6 +405,39 @@ function goMain_modal() {
     }
 }
 
+// 스토리 생성 중에 클릭을 막는 함수
+function deact_history_log() {
+    const history_paragraphs = document.querySelectorAll('.history-log-start, .history-log');
+    history_paragraphs.forEach(function(history) {
+        history.addEventListener('click', preventClick, true);
+        history.style.pointerEvents = 'none';
+    });
+}
+
+// 스토리 생성 후 클릭을 허용하는 함수
+function act_history_log() {
+    const history_paragraphs = document.querySelectorAll('.history-log-start, .history-log');
+    history_paragraphs.forEach(function(history) {
+        history.removeEventListener('click', preventClick, true);
+        history.style.pointerEvents = 'auto';
+    });
+}
+
+
+function deact_options_button(){
+    const buttons = document.querySelectorAll('.options button');
+        buttons.forEach(button => {
+            button.disabled = true;
+        });
+}
+
+function act_options_button(){
+    const buttons = document.querySelectorAll('.options button');
+        buttons.forEach(button => {
+            button.disabled = false;
+        });
+}
+
 // 분기를 클릭하여 돌아갈 때 스토리 전달을 위해 사용하는 함수들
 function save_data_history(data){
     data_history[part_cnt] = data;
@@ -445,32 +464,37 @@ document.getElementById('hamburger').addEventListener('change', function() {
     const isChecked = this.checked;
     
     if (isChecked) {
-        able_hamburger()
+        use_setting()
+        deact_history_log();
+        historyWrapper.style.opacity = '0.2';
     } else {
-        disable_hamburger();
+        disuse_setting();
+        act_history_log();
+        historyWrapper.style.opacity = '1';
     }
 })
 
-// 햄버거 창에서 마우스 벗어났을 때
-document.querySelector('.sidebar').addEventListener('mouseleave', function() {
-    document.getElementById('hamburger').checked = false;
-    disable_hamburger();
+document.querySelector('.history-container').addEventListener('mouseover', function() {
+    use_setting();
+    settings.style.opacity = '0.2';
+})
+document.querySelector('.history-container').addEventListener('mouseleave', function() {
+    disuse_setting();
+    settings.style.opacity = '1';
 })
 
-function able_hamburger(){
+function use_setting(){
     logo_a.style.opacity = '0.2';
-    game_div.style.opacity = '0.2';
-    disable_history();
-    homeImage.style.pointerEvents = 'none';
-    homeText.style.pointerEvents = 'none';
+    chatContainer.style.opacity = '0.2';
+    options.style.opacity = '0.2';
+    deact_options_button();
 }
 
-function disable_hamburger(){
+function disuse_setting(){
     logo_a.style.opacity = '1';
-    game_div.style.opacity = '1';
-    enable_history();
-    homeImage.style.pointerEvents = 'auto';
-    homeText.style.pointerEvents = 'auto';
+    chatContainer.style.opacity = '1';
+    options.style.opacity = '1';
+    act_options_button();
 }
 
 function goBack() {

@@ -42,11 +42,6 @@ body {
 	color: #84B9B3;
 }
 
-#game-div{
-    width: 90%;
-    position: relative;
-    display: flex;
-}
 .chat-container {
     display: flex;
     flex-direction: column;
@@ -132,7 +127,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
-}
+}/*
 .history-container:hover{
     width: 25vh;
     padding: 20px;
@@ -141,9 +136,8 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
-}
-
-.history-container p {
+}*/
+.history-text {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 700;
@@ -153,25 +147,21 @@ body {
     color: #1DA494;
     margin: 0;
 }
-
-.history-text {
+.history-logs {
     overflow-y: auto;
+    overflow-x: hidden;
     display: flex;
     flex-grow: 1;
     flex-direction: column-reverse;
-    padding: 20px 0px 20px 20px;
 }
-
-.history::-webkit-scrollbar {
+.history-logs::-webkit-scrollbar {
     width: 6px;
 }
-
-.history::-webkit-scrollbar-thumb {
+.history-logs::-webkit-scrollbar-thumb {
     background: #6B7C7A;
     border-radius: 10px;
 }
-
-.history p {
+.history-logs p {
 	user-select:auto;
 	font-family: 'Noto Sans KR';
 	font-style: normal;
@@ -181,26 +171,25 @@ body {
 	text-align: left;
 	color: #1DA494;
 	text-shadow: 0px 0px 10px rgba(30, 236, 236, 0.5);
-	width: 270px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     word-break: break-all;
 }
-
-.history p:hover {
+.history-logs p:hover {
 	color: #D6D6D6;
 	text-shadow: 0px 0px 10px #1EECEC;
 }
 
-.history1 {
+.history-log-start {
 	display: flex;
+    flex-direction: column;
 	justify-content: space-between;
 	padding-right: 10px;
 }
-
-.history2 {
+.history-log {
 	display: flex;
+    flex-direction: column;
 	justify-content: space-between;
 }
 
@@ -212,7 +201,6 @@ body {
 	background-color: #1DA494;
 	margin-left: 19px;
 }
-
 .line {
 	border-left : thick dashed #1DA494;
     height : 73px;
@@ -228,7 +216,6 @@ body {
 	width: 70%; 
     max-width: 800px;
 }
-
 .options button {
     display: flex;
 	justify-content: center;
@@ -248,7 +235,6 @@ body {
 	width: 220px;
 	height: 50px;
 }
-
 .options button:hover {
     box-shadow: 0px 0px 30px #A3D5C9;
 	color: #0C453F;
@@ -390,7 +376,7 @@ body {
     cursor: pointer;
 }
 
-button {
+button { /* 선택지 버튼*/
     padding: 10px 20px;
     margin: 5px;
     border: none;
@@ -474,7 +460,6 @@ input[id="hamburger"]:checked + label span:nth-child(3) {
   transform: translateY(50%) rotate(-45deg);
 }
 
-
 div[class="sidebar"] {
   width: 50vh;
   height: 100%;
@@ -490,13 +475,13 @@ input[id="hamburger"]:checked + label + div {
   left: 0;
 }
 
-.nav_mobile {
+.nav_menu {
     position: absolute;
     top:20vh;
     width: 100%;
     }
 
-.sidebar .nav_mobile li {
+.sidebar .nav_menu li {
 	color:black;
     position: relative;
     float:left; 
@@ -535,4 +520,47 @@ input[id="hamburger"]:checked + label + div {
     margin: 0;
     border: 0px;
 }
-/* 햄버거 버튼 종료*/
+/* 햄버거 버튼 종료 */
+
+/* 히스토리 로그 버튼 */
+div[class="history-logs"] {
+    width: 50vh;
+    height: 100%;
+    background: white;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    z-index: 98;
+    transition: all 0.35s;
+  }
+.history-container:hover{
+    z-index: 98;
+  }
+.history-container:hover div{
+    right: 0;
+}
+    
+.history-logs a {
+    padding: 0;
+    text-decoration: none;
+    display: block;
+}
+
+.history-logs li a{
+    display:block;
+    font-weight:bold;
+    line-height:40px;
+    margin:0px;
+    padding:0;
+    text-align:center;
+    text-decoration:none;
+    transition: all 0.4s;
+    }
+
+.history-logs li a:hover, .history-logs ul li:hover a {
+    text-decoration: none;
+    color: #eee;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+}
