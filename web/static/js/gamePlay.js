@@ -1,6 +1,7 @@
 const chat_div = document.querySelector('.chat');
 const options = document.querySelector('.options');
-const history = document.querySelector('.history-logs');
+const historyLogs = document.querySelector('.history-logs');
+const historyLogsSidebar = document.querySelector('.history-logs-sidebar');
 const background_container = document.querySelector('.container');
 const mainContainer = document.querySelector('.container');
 const homeImage = document.querySelector('.home-button .icon');
@@ -228,42 +229,55 @@ function one_word_one_time(div, story){
 
 // 사용자가 선택지 클릭 시 분기 영역에 선택지 추가
 function add_history(select_button_text) {
-    const history_element = document.createElement('div');
-    history_element.id = "history-" + part_cnt;
-    history_element.setAttribute('data-value', part_cnt);
-    
+
+    const history_text_num = (part_cnt + 1) + '번 선택';
     const history_text = (part_cnt + 1) + '번 선택: ' + select_button_text;
-    
-    if (part_cnt == 0) {
-        history_element.classList.add('history-log-start');
-        var history_p_tag = document.createElement('p'); // 수정된 부분
-        history_p_tag.textContent = history_text;
-        const history_circle = document.createElement('div');
-        history_circle.classList.add('circle');
-        
-        history_element.appendChild(history_p_tag);
-        history_element.appendChild(history_circle);
-    } else {
-        history_element.classList.add('history-log');
-        var history_p_tag = document.createElement('p'); // 수정된 부분
-        history_p_tag.textContent = history_text;
-        const history_circle = document.createElement('div');
-        history_circle.classList.add('circle');
-        const history_line = document.createElement('div');
-        history_line.classList.add('line');
-        
-        history_element.appendChild(history_p_tag);
-        history_element.appendChild(history_circle);
-        history_element.appendChild(history_line);
-    }
-
-    history_element.addEventListener('click', function() {
-        confirmGoBack(history_element, history_text); // 수정된 부분
-    });
-
-    history.appendChild(history_element);
-
     save_choice_history(select_button_text);
+
+    history_logs = add_log(history_text_num, null);
+    history_logs_sidebar = add_log(history_text, "sidebar");
+
+    historyLogs.appendChild(history_logs);
+    historyLogsSidebar.appendChild(history_logs_sidebar);
+
+    function add_log(text, con){
+        const element = document.createElement('div');
+        
+        if (part_cnt == 0) {
+            element.classList.add('history-log-start');
+            var p_tag = document.createElement('p'); // 수정된 부분
+            p_tag.textContent = text;
+            const circle_element = document.createElement('div');
+            circle_element.classList.add('circle');
+            
+            element.appendChild(p_tag);
+            element.appendChild(circle_element);
+        } else {
+            element.classList.add('history-log');
+            var p_tag = document.createElement('p'); // 수정된 부분
+            p_tag.textContent = text;
+            const circle_element = document.createElement('div');
+            circle_element.classList.add('circle');
+            const line_element = document.createElement('div');
+            line_element.classList.add('line');
+            
+            element.appendChild(p_tag);
+            element.appendChild(circle_element);
+            element.appendChild(line_element);
+        }
+        
+        if(con==="sidebar"){
+            element.id = "history-sidebar-" + part_cnt;
+            element.setAttribute('data-value', part_cnt);
+            element.addEventListener('click', function() {
+                confirmGoBack(element, history_text); // 수정된 부분
+            });
+        }else{
+            element.id = "history-logs-" + part_cnt;
+        }
+        
+        return element;
+    }
 }
 
 // 분기 클릭시 대화상자 이벤트
@@ -287,13 +301,17 @@ function confirmGoBack(history_element, select_button_text) {
         for (let i = part_cnt; i >= select_part_num; i--) {
             console.log("delete part_cnt: " + i);
             const part_container = document.getElementById('part-' + i);
-            const history_container = document.getElementById('history-' + i);
+            const history_logs = document.getElementById('history-logs-' + i);
+            const history_sidebar = document.getElementById('history-sidebar-' + i);
             
             if (part_container) {
                 part_container.remove();
             }
-            if (history_container) {
-                history_container.remove();
+            if (history_logs) {
+                history_logs.remove();
+            }
+            if (history_sidebar) {
+                history_sidebar.remove();
             }
             delete_data_history(i);
             delete_choice_history(i);
