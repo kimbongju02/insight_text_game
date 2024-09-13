@@ -23,12 +23,9 @@ body {
 
 .wrap {
 	display: flex;
-	margin: 37px ;
-	width: 1440px;
-	height: 857px;
-	top: 114px;
-	margin-left: 75px;
-	margin-right: 75px;
+	width: 100%;
+	height: 100%;
+    margin-top: 5vh;
 }
 
 .insight-story {
@@ -46,12 +43,15 @@ body {
 }
 
 .chat-container {
-	width: 70%;
+    display: flex;
+    flex-direction: column;
+	width: 80%;
+    height: 70vh;
 }
 
 .chat {
 	overflow-y: auto;
-	height:780px;
+	height:100%;
 }
 
 .chat::-webkit-scrollbar {
@@ -64,11 +64,19 @@ body {
     border-radius: 10px;
 }
 
+.main-container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
 .container {
 	display: flex;
+    flex-direction: column;
+    justify-content: center;
+	align-items: center;
 	width: 100%;
-	height: 947px;
-	/*opacity: 0.7;*/
+	height: 100%;
 	background-size: cover;
 	background-position: center;
 }
@@ -110,82 +118,43 @@ body {
 .history-wrapper {
     display: flex;
     flex-direction: column;
-    margin-left: 34px;
-}
-
-.home-button {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    margin-bottom: 10px;
-    opacity: 0.7;
-}
-
-/*.home-button a {
-    text-decoration: none;
-    font-family: 'Noto Sans KR';
-    font-weight: 700;
-    font-size: 1.5rem;
-    color: #78A49F;
-}*/
-
-.icon {
-	display: flex;
-}
-
-.icon img {
-	color: #78A49F;
-}
-
-.home-text {
-	text-decoration: none;
-    font-family: 'Noto Sans KR';
-    font-weight: 700;
-    font-size: 1.25rem;
-    color: #78A49F;
-    padding-left: 6px;
+    margin-left: 10vh;
 }
 
 .history-container {
-    width: 347px;
+    width: 15vh;
     padding: 20px;
     background-color: rgba(214, 214, 214, 0.2);
     border-radius: 10px;
-    margin-left: 34px;
     display: flex;
     flex-direction: column;
-    height: 770px;
+    height: 100%;
 }
-
-.history-container p {
+.history-text {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 700;
     font-size: 1.5rem;
     line-height: 35px;
     text-align: center;
-    color: #78A49F;
+    color: #1DA494;
     margin: 0;
 }
-
-.history {
+.history-logs {
     overflow-y: auto;
+    overflow-x: hidden;
     display: flex;
     flex-grow: 1;
     flex-direction: column-reverse;
-    padding: 20px 0px 20px 20px;
 }
-
-.history::-webkit-scrollbar {
+.history-logs::-webkit-scrollbar {
     width: 6px;
 }
-
-.history::-webkit-scrollbar-thumb {
+.history-logs::-webkit-scrollbar-thumb {
     background: #6B7C7A;
     border-radius: 10px;
 }
-
-.history p {
+.history-logs p {
 	user-select:auto;
 	font-family: 'Noto Sans KR';
 	font-style: normal;
@@ -193,71 +162,62 @@ body {
 	font-size: 16px;
 	line-height: 23px;
 	text-align: left;
-	color: #78A49F;
+	color: #1DA494;
 	text-shadow: 0px 0px 10px rgba(30, 236, 236, 0.5);
-	width: 270px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     word-break: break-all;
 }
 
-.history p:hover {
-	color: #D6D6D6;
-	text-shadow: 0px 0px 10px #1EECEC;
-}
-
-.history1 {
+.history-log-start {
 	display: flex;
+    flex-direction: column;
 	justify-content: space-between;
 	padding-right: 10px;
 }
-
-.history2 {
+.history-log {
 	display: flex;
-	justify-content: space-between;
+    flex-direction: row;
+    height: 10vh;
 }
 
 .circle {
 	display: flex;
-	width: 23px;
-	height: 23px;
+	width: 22px;
+	height: 22px;
 	border-radius: 15px;
-	background-color: #78A49F;
-	margin-left: 19px;
+	background-color: #1DA494;
+	margin-right: 5%;
+    position: absolute;
+    right: 0;
 }
-
 .line {
-	border-left : thick dashed #78A49F;
-    height : 73px;
-    right: 18.5px;
-    position: relative;
+    display: flex;
+	border-left : thick dashed #1DA494;
+    height : 10vh;
+    margin-right: 5%;
+    position: absolute;
+    right: 10px;
 }
 
 .options {
 	display: flex;
-	position: fixed;
+	position: relative;
 	justify-content: space-between;
 	align-items: center;
-	width: 70%; 
-    bottom: 50px;
+	width: 100%; 
     max-width: 800px;
-    margin-left: 50px;
-	margin-right: 50px;
 }
-
-
 .options button {
     display: flex;
 	justify-content: center;
 	align-items: center;
-	/*padding: 10px 30px;*/
 	gap: 10px;
 	background: #ABB4B3;
 	border: 1px solid #ABB4B3;
 	box-shadow: 0px 0px 10px rgba(223, 239, 237, 0.65);
 	border-radius: 45px;
-	
 	font-family: 'Noto Sans KR';
 	font-style: normal;
 	font-weight: 700;
@@ -266,7 +226,6 @@ body {
 	width: 220px;
 	height: 50px;
 }
-
 .options button:hover {
     box-shadow: 0px 0px 30px #A3D5C9;
 	color: #0C453F;
@@ -275,9 +234,7 @@ body {
 
 .profile {
 	display: flex;
-    /* width: 55px; */
     height: 30px;
-    /* background: rgba(182, 182, 182, 0.3); */
     border-radius: 10px;
     margin: 30px 10px 5px 0px;
 }
@@ -285,9 +242,6 @@ body {
 .profile p {
     align-items: center;
     display: flex;
-    /* padding: 3px 3px 3px 5px; */
-    /* margin: 0; */
-    /* position: absolute; */
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -408,7 +362,7 @@ body {
     cursor: pointer;
 }
 
-button {
+button { /* 선택지 버튼*/
     padding: 10px 20px;
     margin: 5px;
     border: none;
@@ -426,4 +380,181 @@ button {
     background-color: #383838;
     color: white;
     border: 1px solid #888;
+}
+
+.settings {
+    position: relative; /* 새로운 레이어 생성 */
+    width: 5%;
+    height: 5vh;
+    margin-left: 5vh;
+    background-color: #fff; /* 배경색 설정으로 시각적 구분 */
+    opacity: 1; /* 자식 요소의 투명도 설정 */
+    z-index: 10; /* 부모 위로 배치 */
+}
+
+/* 햄버거 버튼*/
+a {text-decoration: none;
+    color: #1DA494;}
+
+* {margin: 0; padding: 0;}
+
+
+input[id="hamburger"] {
+  display: none;
+}
+input[id="hamburger"] + label {
+  display: block;
+  width: 5vh;
+  height: 4vh;
+  position: relative;
+  cursor: pointer;
+}
+input[id="hamburger"] + label span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  border-radius: 30px;
+  background: #1DA494;
+  transition: all 0.35s;
+}
+input[id="hamburger"] + label span:nth-child(1) {
+  top: 0;
+}
+input[id="hamburger"] + label span:nth-child(2) {
+  top: 50%;
+  transform: translateY(-50%);
+}
+input[id="hamburger"] + label span:nth-child(3) {
+  bottom: 0;
+}
+input[id="hamburger"]:checked + label {
+  z-index: 99;
+}
+input[id="hamburger"]:checked + label span {
+  background: #1DA494;
+}
+input[id="hamburger"]:checked + label span:nth-child(1) {
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+}
+input[id="hamburger"]:checked + label span:nth-child(2) {
+  opacity: 0;
+}
+input[id="hamburger"]:checked + label span:nth-child(3) {
+  bottom: 50%;
+  transform: translateY(50%) rotate(-45deg);
+}
+
+div[class="sidebar"] {
+  width: 50vh;
+  height: 100%;
+  background: white;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  z-index: 98;
+  transition: all 0.35s;
+}
+
+input[id="hamburger"]:checked + label + div {
+  left: 0;
+}
+
+.nav_menu {
+    position: absolute;
+    top:20vh;
+    width: 100%;
+    }
+
+.sidebar .nav_menu li {
+	color:black;
+    position: relative;
+    float:left; 
+    width:100%; 
+    list-style-type:none; 
+    font-size:20px;
+    border-bottom:1px solid #ccc;
+    font-family: 'Noto Sans KR';
+    font-weight:bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    }
+    
+.sidebar a {
+    padding: 0;
+    text-decoration: none;
+    display: block;
+}
+
+.sidebar li a{
+    display:block;
+    font-weight:bold;
+    line-height:40px;
+    margin:0px;
+    padding:0;
+    text-align:center;
+    text-decoration:none;
+    transition: all 0.4s;
+    }
+
+.sidebar li a:hover, .sidebar ul li:hover a {
+    text-decoration: none;
+    color: #eee;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+}
+/* 햄버거 버튼 종료 */
+
+/* 히스토리 로그 버튼 */
+div[class="history-logs-sidebar"] {
+    width: 50vh;
+    height: 90%;
+    background: white;
+    position: fixed;
+    padding: 5vh 2vh 5vh 2vh;
+    top: 0;
+    right: -100%;
+    z-index: 98;
+    transition: all 0.35s;
+
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column-reverse;
+  }
+.history-container:hover{
+    z-index: 98;
+  }
+.history-container:hover .history-logs-sidebar {
+    right: 0;
+}
+    
+.history-logs-sidebar::-webkit-scrollbar {
+    width: 6px;
+}
+.history-logs-sidebar::-webkit-scrollbar-thumb {
+    background: #6B7C7A;
+    border-radius: 10px;
+}
+.history-logs-sidebar p {
+    width: 95%;
+	user-select:auto;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 23px;
+	text-align: left;
+	color: #1DA494;
+	text-shadow: 0px 0px 10px rgba(30, 236, 236, 0.5);
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+.history-logs-sidebar p:hover {
+	color: #D6D6D6;
+	text-shadow: 0px 0px 10px #1EECEC;
 }
