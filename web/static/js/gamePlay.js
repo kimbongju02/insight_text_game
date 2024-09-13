@@ -237,53 +237,31 @@ function add_history(select_button_text) {
     history_logs_sidebar = add_log(history_text, "sidebar");
     historyLogsSidebar.appendChild(history_logs_sidebar);
 
-    if(part_cnt === 6){
+    if(part_cnt === 5){
         const element = document.createElement('div');
         element.classList.add('history-log');
-        var p_tag = document.createElement('p'); // 수정된 부분
-        const line_element = document.createElement('div');
-        line_element.classList.add('line');
-        
-        element.appendChild(p_tag);
-        element.appendChild(line_element);
-
-        historyLogs.appendChild(history_logs);
-    }else if(part_cnt >= 7){
+        addPtagElement(element, "");
+        addLineElement(element);
+        historyLogs.appendChild(element);
+    }else if(part_cnt > 5){
         return;
     }else{
         history_logs = add_log(history_text_num, null);
         historyLogs.appendChild(history_logs);
     }
     
-    
-
     function add_log(text, con){
         const element = document.createElement('div');
-        if(con!=="sidebar"){
-
-        }
         
         if (part_cnt == 0) {
             element.classList.add('history-log-start');
-            var p_tag = document.createElement('p'); // 수정된 부분
-            p_tag.textContent = text;
-            const circle_element = document.createElement('div');
-            circle_element.classList.add('circle');
-            
-            element.appendChild(p_tag);
-            element.appendChild(circle_element);
+            addPtagElement(element, text);
+            addCircleElement(element);
         } else {
             element.classList.add('history-log');
-            var p_tag = document.createElement('p'); // 수정된 부분
-            p_tag.textContent = text;
-            const circle_element = document.createElement('div');
-            circle_element.classList.add('circle');
-            const line_element = document.createElement('div');
-            line_element.classList.add('line');
-            
-            element.appendChild(p_tag);
-            element.appendChild(circle_element);
-            element.appendChild(line_element);
+            addPtagElement(element, text);
+            addCircleElement(element);
+            addLineElement(element);
         }
         
         if(con==="sidebar"){
@@ -295,8 +273,22 @@ function add_history(select_button_text) {
         }else{
             element.id = "history-logs-" + part_cnt;
         }
-        
         return element;
+    }
+    function addCircleElement(element){
+        const circle_element = document.createElement('div');
+        circle_element.classList.add('circle');
+        element.appendChild(circle_element);
+    }
+    function addPtagElement(element, text){
+        var p_tag = document.createElement('p'); // 수정된 부분
+        p_tag.textContent = text;
+        element.appendChild(p_tag);
+    }
+    function addLineElement(element, text){
+        const line_element = document.createElement('div');
+        line_element.classList.add('line');
+        element.appendChild(line_element);
     }
 }
 
