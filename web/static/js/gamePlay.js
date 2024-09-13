@@ -1,7 +1,15 @@
 const chat_div = document.querySelector('.chat');
 const options = document.querySelector('.options');
-const history = document.querySelector('.history');
+const historyLogs = document.querySelector('.history-logs');
+const historyLogsSidebar = document.querySelector('.history-logs-sidebar');
 const background_container = document.querySelector('.container');
+const mainContainer = document.querySelector('.container');
+const homeImage = document.querySelector('.home-button .icon');
+const homeText = document.querySelector(".home-button .home-text");
+const logo_a = document.getElementById('logo-a');
+const settings = document.querySelector('.settings');
+const chatContainer = document.querySelector('.chat-container');
+const historyWrapper = document.querySelector('.history-wrapper');
 const story_id = background_container.id;
 let data = {}
 
@@ -18,13 +26,14 @@ window.onload = function() {
     }catch(e){
         console.log('error code : ', e);
     }
-    /*
-    load_image_ofstory(story_id);
-    load_start_story(story_id);
+    
+    //load_image_ofstory(story_id);
+    //load_start_story(story_id);
+    load_next_story();
 
-    var historyContainer = document.querySelector('.history');
+    var historyContainer = document.querySelector('.history-text');
     historyContainer.scrollTop = historyContainer.scrollHeight;
-    */
+    
 };
 
 // chat 영역 포커스 아래 고정
@@ -71,6 +80,7 @@ function load_next_story(){
     })
     .then(response => response.json())
     .then(data => {
+        console.log(data);
         create_chat_div(data);
     })
     .catch(error => {
@@ -80,7 +90,7 @@ function load_next_story(){
 
 // 스토리를 생성할 때 스토리마다 div 영역을 생성하여 추가
 async function create_chat_div(data) {
-    await disable_history();
+    await deact_history_log();
     const part_container = document.createElement('div');
     part_container.id = 'part-' + part_cnt;
     part_container.setAttribute('data-value', part_cnt);
@@ -91,25 +101,7 @@ async function create_chat_div(data) {
     
     selectButton_event(part_container);
     save_data_history(data);
-    enable_history();
-}
-
-// 스토리 생성 중에 클릭을 막는 함수
-function disable_history() {
-    const history_paragraphs = document.querySelectorAll('.history1, .history2');
-    history_paragraphs.forEach(function(history) {
-        history.addEventListener('click', preventClick, true);
-        history.style.pointerEvents = 'none';
-    });
-}
-
-// 스토리 생성 후 클릭을 허용하는 함수
-function enable_history() {
-    const history_paragraphs = document.querySelectorAll('.history1, .history2');
-    history_paragraphs.forEach(function(history) {
-        history.removeEventListener('click', preventClick, true);
-        history.style.pointerEvents = 'auto';
-    });
+    act_history_log();
 }
 
 // 클릭을 막는 이벤트 리스너
@@ -214,7 +206,7 @@ function selectButton_event(select_part_container){
 function one_word_one_time(div, story){
     return new Promise((resolve) => {
         let index = 0;
-        const interval = 30;
+        const interval = 1;
         try {
             if (story === null) {
                 throw new TypeError();
@@ -229,7 +221,7 @@ function one_word_one_time(div, story){
                 }
             }, interval);
         } catch (TypeError) {
-            goRoot_modal();
+            console.log("load story error")
         }
         
     });
@@ -237,42 +229,55 @@ function one_word_one_time(div, story){
 
 // 사용자가 선택지 클릭 시 분기 영역에 선택지 추가
 function add_history(select_button_text) {
-    const history_element = document.createElement('div');
-    history_element.id = "history-" + part_cnt;
-    history_element.setAttribute('data-value', part_cnt);
-    
+
+    const history_text_num = (part_cnt + 1) + '번 선택';
     const history_text = (part_cnt + 1) + '번 선택: ' + select_button_text;
-    
-    if (part_cnt == 0) {
-        history_element.classList.add('history1');
-        var history_p_tag = document.createElement('p'); // 수정된 부분
-        history_p_tag.textContent = history_text;
-        const history_circle = document.createElement('div');
-        history_circle.classList.add('circle');
-        
-        history_element.appendChild(history_p_tag);
-        history_element.appendChild(history_circle);
-    } else {
-        history_element.classList.add('history2');
-        var history_p_tag = document.createElement('p'); // 수정된 부분
-        history_p_tag.textContent = history_text;
-        const history_circle = document.createElement('div');
-        history_circle.classList.add('circle');
-        const history_line = document.createElement('div');
-        history_line.classList.add('line');
-        
-        history_element.appendChild(history_p_tag);
-        history_element.appendChild(history_circle);
-        history_element.appendChild(history_line);
-    }
-
-    history_element.addEventListener('click', function() {
-        confirmGoBack(history_element, history_text); // 수정된 부분
-    });
-
-    history.appendChild(history_element);
-
     save_choice_history(select_button_text);
+
+    history_logs = add_log(history_text_num, null);
+    history_logs_sidebar = add_log(history_text, "sidebar");
+
+    historyLogs.appendChild(history_logs);
+    historyLogsSidebar.appendChild(history_logs_sidebar);
+
+    function add_log(text, con){
+        const element = document.createElement('div');
+        
+        if (part_cnt == 0) {
+            element.classList.add('history-log-start');
+            var p_tag = document.createElement('p'); // 수정된 부분
+            p_tag.textContent = text;
+            const circle_element = document.createElement('div');
+            circle_element.classList.add('circle');
+            
+            element.appendChild(p_tag);
+            element.appendChild(circle_element);
+        } else {
+            element.classList.add('history-log');
+            var p_tag = document.createElement('p'); // 수정된 부분
+            p_tag.textContent = text;
+            const circle_element = document.createElement('div');
+            circle_element.classList.add('circle');
+            const line_element = document.createElement('div');
+            line_element.classList.add('line');
+            
+            element.appendChild(p_tag);
+            element.appendChild(circle_element);
+            element.appendChild(line_element);
+        }
+        
+        if(con==="sidebar"){
+            element.id = "history-sidebar-" + part_cnt;
+            element.setAttribute('data-value', part_cnt);
+            element.addEventListener('click', function() {
+                confirmGoBack(element, history_text); // 수정된 부분
+            });
+        }else{
+            element.id = "history-logs-" + part_cnt;
+        }
+        
+        return element;
+    }
 }
 
 // 분기 클릭시 대화상자 이벤트
@@ -296,13 +301,17 @@ function confirmGoBack(history_element, select_button_text) {
         for (let i = part_cnt; i >= select_part_num; i--) {
             console.log("delete part_cnt: " + i);
             const part_container = document.getElementById('part-' + i);
-            const history_container = document.getElementById('history-' + i);
+            const history_logs = document.getElementById('history-logs-' + i);
+            const history_sidebar = document.getElementById('history-sidebar-' + i);
             
             if (part_container) {
                 part_container.remove();
             }
-            if (history_container) {
-                history_container.remove();
+            if (history_logs) {
+                history_logs.remove();
+            }
+            if (history_sidebar) {
+                history_sidebar.remove();
             }
             delete_data_history(i);
             delete_choice_history(i);
@@ -360,13 +369,6 @@ function select_change_modal(text) {
     modal.style.display = "flex";
 }
 
-// home-button 클릭 시 모달 표시
-const homeButton = document.querySelector('.home-button');
-homeButton.addEventListener('click', function(event) {
-    event.preventDefault();
-    goMain_modal();
-});
-
 // 메인화면으로 이동 모달 생성
 function goMain_modal() {
     // 기존 모달을 제거
@@ -421,39 +423,37 @@ function goMain_modal() {
     }
 }
 
-// 메인화면으로 이동 모달 생성
-function goRoot_modal() {
-    // 기존 모달을 제거
-    const existingModal = document.getElementById("myModal");
-    if (existingModal) {
-        existingModal.remove();
-    }
+// 스토리 생성 중에 클릭을 막는 함수
+function deact_history_log() {
+    const history_paragraphs = document.querySelectorAll('.history-log-start, .history-log');
+    history_paragraphs.forEach(function(history) {
+        history.addEventListener('click', preventClick, true);
+        history.style.pointerEvents = 'none';
+    });
+}
 
-    const modalHtml = `
-        <div id="myModal" class="modal">
-            <div class="modal-content">
-                <span class="close">&times;</span>
-                <p>GPT API KEY 입력이 잘못되었습니다. 시작 페이지로 돌아갑니다.</p>
-                <div class="button-container">
-                    <button id="homeSubmitBtn">확인</button>
-                </div>
-            </div>
-        </div>
-    `;
-    document.body.insertAdjacentHTML('beforeend', modalHtml);
+// 스토리 생성 후 클릭을 허용하는 함수
+function act_history_log() {
+    const history_paragraphs = document.querySelectorAll('.history-log-start, .history-log');
+    history_paragraphs.forEach(function(history) {
+        history.removeEventListener('click', preventClick, true);
+        history.style.pointerEvents = 'auto';
+    });
+}
 
-    // 모달 엘리먼트 가져오기
-    const modal = document.getElementById("myModal");
-    const span = document.getElementsByClassName("close")[0];
-    const homeSubmitBtn = document.getElementById("homeSubmitBtn");
 
-    modal.style.display = "flex";
+function deact_options_button(){
+    const buttons = document.querySelectorAll('.options button');
+        buttons.forEach(button => {
+            button.disabled = true;
+        });
+}
 
-    // 확인 버튼 클릭 시
-    homeSubmitBtn.onclick = function() {
-        modal.style.display = "none";
-        window.location.href = '/';
-    }
+function act_options_button(){
+    const buttons = document.querySelectorAll('.options button');
+        buttons.forEach(button => {
+            button.disabled = false;
+        });
 }
 
 // 분기를 클릭하여 돌아갈 때 스토리 전달을 위해 사용하는 함수들
@@ -476,3 +476,45 @@ function delete_choice_history(part_cnt){
     delete choice_history[part_cnt];
     console.log(choice_history);
 }
+
+// 햄버거 버튼 클릭 시 동작
+document.getElementById('hamburger').addEventListener('change', function() {
+    const isChecked = this.checked;
+    
+    if (isChecked) {
+        use_setting()
+        deact_history_log();
+        historyWrapper.style.opacity = '0.2';
+    } else {
+        disuse_setting();
+        act_history_log();
+        historyWrapper.style.opacity = '1';
+    }
+})
+
+document.querySelector('.history-container').addEventListener('mouseover', function() {
+    use_setting();
+    settings.style.opacity = '0.2';
+})
+document.querySelector('.history-container').addEventListener('mouseleave', function() {
+    disuse_setting();
+    settings.style.opacity = '1';
+})
+
+function use_setting(){
+    logo_a.style.opacity = '0.2';
+    chatContainer.style.opacity = '0.2';
+    options.style.opacity = '0.2';
+    deact_options_button();
+}
+
+function disuse_setting(){
+    logo_a.style.opacity = '1';
+    chatContainer.style.opacity = '1';
+    options.style.opacity = '1';
+    act_options_button();
+}
+
+function goBack() {
+    window.history.back();
+};
