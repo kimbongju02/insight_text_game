@@ -259,6 +259,9 @@ function add_history(select_button_text) {
 
     function add_log(text, con){
         const element = document.createElement('div');
+        if(con!=="sidebar"){
+
+        }
         
         if (part_cnt == 0) {
             element.classList.add('history-log-start');
