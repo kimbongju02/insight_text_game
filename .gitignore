@@ -8,3 +8,6 @@ dataset/visual-novels-yaml-v5
 dataset/visual-novels-yaml
 dataset/visual_novel_txt
 dataset/VNDB
+web/python/__pycache__
+web/python/func/__pycache__
+web/python/router/__pycache__
