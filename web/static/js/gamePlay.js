@@ -206,7 +206,7 @@ function selectButton_event(select_part_container){
 function one_word_one_time(div, story){
     return new Promise((resolve) => {
         let index = 0;
-        const interval = 1;
+        const interval = 0;
         try {
             if (story === null) {
                 throw new TypeError();
@@ -242,6 +242,9 @@ function add_history(select_button_text) {
 
     function add_log(text, con){
         const element = document.createElement('div');
+        if(con!=="sidebar"){
+
+        }
         
         if (part_cnt == 0) {
             element.classList.add('history-log-start');
