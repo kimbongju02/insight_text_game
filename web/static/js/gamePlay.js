@@ -206,7 +206,7 @@ function selectButton_event(select_part_container){
 function one_word_one_time(div, story){
     return new Promise((resolve) => {
         let index = 0;
-        const interval = 1;
+        const interval = 0;
         try {
             if (story === null) {
                 throw new TypeError();
@@ -234,11 +234,28 @@ function add_history(select_button_text) {
     const history_text = (part_cnt + 1) + '번 선택: ' + select_button_text;
     save_choice_history(select_button_text);
 
-    history_logs = add_log(history_text_num, null);
     history_logs_sidebar = add_log(history_text, "sidebar");
-
-    historyLogs.appendChild(history_logs);
     historyLogsSidebar.appendChild(history_logs_sidebar);
+
+    if(part_cnt === 6){
+        const element = document.createElement('div');
+        element.classList.add('history-log');
+        var p_tag = document.createElement('p'); // 수정된 부분
+        const line_element = document.createElement('div');
+        line_element.classList.add('line');
+        
+        element.appendChild(p_tag);
+        element.appendChild(line_element);
+
+        historyLogs.appendChild(history_logs);
+    }else if(part_cnt >= 7){
+        return;
+    }else{
+        history_logs = add_log(history_text_num, null);
+        historyLogs.appendChild(history_logs);
+    }
+    
+    
 
     function add_log(text, con){
         const element = document.createElement('div');
