@@ -1,5 +1,6 @@
 const contentsContainer = document.querySelector('.contents');
 const container = document.querySelector('.container');
+const body = document.getElementById('body');
 const selectId = (window.location.pathname).split('/').pop();
 
 window.onload = function(){
@@ -11,7 +12,7 @@ async function story_html(story){
     console.log(contentsHtml);
     contentsContainer.innerHTML = contentsHtml;
     
-    container.style = `
+    body.style = `
   background-image: url('/img/background-shadow.png'), url('${story.image}');`;
 
 }
@@ -54,7 +55,7 @@ function story_image_html(story){
     `<div class="img-box">\n`+
     `<img class="img" src=${story.image_char}>\n`+
     `</div>\n`+
-    `<div class="start" onclick="window.location.href='/story/${story.id}'" style="cursor:pointer;">시작 버튼</div>\n`+
+    `<div class="start" onclick="window.location.href='/local/story/${story.id}'" style="cursor:pointer;">시작 버튼</div>\n`+
     `</div>`;
     return result;
 }

@@ -11,7 +11,7 @@ router = APIRouter(
 # 템플릿 경로 설정
 template = Jinja2Templates(directory=os.path.join(os.path.dirname(__file__), "../../html"))
 
-@router.get('/')
+@router.get('')
 async def novel_list(request: Request):
     return template.TemplateResponse("storyList.html", {"request": request})
 

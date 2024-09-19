@@ -8,41 +8,46 @@
     <title>Test page</title>
 </head>
 <body>
-	<a href="/list" style="text-decoration:none;">
-		<div class="header">
-		    <img src="/img/insight-logo.png" alt="로고">
-			<div class="insight-story">
-				<p>Insight Story</p>
-			</div>
-		</div>
-	</a>
-
-	<div class="container" th:id='${story_id}'>
-		<div class="wrap">
-			<div class="chat-container">
-				<div class="chat">
-					
+	<div class="main-container">
+		<a href="/list" style="text-decoration:none;" id="logo-a">
+			<div class="header">
+				<img src="/img/insight-logo.png" alt="로고">
+				<div class="insight-story">
+					<p>Insight Story</p>
 				</div>
 			</div>
-			
-			<div class="options">
-				
-			</div>
-			
-			<div class="history-wapper">
-				<div class="home-button">
-					<a href="/list" class="icon"><img src="/img/home-icon.png" alt="홈"></a>
-					<a href="/list" class="home-text">홈으로</a>
+		</a>
+		<div class="container">
+			<div class="wrap">
+				<div class="settings">
+					<input type="checkbox" id="hamburger"/>
+					<label for="hamburger">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</label>
+					<div class="sidebar">
+						<hr style="position: relative; top:20vh; border: solid 1px black;">
+						<ul class="nav_menu">
+							<li><a href="/list">홈으로</a></li>
+							<li><a onclick="save_as_file()">저장하기</a></li>
+						</ul>
+					</div>
 				</div>
-				<div class="history-container">
-					<p>History</p>
-					<div class="history">
-								
+				<div class="chat-container">
+					<div class="chat"></div>
+				</div>
+				<div class="history-wrapper">
+					<div class="history-container">
+						<p class="history-text">History</p>
+						<div class="history-logs"></div>
+						<div class="history-logs-sidebar"></div>
 					</div>
 				</div>
 			</div>
+			<div class="options"></div>
 		</div>
 	</div>
-	<script src="/content.js"></script>
+	<script src="js/gamePlay.js"></script>
 </body>
 </html>
