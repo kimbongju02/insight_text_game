@@ -3,16 +3,15 @@ const options = document.querySelector('.options');
 const historyLogs = document.querySelector('.history-logs');
 const historyLogsSidebar = document.querySelector('.history-logs-sidebar');
 const background_container = document.querySelector('.container');
-const mainContainer = document.querySelector('.container');
 const homeImage = document.querySelector('.home-button .icon');
 const homeText = document.querySelector(".home-button .home-text");
 const logo_a = document.getElementById('logo-a');
 const settings = document.querySelector('.settings');
 const chatContainer = document.querySelector('.chat-container');
 const historyWrapper = document.querySelector('.history-wrapper');
+
 const story_id = background_container.id;
 let data = {}
-
 var part_cnt = 0;
 const data_history = {};
 const choice_history = {};
@@ -98,6 +97,7 @@ async function create_chat_div(data) {
     await add_story(part_container, data['story']);
     await add_dialogue(part_container, data['dialogue']);
     await add_option(data['choice1'], data['choice2'], data['choice3']);
+    await add_story(part_container, data['question']);
     
     selectButton_event(part_container);
     save_data_history(data);
@@ -222,14 +222,12 @@ function one_word_one_time(div, story){
             }, interval);
         } catch (TypeError) {
             console.log("load story error")
-        }
-        
+        } 
     });
 }
 
 // 사용자가 선택지 클릭 시 분기 영역에 선택지 추가
 function add_history(select_button_text) {
-
     const history_text_num = (part_cnt + 1) + '번 선택';
     const history_text = (part_cnt + 1) + '번 선택: ' + select_button_text;
     save_choice_history(select_button_text);
@@ -240,6 +238,7 @@ function add_history(select_button_text) {
     if(part_cnt === 5){
         const element = document.createElement('div');
         element.classList.add('history-log');
+        element.id = "history-logs-" + part_cnt;
         addPtagElement(element, "");
         addLineElement(element);
         historyLogs.appendChild(element);
@@ -456,16 +455,16 @@ function act_history_log() {
 
 function deact_options_button(){
     const buttons = document.querySelectorAll('.options button');
-        buttons.forEach(button => {
-            button.disabled = true;
-        });
+    buttons.forEach(button => {
+        button.style.pointerEvents = 'none';
+    });
 }
 
 function act_options_button(){
     const buttons = document.querySelectorAll('.options button');
-        buttons.forEach(button => {
-            button.disabled = false;
-        });
+    buttons.forEach(button => {
+        button.style.pointerEvents = 'auto';
+    });
 }
 
 // 분기를 클릭하여 돌아갈 때 스토리 전달을 위해 사용하는 함수들
@@ -489,18 +488,47 @@ function delete_choice_history(part_cnt){
     console.log(choice_history);
 }
 
+async function save_as_file(){
+    txt = history_to_txt();
+    
+    const file_handle = await window.showSaveFilePicker({
+        suggestedName : "story.txt",
+    })
+    const file_stream = await file_handle.createWritable();
+
+    await file_stream.write(txt);
+    await file_stream.close();
+}
+
+function history_to_txt(){
+    let history_txt = "";
+    for(let i in data_history){
+        history_txt += '나레이션 : ' + data_history[i]['story'] + "\n";
+        for (let j in data_history[i]['dialogue']){
+            history_txt += data_history[i]['dialogue'][j]['name'] + ' : ';
+            history_txt += data_history[i]['dialogue'][j]['content']+'\n';
+        }
+        history_txt += '질문 : ' + data_history[i]['question'] + "\n";
+        if (typeof choice_history[i] !== 'undefined'){
+            history_txt += '선택지 : ' + choice_history[i] + "\n";
+        }
+    }
+    return history_txt;
+}
+
 // 햄버거 버튼 클릭 시 동작
 document.getElementById('hamburger').addEventListener('change', function() {
     const isChecked = this.checked;
-    
     if (isChecked) {
         use_setting()
         deact_history_log();
         historyWrapper.style.opacity = '0.2';
+        historyWrapper.style.pointerEvents = 'none';
     } else {
         disuse_setting();
         act_history_log();
         historyWrapper.style.opacity = '1';
+        historyWrapper.style.pointerEvents = 'auto';
     }
 })
 
@@ -518,6 +546,7 @@ function use_setting(){
     chatContainer.style.opacity = '0.2';
     options.style.opacity = '0.2';
     deact_options_button();
+    logo_a.style.pointerEvents = 'none';
 }
 
 function disuse_setting(){
@@ -525,6 +554,7 @@ function disuse_setting(){
     chatContainer.style.opacity = '1';
     options.style.opacity = '1';
     act_options_button();
+    logo_a.style.pointerEvents = 'auto';
 }
 
 function goBack() {
