@@ -100,6 +100,7 @@ body {
     text-align: left;
     word-wrap: break-word;
     padding: 20px 30px;
+    margin-top: 30px;
 }
 
 .story p {
@@ -289,10 +290,10 @@ body {
     border-radius: 10px;
     grid-template-columns: minmax(100%, max-content) 1fr;
     margin-top: 30px;
-    margin-bottom: 30px;
     padding: 0 30px 0px 30px;
     max-width: 35%;
     margin-right: 30px;
+    margin-bottom: 30px;
     left: 55%;
     justify-content: flex-end;
     float: right;
@@ -523,7 +524,7 @@ div[class="history-logs-sidebar"] {
     position: fixed;
     padding: 5vh 2vh 5vh 2vh;
     top: 0;
-    left: 0%;
+    right: -100%;
     top: 5%;
     z-index: 98;
     transition: all 0.35s;
