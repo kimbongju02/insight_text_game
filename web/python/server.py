@@ -42,4 +42,3 @@ app.mount("/local/story", StaticFiles(directory="../static"), name="localStory")
 @app.get("/")
 async def root(request: Request):
     return templates.TemplateResponse("mainPage.html", {"request": request})
-
