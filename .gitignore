@@ -12,3 +12,4 @@ web/python/func/__pycache__
 web/python/router/__pycache__
 web/python/__pycache__
 web/node_modules
+package-lock.json
