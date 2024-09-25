@@ -2,4 +2,6 @@
 dataset/novel-character_info
 dataset/visual*
 dataset/VNDB
+dataset/korean_smile_style_dataset
 .vscode
+gemma-2-2b
