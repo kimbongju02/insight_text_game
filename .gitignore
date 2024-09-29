@@ -7,3 +7,4 @@ dataset/korean_smile_style_dataset
 gemma-2-2b
 gemma-2-2b-talkingDown-ko
 .env
+test.py
