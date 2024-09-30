@@ -8,3 +8,4 @@ gemma-2-2b
 test.py
 gemma-2-2b-talkingDown-ko
 fine_tuning/results/
+.env
