@@ -4,8 +4,8 @@ dataset/visual*
 dataset/VNDB
 dataset/korean_smile_style_dataset
 .vscode
-gemma-2-2b
 test.py
+gemma-2-2b
 gemma-2-2b-talkingDown-ko
 fine_tuning/results/
 .env
