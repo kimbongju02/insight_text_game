@@ -1,11 +1,11 @@
 .venv
-dataset/novel-character_info
-dataset/visual*
-dataset/VNDB
-dataset/korean_smile_style_dataset
 .vscode
 test.py
 gemma-2-2b
 gemma-2-2b-talkingDown-ko
 fine_tuning/results/
 .env
+9-nine- Episode 1
+dataset/*
+!dataset/error_of_txtFile
+!dataset/novel_data.json
