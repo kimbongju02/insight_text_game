@@ -1,0 +1,5234 @@
+Maroudo's Soldier X:마루도의 군인 X
+Miharu:미하루
+Forensics:과학 수사
+Pharmacist:약사
+Stray Cat:길고양이
+Track Club Girl:육상부 소녀
+Cla-Tod:클라토드
+Amer:아메르
+Martial Artist:무술가
+Cleaner:청소부
+加納:가납
+All Three:셋 다
+Question 2:질문 2
+Drakken:드라켄
+Takafuji Girls:타카후지 소녀
+Mikuni:미쿠니
+Atlas:아틀라스
+Nanami:나나미
+Satoru:사토루
+OutCast D:아웃캐스트 D
+Operators:운영자
+Woman in Blue:푸른 옷의 여인
+Painter:화가
+Monk:스님
+Interpreter:통역가
+Bellwether:선봉대
+Greed:탐욕
+Calinthe:칼린스
+Cla-Kes:클라케스
+null:null
+Committee Girl:위원회 소녀
+Class B Student:B반 학생
+Tsukuno:츠쿠노
+Fish:물고기
+Igarashi:이가라시
+Male Waiter:남성 웨이터
+Machina:마키나
+Fourth Grader:4학년
+All Four:네명 전부
+Box2:박스 2
+Married Couple:부부
+Professor Dave:데이브 교수
+Someone says:누군가가 말한다
+Ero:에로
+Terrorist D:테러리스트 D
+Mysterious Voice 3:신비한 목소리 3
+Homeroom Teacher:담임 선생님
+Staff C:직원 C
+Mayu:River
+James the Worker:근로자 제임스
+Troublemaker:문제아
+Bomber:폭격기
+Koko:코코
+Proper Title:정식 제목
+Haruka's Mom:하루카의 엄마
+Everybody:모두
+Stryker Zero:스트라이커 제로
+Yukawa Grandpa:유카와 할아버지
+Gasai:가사이
+Bionic Soldier E:바이오닉 군인 E
+Inoue:이노우에
+Reporter B:리포터 B
+Vocalist:보컬리스트
+Katakura:카타쿠라
+Bandits:도적
+Mako:미커
+Male Customer:남성 고객
+Kanako:카나코
+Other Prisoner:다른 죄수
+Murmurs:중얼거림
+Trainees:연수생
+Takashi:타카시
+Older Girl:나이 많은 여자
+Aconite:아코나이트
+Lady Ordspythe:레이디 오드스파이스
+Track Club Member C:육상부원 C
+Teenage Girl 2:10대 소녀 2
+Relative B:친척 B
+Magic Club Member:마법부원
+Supervisor:감독관
+TV_A:TV A
+BROTHER:형
+Lorina:로리나
+First-Year Students:1학년생
+Someone Else:다른 사람
+Head teacher:교장
+Brigand Leader:도적단장
+Platoon A:A소대
+Hajime:하지메
+Suzuha:스즈하
+? ? ?:???
+Chucky:처키
+Chisato:치사토
+Meek Female Student:온순한 여학생
+Grandpa:할아버지
+Team Leader:팀장
+Seiji:세이지
+Observer:관찰자
+?_Kagari:카게리
+Mommy:엄마
+Half-Dead Dog:반쯤 죽은 개
+Usagi Modoki:우사기 모도키
+DD:DD
+Lady Elyon:레이디 엘리온
+Lady:레이디
+Chitoku:치토쿠
+Guidance:가이드
+Referee:심판
+Chan  OniichansHere:찬 오니찬스히어
+Ibis:이비스
+Orderly:오더리
+Axeman 2:액스남자 2
+Iga Ninja:이가 닌자
+Ichika:이치카
+Mao:마오
+Ant:개미
+Palace Guards:궁전 근위대
+youka:유카
+Light stand:라이트 스탠드
+Spectator A:스펙터 A
+Akiho:아키호
+Miu・Azusa・Nicola:미우・아즈사・니콜라
+Avery:에이버리
+Dealer A:딜러 A
+Shigure?:시구레
+Greyhide:그레이하이드
+?_Kotori:코토리
+Staff:스태프
+It soon hits me:곧 떠오른다
+Geladura:겔라두라
+Nya-Nya:냐냐
+Yoichi:요이치
+Question 1:질문 1
+Walter:월터
+Hoodlums:양아치들
+Bitter Man 3:비터남자 3
+Dark Cookie 2:다크 쿠키 2
+Restaurant Staff:레스토랑 직원
+女の子たち:여자의 자식
+Liam:리암
+Captain J:캡틴 J
+Female Archer 3:여자 궁수 3
+Mayumi:마유미
+Fuyu:후유
+Wrestler 1:레슬러 1
+Jacopo's father:자코포의 아버지
+Patient A:환자 A
+Store Owner:가게 주인
+Man's voice 2:남자의 목소리 2
+Taishi:타이시
+Atsuma:아츠마
+Upperclassman E:상급생 E
+Picture:그림
+Riki:리키
+ChildTaeko:차일드타에코
+Fan 4:팬 4
+Pink-Haired Girl:분홍머리 소녀
+Velrys:벨리스
+Planner:플래너
+Male Player:남자 플레이어
+Carny 2:카니 2
+Ebenholz:에벤홀츠
+1st Lt. Piatif:피아티프 중위
+Nozomi's mother:노조미의 어머니
+Mafia:마피아
+Vigilante B:비질란테 B
+Bird:버드
+Front:프론트
+Saizo:사이조
+Girl_Tomoko_Trial:토모코 소녀
+Freshman Student B:신입생 B
+Robot Baby:로봇 베이비
+Schoolgirl D:여고생 D
+Ela:엘라
+Man's Voice A:남자의 목소리 A
+Kiyomi:키요미
+Mysterious Person:수수께끼의 사람
+Male Pupil G:남학생 G
+Cadet 1:생도 1
+Alpha:알파
+Female Attendee 2:여자 참석자 2
+Emmeline?:에멀린
+Centered:센터드
+Printcher:프린트처
+Isaac:아이작
+Vicky:비키
+Little Brother:남동생
+Classmate D:동급생 D
+young person:어린 사람
+Yamanami:야마나미
+Rose:로즈
+Yukiko:유키코
+Club Member C:클럽 회원 C
+Investigator A:조사관 A
+Child_Trial:아동 체험
+Boarder Girls:보더 소녀스
+GeorgiosAttack:조지오스어택
+Tess:테스
+Javifather:자비파더
+Roches:로치스
+Akio:아키오
+young Student B:어린 학생 B
+p:p
+Amazon:아마존
+Movie Protag:영화 주인공
+Believer A:신자 A
+Lucoa:루코아
+Antoinette:앙투아네트
+Black Suit #2:검은 정장2
+Agnes:아그네스
+Head Chef:수석 셰프
+Capital:캐피탈
+Sales Clerk:영업 점원
+News Show:뉴스쇼
+・Day Three:3일
+Kira:키라
+Fencing Club Girl A:펜싱 클럽 소녀 A
+Roombo:룸보
+Ras:라스
+Asako:아사코
+News A:뉴스 A
+Sakanoue:사카노우에
+Boy D:소년 D
+Girl_Kagari:소녀_카가리
+Senpai:선배
+00 Unit:00부대
+screen:화면
+Okada:오카다
+E-mail:이메일
+Dark Cookie 1:다크 쿠키 1
+Rentarou:렌타루
+Masaomi:마사오미
+Robed Student D:로브 학생 D
+Sasami:사사미
+Wife A:아내 A
+Mil:밀
+Sarutake:사루타케
+Foreign Tourist B:외국인 관광객 B
+I mailed her back:그녀를 다시 우편으로 보냈습니다
+Committee Member C:위원 C
+COP:경찰
+Yu:유
+Team Member D:팀원 D
+Mana:마나
+Ruling Party Member:여당 의원
+Lecture Attendee:강의 참석자
+Reserved Legatus:예약 레가투스
+Familiar voice:익숙한 목소리
+Cannot:불가능
+Operator 2:운영자 2
+Chizuru's Mom:치즈루의 엄마
+Alice:앨리스
+Reporter C:리포터 C
+Irma:이르마
+Male Pedestrian 2:남성 보행자 2
+Robed Student C:로브 학생 C
+Kamikita:카미키타
+Guard 1:가드1
+Gustav:구스타프
+Hunter 4:헌터4
+Kunai Girl:쿠나이소녀
+Child's Voice:어린이의 목소리
+Gorin:고린
+Whiny voice:칭얼거리는 목소리
+Apostolic Knight:사도의 기사
+Prime Minister:총리
+Rusthammer Warrior:러스트해머 전사
+Robbie:로비
+Yamane:야마네
+Fishmonger:생선장수
+Church Servant:교회 하인
+Fumi:후미
+Barnier:바니에
+Koichi:코이치
+客１:손님 1
+Paya:파야
+Usami:우사미
+Crev:크레브
+Isabelle:이자벨
+Houzuki:호즈키
+Shiro:시로
+Small Boy:작은 소년
+Tokiwa:토키와
+Congressman B:의원B
+Akari:아카리
+Reporter 1:리포터1
+J:J
+Event Staff:이벤트 스태프
+Male:남자
+Sakashita:사카시타
+Bishop's Secretary:주교의 비서
+一同:일동
+Sei:세이
+Soap Princess:비누 공주
+Lolicon:로리콘
+Vampire C:뱀파이어C
+Ashe's Father:애쉬의 아빠
+Female classmate 1:여학생 반친구 1
+Spy 2:스파이 2
+Elliot:엘리엇
+Class S Student 2:S반 학생 2
+Little Nao:꼬마 나오
+Ermengarde?:에르멘가르드
+Male Students:남학생들
+Imperial Eishi 4:제국영사4
+Grizzly 4:그리즐리4
+Other Goblin:다른 고블린
+店長:장
+Audience Members:관객
+Ikuhara:이쿠하라
+Voice_Esaka:에사카의 목소리
+Morita:모리타
+Cla-Sel:클라셀
+Monster:몬스터
+Futabatei:후타바테이
+Royal Guard:왕실 경비대
+Celebrity B:셀러브리티B
+Random Dude:랜덤 녀석
+Haruka_Lucia:하루카 루시아
+Heartsong:하트송
+Black Suits:검은 정장들
+High-Speed Sparrow:고속 스패로우
+Toko:토코
+Tsukuyomi:츠쿠요미
+Female Voice:여자의 목소리
+Bern:베른
+Menial:하인
+Zelda:젤다
+Customer 1:고객1
+Journalist:기자
+Tunafish Boy:참치 소년
+Rugby club member:럭비부원
+Ugly Cat:못생긴 고양이
+Aina:아이나
+Sagiri:사기리
+Carny:카니
+Kikyou:키쿄
+Confused Girl:혼란스러운 소녀
+Miz:미즈
+Spineless Pervert:척추 없는 변태
+Sparrow:스패로우
+Gareth:개러스
+Colleague:동료
+TV narrator:TV 내레이터
+Woman_Trial:여자
+Michelle:미셸
+PA System:PA 시스템
+Freshmen:신입생
+Announcement:공지
+All Stingrays:모든 가오리
+Follower B:팔로워 B
+JUNPEI:준페이
+Food Stall Owner:음식 노점 주인
+Cecilia:세실리아
+Jon:존
+Nana:나나
+Vice-Principal:부교장
+Cindy:신디
+Marika:마리카
+Foreign Tourist:외국인 관광객
+Sanae:사나에
+Sato:사토
+Haruto:하루토
+Voice_Tenma:텐마의 목소리
+Vendor:판매자
+Voice_Akane:아카네의 목소리
+Resident:주민
+So:소
+In Chorus:합창
+Ochako:오차코
+Scary-looking Guy:무서운 외모의 남자
+Helen:헬렌
+Goblin 2:고블린 2
+Kate:케이트
+Pillow:필로우
+Terry:테리
+My mother:나의 어머니
+K's Connectors:K의 커넥터
+Maria:마리아
+Female Archer 2:여궁수 2
+Puppy:강아지
+Old Teacher:노인
+Daydream Wakana:데이드림 와카나
+Volthal:볼탈
+Karasuma:카라스마
+Sasamoto:사사모토
+Schoolgirl C_Trial:여고생 C
+K-Mine:K 마인
+Effie:에피
+young Nao:어린 나오
+Bandana Girl:반다나 소녀
+Phantom:팬텀
+Bitter Man 2:비터 남자 2
+Sophitia:소피티아
+Pair:페어
+Daimaro:다이마로
+Female classmate 2:여학생 반친구2
+Rowen:로웬
+Gangster A:갱스터 A
+Jane:제인
+Momoyo Fan 11:모모요 팬 11
+Rosalina:로잘리나
+School Broadcast:학교 방송
+Zakuro:자쿠로
+Kagami:카가미
+Female Student 6:여학생 6
+Jaeid:제이드
+Vice President:부회장
+Little Girl:어린 소녀
+?_Kotarou:코타로
+Paul:폴
+Akatsuki:아카츠키
+Usami Yoshinori:우사미 요시노리
+Kouya:코우야
+Kuroki:쿠로키
+Schoolgirl A:여고생A
+Muto:무토
+Female Staffer:여직원
+Spearman 3:창병3
+Village Chief:촌장
+Killer:킬러
+Prey:프레이
+Kururi:쿠루리
+Kisara?:키사라
+Chocola:초콜라
+Woman_Nishikujou:여자 니시쿠죠
+勝利者:승리자
+DETECTIVE:형사
+Freshman Girl:신입생 소녀
+Audience male 1:청중 남성 1
+Police officer B:경찰관 B
+Kakei Lookalike:가케이 닮은꼴
+Touya:토야
+Girl A:소녀 A
+Elder sister:언니
+Housewife C:주부 C
+Mercenary B:용병 B
+Emissary:사절
+SP2:SP2
+young Student C:어린 학생 C
+Jun:준
+Mizuha's voice:미즈하의 목소리
+Tsumugi:츠무기
+Touko:토우코
+Mascot:마스코트
+Orc Soldier:오크 군인
+Jaqueline:재클린
+Yamamoto:야마모토
+Conversation:대화
+Rosarian Noble:로자리안 귀족
+Gymnast Girl A:체조 소녀 A
+Igor:이고르
+Entire Company:전사
+Slave:노예
+Auctioneer:경매인
+Sugisaka:스기사카
+Old Woman_Trial:노파
+Ygriss:이그리스
+Base CO:베이스 CO
+Isamu:이사무
+Stoic Sister:스토익 시스터
+Nearl:니어
+Shioriko:시오리코
+Rikako_Trial:리카코
+Kotoko:코토코
+Mifuyu's mother:미후유의 어머니
+Sana:사나
+Navi:나비
+Goblin 52:고블린 52
+Weasel_Trial:족제비
+Old Man 2:노인 2
+Hidaka:히다카
+Carol:캐럴
+Mouse:마우스
+Female Orc:여자 오크
+Nun:수녀
+Mayo?:마요
+Eris:에리스
+Atilla:아틸라
+Client:고객
+Gloria:글로리아
+Maroudo's Soldier U:마루도의 군인 U
+Woman in Red:빨간 여자
+Tanuki A:타누키 A
+Hawk 2:호크 2
+Man_Suzaki:남자 수자키
+Orson:오슨
+Nishikujou:니시쿠주
+Officer-in-Charge:담당관
+Aikawa:아이카와
+Joker:조커
+Blue Blaze:블루 블레이즈
+Ariake:아리아케
+Egashira_Trial:에가시라
+PE Girl C:체육 소녀 C
+Female Student B:여학생 B
+Hawker:호커
+Brenda:브렌다
+Class E Student 2:E반 학생 2
+Miu・Azusa:미우・아즈사
+Prefect:반장
+Hammond:해먼드
+Three Fairies:요정세 마리
+Stray Dog:스트레이 독
+Cop D:캅 D
+Gang Remnant 1:갱 렘넌트 1
+Tsukamoto:츠카모토
+table:테이블
+Eri:에리
+S Cookie:S 쿠키
+Mahiru・Yayoi:마히루・야요이
+Vampire B:뱀파이어 B
+Tadaoki:타다오키
+Mom:엄마
+Bagpipe:백파이프
+(Fake) Nice Guy:(가짜) 착한 남자
+Konami's Friend A:코나미의 친구 A
+Girl_Shimako:소녀_시마코
+Virus:바이러스
+Johnny:조니
+Mutsujirou:무츠지로
+Chiave:치아베
+???:???
+Saya:사야
+Employee B:사원 B
+Keyhole:키홀
+Tsukushi:츠쿠시
+Hoodlum C:양아치 C
+Grandfather:할아버지
+Yumi:유미
+Kotori:코토리
+Farm Girls:농장 소녀들
+Nurse C:간호사 C
+Gambino:감비노
+Thief B:도둑 B
+Kawazoe:카와조에
+Amane:아마네
+Aiden:에이든
+Vigilante A:자경단 A
+Kid A:키드 A
+Card Soldier:카드 군인
+Automated Voice:자동 목소리
+Streaker:스트리커
+Close Aide A:밀착형 보좌관 A
+??_Shizuru:시즈루
+New Student's Dad:신입생 아빠
+Swimsuit Gal A:수영복 소녀 A
+Maroudo's Soldier 7:마루도의 군인 7
+Flashy Guy:화려한 남자
+God:신
+Fanatic B:광신자 B
+Nothing except:그 외에는 아무것도 없다
+Nipponese Soldier C:일본 군인 C
+Akane_Trial:아카네
+Ex-Delinquents:전직 비행 청소년
+Committee Member B:위원 B
+Minion 2:미니언 2
+Voice_Tenjin:텐진의 목소리
+Teacher B:선생님 B
+Guy's Club Member A:남자 동아리원 A
+Seller:판매자
+Hayase Nagare:하야세 나가레
+Freshman Girl A:신입생 여자 A
+Female Classmates:여학생
+Woman Next Door:옆집 여자
+Suzuki:스즈키
+Tough Guy:터프한 남자
+Vigilante Tetsu:자경단 테츠
+Vampire A:뱀파이어 A
+Conclusion:결론
+Tania:타니아
+Child A:어린이 A
+Security Announcer:경비 아나운서
+Staff_Nagai:스태프 나가이
+Beef Bowl Clerk:소고기 그릇 점원
+Student 2:학생 2
+Sona:소나
+American Eishi 4:아메리칸 에이시 4
+Pheromone:페로몬
+Sylvia Nightsong:실비아 나이트송
+Nanako:나나코
+Softball Club Capt.:소프트볼 클럽 캡틴
+Fuhito:후히토
+Asumi's Dad:아스미 아빠
+Mariko:마리코
+Commercial:상업
+Whole class:전체 학급
+Medic:메딕
+Tamara:타마라
+Eddie:에디
+Mina's Mother:미나의 엄마
+Dodo:도도
+Odette:오데트
+Sheep:양
+Tattoo Guy:문신 남자
+Ayumi:아유미
+Harold:해럴드
+Medic A:메딕 A
+Mysterious Voice 2:신비한 목소리 2
+Someya:소메야
+Innkeeper Zheng:여관 주인 정
+Phone:전화
+Child Haruna:하루나 어린이
+Amber:앰버
+Apprentice:견습생
+Kousuke:코스케
+Cafe Clerk:카페 점원
+Guild Newbie:길드 신입생
+Misuma:미스마
+Takemoto:타케모토
+gir:여자
+Hanako:하나코
+Female Pedestrian 1:여자 보행자 1
+Mako's Voice:마코의 목소리
+Misaki:미사키
+Hijiri:히지리
+Cosplay Hero:코스프레 히어로
+杉山さん:스기야마 씨
+Warfarin:와파린
+JB:JB
+Dignified Lady:품격 있는 아가씨
+ASP's Takahashi:ASP의 다카하시
+Unknown 2:???
+L.G.D. Agent:LGD 에이전트
+Delinquent's Mom:불량범의 엄마
+Class F Boy:F급 소년
+PreOct:프리옥트
+Club Member A:클럽 멤버 A
+Girl_Yasuko:소녀_야스코
+Voice_Pani:파니의 목소리
+Peasant girl:농민 소녀
+Unknown Number:알 수 없는 번호
+Momoyo Fan 2:모모요 팬 2
+Female guest A:여자 손님 A
+Matsuri:마츠리
+Makoto:마코토
+young French Lady:어린 프랑스 아가씨
+Hashimoto:하시모토
+Alpaca:알파카
+Ishikawa:이시카와
+Panicked youth:당황하는 청춘
+Chikashige:치카시게
+Bret:브렛
+pla:프라
+Kaname's Dad:카나메 아빠
+Kal'tsit:칼치
+Momoyo Fan 9:모모요 팬 9
+Terrorist A:테러리스트 A
+Ash:애쉬
+Capt. Isumi:캡틴 이스미
+Chu:추
+Sybil:시빌
+Aloe:알로에
+Mage:마법사
+Stooped Grandmother:구부러진 할머니
+Toga:토가
+Karate Fighter:가라테 파이터
+Kotomi:코토미
+Iinuma:이누마
+Trinity:트리니티
+HQ Operator 1:HQ 운영자 1
+Tomoki's Corpse:토모키의 시체
+young Asuka:어린 아스카
+Casino Customer B:카지노 고객 B
+Horn:호른
+Terrorist C:테러리스트 C
+Iko:이코
+Kotori_Additional:코토리_추가
+Student A:학생 A
+Maya:마야
+Ryuunosuke:류노스케
+Travel companion:여행 동반자
+Sumire:스미레
+Circus 1:서커스 1
+Sniper:저격수
+Visitor:방문자
+Chisaki:치사키
+FrostNova:프로스트노바
+Father:아버지
+Naughty:장난꾸러기
+Cooking Club Member:요리 동아리원
+Messi:메시
+Kogasaka you:코가사카 유
+Clown:광대
+Gang Remnant 2:갱 잔당 2
+Xanthippe:크산티페
+Energetic Girl:에너제틱 소녀
+from:프롬
+Guy Who Dies:죽은 사람
+Kronn:크론
+God Of Death:죽음의 신
+Nine:나인
+Ms. Christine:미스 크리스틴
+Yota:요타
+Soldier 1:군인 1
+Voice 3:보이스 3
+Matsukaze?:마츠카제
+Violent Mercenary:폭력적인 용병
+Kurage:쿠라게
+Emilia:에밀리아
+Masataka:마사타카
+Step 2:2단계
+Ohtsuka:오츠카
+Isaak:이삭
+Shizuru_Unneeded:시즈루
+Tarek:타렉
+Policeman B:경찰관 B
+Wei general:웨이 장군
+Shigeru:시게루
+Chemistry Teacher:화학 교사
+SP:SP
+Thug A:깡패 A
+College Girl C:대학생 C
+Baby Boomer:베이비 부머
+Angry Goblin:화난 고블린
+Eika:에이카
+Reeds:리즈
+Onlooker A:방관자 A
+Class C Girl 1:C반 여자 1
+Sarah:사라
+Boy B:소년 B
+Asahiko:아사히코
+President:대통령
+Cosplayer:코스프레
+Voice_Ohtori_Trial:오토리의 목소리
+Slacker 1:백수 1
+Shakadou:샤카도
+Test 2:테스트 2
+Audience 8:청중 8
+Women:여자
+Melano:멜라노
+Kouki:코우키
+Yamato:야마토
+CasparAttack:카스파 어택
+Takafuji Girl A:타카후지 소녀 A
+Aoi:아오이
+False Stryker:거짓 스트라이커
+Kazuo:카즈오
+Kazutoyo:카즈토요
+Mothra:모스라
+Takafuji Girl C:타카후지 소녀 C
+Drokk:드록
+Ayato:아야토
+Esaka:에사카
+Naughty Kid:나쁜 꼬마
+Student's Dad:학생 아빠
+Hood:후드
+BurroughsAttack:버로스 어택
+Papa:아빠
+Nole:놀
+Rin's Mother:린의 엄마
+IvanhoeAttack:아이반호 어택
+Audience 1:청중 1
+Psychologist:심리학자
+Childcare Girl A:보육원 소녀 A
+Audience 5:청중 5
+Securiy Guard:경비원
+Caspar-Type Avatar:카스파형 아바타
+B:B
+Megu:메구
+Infected Prisoner C:감염된 죄수 C
+Akane_Phone:아카네 핸드폰
+Kojima:코지마
+ThEileen:세일린
+Student 3:학생 3
+Throughout Class:교실 전체
+Yoshino:요시노
+Lena:레나
+Midori:미도리
+Shiroyama:시로야마
+Chef:셰프
+Mieru:미에루
+Nanao:나나오
+Virgin Emperor:성황제
+Kamijou:카미조
+Natsume:나츠메
+Giselle:지젤
+Rebel Eishi 1:반란군 에이시 1
+Female teacher:여교사
+Howard:하워드
+Prefect 2:반장 2
+Master:마스터
+Ayumu:아유무
+Wakana:와카나
+Shuuji:슈우지
+Ghost A:고스트 A
+Takayanagi:타카야나기
+White Wolf:하얀 늑대
+Victor 4:빅터 4
+Laugher:웃음
+Satouin:사투인
+Tetsuya:테츠야
+F Army Fighter:F군 파이터
+Retiree:은퇴자
+Yakuza 1:야쿠자 1
+High Noble:하이 노블
+Shibata・Mikami:시바타·미카미
+Momo:모모
+Cliohna:클리오나
+Cadet:생도
+Sachi:사치
+Isobel:이소벨
+Skirt Chaser:스커트 체이서
+Wolf-Girl:늑대소녀
+Gamble 4:갬블4
+Tulip:튤립
+Helga:헬가
+American Eishi 12:아메리칸 에이시12
+Nishida:니시다
+Iijima:이지마
+Wife:아내
+Old teacher:노선생님
+Nomura:노무라
+Imeon:이메온
+Major Commentator:메이저 해설자
+F Army Fighter 31:F아미 파이터31
+Rachel:레이첼
+Boy_Trial:소년
+Kiyoshi:키요시
+Hisoka:히소카
+Black Suit #14:검은 정장 14
+Guard 2:가드2
+I would say:그럴까요
+Owner:주인
+Puppy?:강아지
+Sand Soldier:모래 군인
+Trip:여행
+Guard?:가드
+Cover Artist:커버 아티스트
+Childcare Teacher:보육교사
+Reclus' Friend #2:은둔형 친구 2
+Servant 3:하인 3
+Underclassman B:하급생 B
+A-Zone Prisoners:A구역 죄수들
+Innkeeper:여관 주인
+Infected Student:감염된 학생
+Aide:보조원
+Female believer:여신도
+Trash 3:쓰레기 3
+Teacher 5:선생님 5
+Pedestrian 5:보행자 5
+Mikami:미카미
+Cute Girl:귀여운 소녀
+Wounded Mercenary:부상자 용병
+Maroudo's Soldier 8:마루도의 군인 8
+Chouji:초지
+Dorm Student:기숙사 학생
+Yamato's Mom:야마토의 엄마
+Winter Fang:겨울 송곳니
+UN Soldier 1: UN군 1
+Eina:에이나
+Elina:엘리나
+Giordano:지오르다노
+Obel:오벨
+Miss Du:미스 두
+Spectator 1:관객 1
+Child B:어린이 B
+Teacher 4:선생님 4
+Snag:스내그
+Nakabachi:나카바치
+Sakurako:사쿠라코
+College Girl A:여대생A
+Angry voice:성난목소리
+Orc Bandit:오크산적
+Komu:코무
+Foreign Man A:외국인A
+Orc Chief:오크족장
+Frivolous Guy:경박한남자
+Kaoruko:카오루코
+Ageha:아게하
+Gen:젠
+Tomoe's Mom:토모에엄마
+Shashi Devi:샤시데비
+Velliv:벨리브
+Adelheid:아델하이드
+Sumi:수미
+Cinnamon:시나몬
+Kotani:코타니
+Paid Actors:유료배우들
+Columbian Magnate:비안대왕
+Suzaki:스자키
+Yukihiro:유키히로
+Haughty girl:도도한 소녀
+Emperor:황제
+Announce:공지
+Masha:마샤
+Spot:스팟
+Yuuko:유코
+Ball:볼
+Jou:쥬
+Kagami:카가미
+Tsukasa:츠카사
+Misae:미사에
+Chair:의자
+Goblin 49:고블린 49
+Human-faced Pig:인면돼지
+Female Archer 1:여궁사1
+Man 3:남자3
+Candela:칸델라
+Ribbon_Kagari:리본_카가리
+Tomoki:토모키
+Clear Alpha:클리어 알파
+Friend:친구
+Yang:양
+Evil Person:사악한 사람
+Frail-Looking Boy:허약해 보이는 남자아이
+Monique:모니크
+Student C:학생 C
+Weird Thing:이상한 것
+Virgil:버질
+Aoi's Fan 2:아오이의 부채 2
+Shocola:쇼콜라
+Nidzche:니체
+Bushes:부시즈
+Misako:미사코
+Trio C:트리오 C
+Junior:주니어
+Mitcher:미처
+English Teacher:영어 선생님
+Evil\\Spirit?:사악한 정령
+Ansai_Trial:안사이
+Royal Knight:로얄 나이트
+Sevon:세본
+Reporter 3:리포터 3
+Inn Assistant:여관 조수
+Merchant:상인
+Kotori_Phone_Trial:코토리_전화
+Rune:룬
+Senjitsu:센지츠
+Ayase:아야세
+Student Girl C:여학생 C
+Kayto:케이토
+PS Member:PS 멤버
+young Drunk:젋은 술주정뱅이
+Gil_Unneeded:길
+Wilhelm:빌헬름
+Yuuhi:유히
+・Hypothesis 1:가설 1
+Girl Student A:여학생 A
+Male Attendee 3:남자 참석자 3
+Company President:회사 사장
+Sylaris:사이라리스
+Sayo's Father:사요의 아버지
+Foodlum:푸드럼
+Ringtone:벨소리
+Sayori:사요리
+Slender-Faced Guy:날씬한 얼굴의 남자
+Mihato:미하토
+Cosplay Monster:코스프레 몬스터
+Schoolboy A_Trial:학생 A
+Strange Voice:이상한 목소리
+Sayo・Anna:사요・안나
+Jezera:제제라
+Zakuro:자쿠로
+Laborer:노동자
+First-year Girl A:1학년 여자 A
+Shinano Operator 3:시나노 운영자 3
+Kelley_Trial:켈리
+Bouncer:바운서
+Elderly Attendant:노인
+Dorm Head:기숙사 사감
+Mirari:미라리
+Tuekes:투케스
+Deviant:변태
+Guard:가드
+Those After Yuuma:유마 이후의 사람들
+Canteen Lady:식당 아줌마
+Toa:토아
+Glowing Figure:빛나는 모습
+Actor A:배우 A
+Etoh:에토
+Gymnast Girls:체조 소녀
+Scrawny Kid:말랐던 아이
+Bakery Owner:빵집 주인
+Red:레드
+Gardener:정원사
+Anzu:안즈
+Nene's Father:네네의 아버지
+Steward:집사
+Danny:대니
+Melantha:멜란타
+Derek:데릭
+NewMemberB:신규 멤버 B
+Dog_Chibimoth:개_치비모스
+・Hypothesis 3:가설 3
+Granny:할머니
+Mysterious Big-tits:수수께끼 큰 가슴
+Elder:엘더
+Boys:소년
+you obtained Info:정보를 얻었음
+Kurugaya:쿠루가야
+Maid 1:메이드 1
+young:청년
+Thief A:도둑 A
+NewMemberC:신규 멤버 C
+Faris:파리스
+Guy A:남자 A
+Hare C:토끼 C
+Sauber 3:자우버 3
+History Teacher:역사 교사
+Claus:클로스
+Businessman C:사업가 C
+Creator Girl A:크리에이터 소녀 A
+Knight:기사
+Clique Leader:파벌 리더
+Mysterious girl:수수께끼의 소녀
+Reo:레오
+Tomahawk 3:토마호크 3
+Vampire E:뱀파이어 E
+Shibukawa:시부카와
+Male Club Member:남성 클럽 멤버
+Female soldier:여군
+Person on the phone:전화 상대
+Female nerd:여자 괴짜
+Eve:이브
+Sharp:샤프
+Yuka's mother:유카의 어머니
+Schoolboy B_Trial:학생 B
+Kouda:코우다
+Chapter 4:4장
+Riley:라일리
+Desk:책상
+Topanga:토팡가
+Taniguchi:타니구치
+Cheerful Infected:쾌활한 감염자
+Voyeur Lady:관음녀
+Male Employee:남자 직원
+Its title:직함
+Female Classmate:여자 반 친구
+Audience Member 2:관객 2
+Invitee:초대자
+Kinjirou:킨지로
+Shop Clerk:매점 직원
+Track Club Member A:육상부원 A
+Vanguard Operator:선봉대 운영자
+Witch_Akane_Trial:마녀 아카네
+Koumura:코우무라
+Komiya:코미야
+Weather Lady:날씨 여인
+Elina:엘리나
+Club Member B:부원 B
+Izawa:이자와
+Spectator C:관객 C
+Iris:아이리스
+Jimmy:지미
+Maroudo's Soldier W:마루도의 군인 W
+CENTIPEDE:지네
+Jiro:지로
+Card Soldier D:카드 군인 D
+Esther:에스더
+Bending Tree:구부리는 나무
+Airport Manager:공항 관리자
+Wolf:늑대
+Girls:여자아이들
+Freshman Student C:신입생 C
+Tatsumi Moheiji:타츠미 모헤이지
+Lucifuge:루시푸게
+Teenage Girl:10대 소녀
+Wrestler 2:레슬러 2
+Fan A:팬 A
+young Jacopo:어린 자코포
+Examinator:심사관
+Female Classmate 1:여학생 1
+Sensei:선생님
+Shrine Maiden:무녀
+Class S Student:S반 학생
+Infected Prisoner A:감염된 죄수 A
+The Pope:로마 교황
+Momo group:모모 그룹
+Rebel Eishi 6:반항아 이시 6
+Woman Announcer:여 아나운서
+Ruler:통치자
+Izanami:이자나미
+Hina:히나
+Voicemail:목소리 메일
+Class F Boys:F반 남자
+Beignet:베이그네
+Ursula:우르술라
+2B:2B
+Suzune:스즈네
+Rich:부자
+DAD:아빠
+Cypress:사이프러스
+Others:기타
+Lab worker:연구실 직원
+Old Man B:노인 B
+Schoolgirl C:여학생 C
+Mail service:우편 서비스
+Agares:아가레스
+Estraea:에스트레아
+Roka:로카
+Koharu:코하루
+Nearby Housewife:근처 주부
+Card Soldier B:카드 군인 B
+Held-Back Student:억류 학생
+Cicada:매미
+Makura:마쿠라
+Mizue:미즈에
+Kazimierz Villager:카지미에 마을 사람
+Voice_Chihaya:치하야의 목소리
+Haruka's Dad:하루카의 아빠
+Cabal Members:카발 멤버
+Lafayette Captain:라파예트 대장
+Cycling male:자전거 타는 남자
+☆Ra:☆라
+Rude Guest:무례한 손님
+Iroha:이로하
+Black Suit #18:검은 정장 18
+Black Suit #1:검은 정장 1
+Assassin 1:암살자 1
+Curly-Haired Girl:곱슬머리 소녀
+Limping Orc:절름발이 오크
+Infected Prisoner B:감염된 죄수 B
+Noe:노에
+Lady Whittier:레이디 휘티어
+Fumiko:후미코
+Fencing Club:펜싱부
+Hot Headed Orc:성급한 오크
+? ??:???
+Goblin Teen:고블린 틴
+Tourist B:관광객 B
+Goth Loli:고스 로리
+A-Ne:아네
+Akimoto's Buddy A:아키모토의 친구 A
+Excited Girls:흥분한 소녀들
+Nii:니
+Mogami Operator 3:모가미 운영자 3
+Kessie:케시
+Oone Sachiyo:오네 사치요
+Boss' Friends:보스의 친구들
+Cop B:경찰 B
+Main Character:주인공
+Stalker:스토커
+Henry Sugikawa:헨리 스기카와
+?_Ex-Prez_Trial:전직대통령
+Jay:제이
+Frena:프레나
+Mayuki:마유키
+Gideon:기디언
+Outpatient Nurse A:외래간호사 A
+Boss:사장
+First-Year Girl:1학년 여자
+Iyo:이요
+Minokasa:미노카사
+Miu:미우
+Calhoun:칼훈
+Just:저스트
+Unpopular Man A:인기없는 남자 A
+Extreme Argument 1:극단적 주장 1
+Yumi:유미
+Congregation:집회
+Ursus Farmer:우르수스 농부
+Kenichi:켄이치
+Dingo:딩고
+Suspicious Person:수상한 사람
+Javi:하비
+Hunter C:헌터 C
+Sarkaz Mercenary:사르카즈 용병
+Bystander:방관자
+Rancou:란코
+Tsukasa's father:츠카사의 아버지
+Key_Kagari:키_카가리
+Scale:스케일
+Sayo-sama?:사요사마
+Naota・Kouya:나오타・코우야
+Fubuki:후부키
+Sayaka:사야카
+Murasame:무라사메
+Benio:베니오
+Mechanic 2:메카닉 2
+Coworker 5:동료 5
+Zima:지마
+Konomi:코노미
+Motoko:모토코
+Masahiko:마사히코
+Employees:직원
+Ada:아다
+Takuyo:타쿠요
+Radio:라디오
+Bootleg:부틀렉
+Gang Leader:깡패
+Tourist?:관광객
+Continuation:계속
+Himawari:히마와리
+Queen:퀸
+Opponent:Operator
+憂緒:憂緒
+Kamiyo:카미요
+Minotaur:미노타우로스
+Minakami:미나카미
+Diana:디아나카
+Male Student 3:남학생 3
+Nanaka:나나카
+Koshiki:코시키
+Tomoyori:토모요리
+Jo:조
+Playboy B:플레이보이 B
+Aya:아야
+AUDIENCE:오디션
+Broadcast Club Girl:방송 클럽 소녀
+Scathing Durin:신랄한 듀린
+Oomura:오무라
+Nagisa:나기사
+She's right:그녀가 맞아
+Keiko:케이코
+Helayna:헬레이나
+Metatron:메타트론
+Sai:사이
+Maroudo's Soldier Z:마루도의 군인Z
+Housewife:주부
+Suga Hideto:스가 히데토
+Girl's voice:소녀의 목소리
+Staffer B:직원 B
+Management studentＦ:경영학생Ｆ
+Honda:혼다
+`3rd Year Girl 3:3학년 소녀3
+luc:루크
+Victor 2:빅터 2
+Patient B:환자 B
+Fujiwara:후지와라
+S Army Soldier:S군 군인
+young boy:어린 소년
+Scientist:과학자
+Mother:어머니
+Blitz:블리츠
+Orc Cook:오크 요리사
+Singer:가수
+Rabbit:토끼
+Dealer D:딜러 D
+Mc:맥
+N. Bison:N. 바이슨
+Exalted Angel:고귀한 천사
+Tsukuno_Nagai:츠쿠노 나가이
+Round Table Member:원탁 멤버
+armed maid:무장한 메이드
+Narumo:나루모
+Takasago:타카사고
+Ten:텐
+Renya:레냐
+Sedmy:세드미
+Sam:샘
+Band Member:밴드 멤버
+Other Drunk:다른 술주정뱅이
+Mr Amateur Virgin:아마추어 처녀
+Girl_Akane:소녀_아카네
+Cabinet:캐비닛
+Energetic Kid:활기찬 꼬마
+Tianwen:티안웬
+Sayoko:사요코
+Kazutoi:카즈토이
+Yukito-:유키토-
+Agent:요원
+Touma:토우마
+Dark Cookie 3:다크 쿠키 3
+Villager 2:마을 사람 2
+Girl in bath towel:목욕 타월을 두른 소녀
+ペリー:페리
+Succubus:서큐버스
+Slaver:노예상인
+Sunohara:스노하라
+Axy?:악시
+S Cookie 2:S 쿠키 2
+Class Officer:반장
+Mariya:마리야
+Vampire:뱀파이어
+Kazuki:카즈키
+young Yuka:어린 유카
+STAFF:스태프
+STARNOVA:스타노바
+Servant:하인
+ＨＱ:ＨＱ
+Radio DJ:라디오 DJ
+Hestia:헤스티아
+Foreign Woman B:외국인 여자 B
+Celebrity A:연예인 A
+Classmate B:반 친구 B
+Teacher 6:선생님 6
+Columbian Police:콜롬비아 경찰
+Teammate:팀원
+SHIRO:시로
+Yamanouchi:야마노우치
+Rufus:루퍼스
+Capone:카포네
+Ryou:료
+Guest:게스트
+wagi:와기
+Trio B:트리오 B
+Girl with Buns:빵 소녀
+Shimokitazawa:시모키타자와
+Lookout C:루크아웃 C
+Toshiru:토시루
+Voice_Kotarou:코타로의 목소리
+Tamir:타미르
+Soul:소울
+Ladybug:레이디버그
+Lucia:루시아
+Sue:수
+あやせ・七海・茉優・羽月:아야세・나나카이・마츠마사・하츠키
+Bandersnatch:밴더스내치
+Mysterious Men:신비한 남자
+Black Dog:블랙독
+Woman客:우먼 客
+Inner voice:내면의 목소리
+Moca:모카
+Raillord:레일로드
+Gabriel:가브리엘
+Judge:판사
+Pedro:페드로
+Aoba:아오바
+Kano:카노
+Nurse B:간호사 B
+Tue-Lin:튜린
+Kylee:카일리
+American Eishi 18:아메리칸 에이시 18
+Local:로컬
+Mika:미카
+Hiro:히로
+Old Men:노인
+Male Student 2:남학생 2
+Platoon B:플래툰 B
+Churchgoer:교회 신자
+Street youth:거리 청년
+Guest A:게스트 A
+White Aoba:화이트 아오바
+Sparrow Kato:스패로우 카토
+OutCast B:아웃캐스트 B
+Voice_Lucia:루시아의 목소리
+Yuno:유노
+Fanatic A:광신자 A
+Li-Fang:리팡
+Woman At Table:식탁의 여인
+Mariah:마리아
+youth:청춘
+Reon:레온
+Jabberwock:재버워크
+Boralcoche:보랄코체
+Diary:일기
+Handsome Waiter:잘생긴 웨이터
+Leonhardt:레온하르트
+I suddenly thought:갑자기 생각났어
+Girl with Braids:땋은 머리 소녀
+Kumakuma:쿠마쿠마
+Commander:사령관
+Hoodlum B:양아치 B
+Nursing Assistant:간호 조수
+Sakuraba:사쿠라바
+??_Kotori:코토리
+Mina A:미나 A
+Maroudo's Soldier M:마루도의 군인 M
+Michi:미치
+Gethel:게델
+Ghost B:고스트 B
+Kisuke:키스케
+Student_Trial:학생
+Lavynia:라비니아
+Friendly Lady:친절한 아가씨
+Campanella:캄파넬라
+Otome:오토메
+Female Neighbor 1:여자 이웃 1
+Nobles:귀족
+Pigeon:비둘기
+remi:레미
+Closure:클로저
+CheLucoa:체루코아
+Chiharu:치하루
+Rommel:롬멜
+Official:공식
+Man from the bus:버스의 남자
+Baraki:바라키
+Customer 3:고객 3
+Rieko:리에코
+Kid's Mother:아이들의 엄마
+Mara:마라
+Personnel:인사
+Toyo:토요
+Conor:코너
+Track Club Girl A:육상부 여자 A
+HQ Operator 3:HQ 운영자 3
+Haruto Clone:하루토 클론
+Fire data:화재 데이터
+Varga:바르가
+MP 2:MP 2
+Calm Legatus:침착한 레가투스
+Maid$Junichiro:메이드주니치로
+Researcher:연구자
+Fang:팡
+Gwen:웬
+Armed Infected:무장감염자
+Reunion Soldier B:리유니언 군인 B
+Mitsuru:미츠루
+Gail:게일
+Rintaro:린타로
+Girl C:여자 C
+Middle School Girl:중학생
+Kosugi:코스기
+Chihaya_young:치하야_영
+Theresa:테레사
+Kojirou:코지로
+Takafuji Members:타카후지 멤버
+Ambassador:대사
+Tobari:토바리
+Elderly Lady:할머니
+Mamiya:마미야
+Senomy:세노미
+Kazuko:가즈코
+Thorn Knight:가시나기사
+TV Show Guy:TV쇼남자
+Hyoma:효마
+The Answer:답
+Surgical Ward Nurse:외과 병동 간호사
+Parent B:부모님 B
+Doctor:의사
+Shimoyama:시모야마
+This is it:이게 다야
+Torbjorn:토르비욘
+Security A:경비원 A
+Cookie?:쿠키
+Pauline:폴린
+Boy C:소년 C
+Bar owner:술집 주인
+Meriandra:메리안드라
+Man's Voice B:남자의 목소리 B
+Inner Voice:내면의 목소리
+Pedestrian 4:보행자 4
+Watanabe:와타나베
+Mysterious Voice 5:신비한 목소리 5
+Shirou:시로
+Onlookers:방관자들
+My one question is:내가 궁금한 건
+Specter?:스펙터
+Dobermann:도베르만
+Male Idol:남자 아이돌
+Yamato Operator 1:야마토 운영자 1
+Ayaka:아야카
+Scholar:학자
+Lady Customer A:손님A
+Teacher 2:선생님 2
+Eishi 2:에이시 2
+Jacopo:야코포
+Nya-Nya's Mother:냐냐의 엄마
+Tanukis A & B & C:타누키스 A와 B와 C
+Technical Officer:기술관
+Ikurou:이쿠로
+Son-in-Law:사위
+Hibiki:히비키
+Suhama:스하마
+Rio:리오
+Female Dorm Head:여숙사
+Older Goblin:늙은 고블린
+Yuriko:유리코
+Sorami:소라미
+Fae Courtier:페이 브로커
+Maou:마오
+Machete:마체테
+Reporter A:리포터 A
+・Day Four:4일
+Provence:프로방스
+Dr. Drakken:Dr. 드라켄
+Man from Guardian A:남자 프롬 가디언 A
+・Day Two:2일
+Townsperson B:타운퍼슨 B
+Drunk B:드렁크 B
+Palrog:팔록
+Wen-Di:웬디
+Boy E:소년 E
+Kaneda:카네다
+Rudo:루도
+Darkness Executive:다크니스 임원
+“Yuuji”:유지
+Male Student:남학생
+Riggs:릭스
+Sharp-eyed Girl:눈이 날카로운 소녀
+Guide:가이드
+Girl D:소녀 D
+【Yuuma:유마
+Armoured Man B:갑옷 입은 남자 B
+Colonel:대령
+Aurora:오로라
+Nicola・Elina:니콜라・엘리나
+Urute:우루테
+Lilith?:릴리스
+?_Chibimoth:Chibimoth
+Thug B:깡패G B
+Saki's siblings:사키 남매
+Sickly Mother:병든 엄마
+Saigo:사이고
+Angel A:엔젤 A
+Amadeus Kurisu:아마데우스 쿠리수
+Jor-Bow:조르보우
+Girl 3:소녀 3
+Mister D.:미스터 D.
+Researcher 1:연구원 1
+Hunter 3:헌터 3
+All 4:모두 4
+Prefect 3:반장 3
+Kobachi:코바치
+Mannered Infected:매너드 인펙티드
+Draith:드레이스
+Little Itsuki:리틀 이츠키
+46A:46A
+Food Stand Owner:음식점 주인
+Luka:루카
+Member B:멤버 B
+Maroudo's Soldier B:마루도의 군인 B
+Ex-Delinquent:전 불량자
+Warchief:대족장
+Actor B:배우 B
+Kuon:쿠온
+Barkeep:바텐더
+Ikegami:이케가미
+Hifumi:히후미
+Takaaki:타카아키
+Audience:관객
+Uncle:삼촌
+Catherine:캐서린
+Reporter 2:리포터 2
+Tomimi:토미미
+Tomoe:토모에
+Revised:개정
+Nellie:넬리
+Reinforcements:리인포스먼트
+Brunette Noble:브루넷 노블
+Midwife:조산사
+Młynar:음위나르
+Ochi:오치
+Skyfire:스카이파이어
+Tsubaki:츠바키
+Stephania:스테파니아
+Kid C:키드 C
+Infected:감염
+Familiar:익숙함
+orcm:또는cm
+Momoyo Fan 1:모모요팬1
+Terrorist E:테러리스트 E
+Luis:루이스
+×××:×××
+Icchi?:이치
+Adam:아담
+White hair:백발
+Female Student A:여학생A
+young Aspirant:어린 지망생
+Megumi:메구미
+Ghostfather:대부
+Feature Article:특집기사
+God’s voice:신의 목소리
+Stall Owner:노점주
+Option_4:옵션 4
+Marin:마린
+Riruru:리루루
+M-Chiru:M치루
+Archosauria C:아르코사우리아 C
+Schoolgirl A_Trial:여학생 A
+Amaia:아메이아
+Bonjin-kun:본진군
+Alty:알티
+Tadakatsu:타다카츠
+Neighbor:이웃
+Queen Bee:퀸비
+Kato:카토
+Sister C:시스터C
+Kirihito:키리히토
+Parking Attendant:주차관리인
+Bitter Man 5:비터남자5
+Count Yule:율백작
+Brown:브라운
+?_Sakuya:사쿠야
+Dragon 1:드래곤 1
+Tsuzumi:츠즈미
+Email friend:이메일 친구
+Janitor:관리인
+Female Student C:여학생 C
+Laundry:세탁소
+Maud:모드
+Special Soldier:특수 군인
+Staff Office:직원 사무실
+Kenji:켄지
+Billy:빌리
+Box:박스
+Classmate E:클래스메이트 E
+Assassin 2:어쌔신 2
+Oslo:오슬로
+Voice:보이스
+News Broadcast:뉴스 방송
+Miyazawa:미야자와
+Pilot:파일럿
+Ran:란
+Summoner:서머너
+Yua?:유아
+Haga:하가
+Card Soldier C:카드군인 C
+Townsperson:마을사람
+Boy #3:소년 3
+Samurai:사무라이
+Shirayuki:시라유키
+Saho:사호
+Male guests:남자 손님
+Sarkaz Warrior:살카즈 전사
+Azumi x7:아즈미 x7
+Aimee:에이미
+Tsunderella:츤데렐라
+Yomi:요미
+Chamberlain:체임벌린
+Sister:시스터
+司会者:사신자
+Voyeur Girl B:도촬소녀B
+Maroudo's Soldier 5:마루도의 군인5
+Akaber:아카베르
+Darla:달라
+Faris' Dad:페리스의 아빠
+American Eishi 13:아메리칸 에이시 13
+Victor 3:빅터 3
+Voice_Gabriel:가브리엘의 목소리
+Melody:멜로디
+Maroudo's Soldier L:마루도의 군인 L
+Saint Carmen:세인트 카르멘
+Crow:까마귀
+Chan  Kyousuke_39:찬 쿄스케_39
+?????:???
+Thiago:티아고
+Yakumo:야쿠모
+Spectator D:스펙테이터 D
+Elle:엘르
+Yuka:유카
+Female Student E:여학생 E
+Monitor:모니터
+Terrorist B:테러리스트 B
+News H:뉴스H
+Susie:수지
+Question 25:질문 25
+mako & Murasame:마코 & 무라사메
+Raphtalia:라프타리아
+Vigilante Takemaru:자경단 타케마루
+Lirio:리리오
+Satuki:사츠키
+Oone Kouki:오네 코우키
+Winnifred:위니프레드
+Male soldier:남병
+Frivolous Noble:경박한 귀족
+Kouga Ninja:코우가 닌자
+Big Sister:언니
+Griffin:그리핀
+Genjuurou:겐쥬로
+Hyberion:하이베리온
+Fumizuki:후미즈키
+Reika:레이카
+Best friend:베스트프렌드
+Masamune:마사무네
+Robed Student B:학생 강도 B
+女子生徒Ａ:여자생생Ａ
+Guy in Suit:슈트를 입은 남자
+Darkness:다크니스
+Friend 1:친구 1
+Sakai:사카이
+Passenger C:승객 C
+Ririko:리리코
+Hazuki's Mom:하즈키 엄마
+Noble wife:귀족의 아내
+Kinoshita:키노시타
+Inui:이누이
+F Army Fighter 48:F 아미 파이터 48
+Math teacher:수학 선생님
+Male Neighbor 1:남자 이웃 1
+Isamu's mother:이사무의 엄마
+Game Participant:게임 참가자
+Hiyori・Moeka:히요리・모에카
+Fee Collector:수수료 징수원
+Worker A:근로자 A
+Creator Boy A:크리에이터 소년 A
+Passenger B:승객 B
+Kitten Cinnamon:고양이 시나몬
+Presenter:프레젠터
+Illa:일라
+Greengrocer:청과상
+Charlotte:샬럿
+Grizzly 2:그리즐리 2
+Prisoner A:프리즈너 A
+Miu・Elina・Nicola:미우・엘리나・니콜라
+Prelim MC:예비 MC
+Osawa:오사와
+Cla-Lij:클라리
+Inuta:이누타
+Kakeru:카케루
+Class Girl B:클래스 소녀 B
+Clerk:클러크
+Team Member E:팀원 E
+Roka's Mom:로카의 엄마
+Miyu:미유
+PantagruelAttack:판타그루엘 공격
+Question:질문
+Captain Kelly:켈리 선장
+Ezell:에젤
+Natose:나토세
+Noelle:노엘
+Shizuka:시즈카
+Okita:오키타
+Madison:매디슨
+HaruKanata:카나타 하루
+Cafeteria lady:식당 아줌마
+Razaphel:라자펠
+Lavynith:라비니스
+Class 2-F Soldiers:2F군인
+Gummy:거미
+Goblin 133:고블린 133
+Levy 5:레비 5
+Kile:카일
+OutCast C:아웃캐스트 C
+Cla-Tre:클라트레
+Tsujimoto:츠지모토
+Maroudo's Soldier C:마루도의 군인C
+Black Sheep:흑양
+Gun Fanatic:건파나틱
+Fan 5:팬5
+Fast-Food Manager:패스트푸드 매니저
+Thug G:깡패G
+Emilie:에밀리
+三厳:삼厳
+Sombra:솜브라
+Kyouka:큐카
+Niiroku:니로쿠
+Bionic Soldiers:바이오닉 군인
+HUSBAND:남편
+init:이니트
+Kana:카나
+Eline:엘라인
+Michru:미흐루
+Demon A:데몬 A
+Hideaki:히데아키
+Kitten:키튼
+Tiger:호랑이
+Yanagimoto:야나기모토
+Founder's Aide:창업자의 보좌관
+Ofusa:오후사
+News D:뉴스 D
+Misuzu:미스즈
+Class S Student 1:S반 학생 1
+Unknown man 3:신원 불명의 남자 3
+Willy:윌리
+Class F Student:F반 학생
+Lateran Citizen?:라테란 시민
+School Nurse:보건교사
+Yoshimitsu:요시미츠
+Koujaku Member A:코자쿠 멤버 A
+Kohane:코하네
+Mythran Prince:미스란 프린스
+Builder 1:빌더 1
+Little Asuka:리틀 아스카
+Pauline's mother:폴린의 엄마
+Pigtails:땋은머리
+Jakkie:재키
+Kikuchiyo:키쿠치요
+Another Girl:또 다른 소녀
+Customer:손님
+Yang's Father:양의 아버지
+Ichigo:이치고
+Cullen:컬렌
+Hazuki:하즈키
+Tennouji:텐노지
+Softball Club Girl:소프트볼부 소녀
+Kazama's Dad:카자마의 아버지
+Momoyo:모모요
+Woman B:여자 B
+Ephraim:에브라임
+Forecast:예보
+?_Trial:???
+B-Zone Prisoner A:B구역 수감자 A
+Delinquents:비행자
+Title:타이틀
+Mike:마이크
+Seta:세타
+Cid:시드
+Cla-Owi:클라-오위
+Bookstore Owner:서점 주인
+Tomahawk 2:토마호크 2
+Ouro:오우로
+Lookout D:룩아웃 D
+Peasant:피안트
+Skordred:스코드레드
+Voice_Akane_Trial:아카네의 목소리
+Black Angel:블랙 엔젤
+Wisp:위스프
+Grumpy voice:심술궂은 목소리
+Rat King:쥐 왕
+Groupie 1:그룹 1
+Hostess:호스트스
+Tsuruhashi:쓰루하시
+Officer A:경찰A
+Teo:테오
+Green hair:녹색머리
+Club Member:부원
+Sayuri:사유리
+Female Classmate 2:여반 친구2
+Jasmine2015:재스민2015
+Kjerag Merchant:셰라그 상인
+Kizuna:키즈나
+Fmr. Headmaster:전임 교장
+Evelyn:에블린
+Miko:미코
+Yuki:유키
+Option_2:옵션 2
+Man_Esaka:남자 에사카
+Maroudo's Soldier I:마루도의 군인 I
+David:데이비드
+남학생 2:남학생 2
+Tatsuko:다쓰코
+Isono:이소노
+Toryo:토리오
+Man from yesterday:어제의 남자
+McGregor:맥그리거
+Lava:라바
+Stall owner:노점 주인
+Hijikata:히지카타
+Kaidou's Friend:카이도의 친구
+Spy:스파이
+Builder 2:빌더 2
+Monolog:모놀로그
+Kobayashi:코바야시
+American Eishi 14:아메리칸 에이시 14
+High-Pitched Girl:고음소녀
+fv:fv
+Teacher 3:티쳐3
+Omnic:옴닉
+Sys:시스
+Kyou:쿄
+Director Raphael:디렉터 라파엘
+B-Zone Prisoners:B구역 포로
+源氏隊２年たち:겐지 군대 2년
+Isabella:이사벨라
+Maroudo's Soldier R:마루도의 군인 R
+Ren:렌
+Takuma:타쿠마
+Wade:웨이드
+Hinagami Hideomi:히나가미 히데오미
+Zucchero:즈체로
+Protagonist Guy:주인공 가이
+Uraha:우라하
+Kiyomi Katsuko:카츠코 키요미
+Rug:러그
+B-Zone Prisoner B:B-Zone 프리즈너 B
+Patricia:패트리시아
+Passerby 2:행인 2
+University Student:대학생
+FPR18 Reporter:FPR18 리포터
+Kensei:켄세이
+Lena?:레나
+Komomo?:코모모
+Note:노트
+Lookout A:루크아웃A
+Clie:클리에
+Sarina:사리나
+Chiara:키아라
+Tomahawk 4:토마호크4
+Girl's Mother:소녀의 엄마
+Aine:아이네
+Koshiji:코시지
+First-year Girl B:1학년 소녀B
+Question 3:질문 3
+2nd Lt. Suzumiya:스즈미야 소위
+Red hair:빨간머리
+Azusa:아즈사
+Gates:게이츠
+Sara:사라
+Parrot:앵무새
+Kotarou_Needed:코타로_필요
+Touka:토우카
+Slacker 3:백수 3
+Marilyn:마릴린
+Aries?:양자리
+Azumi:아즈미
+Guille:기유
+Kiri:키리
+Cabinet Secretary A:내각비서관A
+New Student?:신입생
+Sister B:자매B
+Melissa:멜리사
+Yuuri?:유리
+Chief Secretary:수석비서
+Mason:메이슨
+Mature Noble:성숙한 귀족
+Girl 4:소녀 4
+Pfather:아버지
+Posse:포세
+Joker 1:조커 1
+Mharie:마리
+Announcements:공지사항
+Nagayama:나가야마
+Vanilla:바닐라
+mako & Masaomi:마코 & 마사오미
+Gallery:갤러리
+Choir members:합창단원
+Suiko:스이코
+College Girl B:대학생 B
+Housework:집안일
+Stray Dog?:길 잃은 개
+Edogawa:에도가와
+Library Assistant:사서 조수
+Audience A:청중 A
+young Noble:어린 귀족
+Aries:양자리
+Field Operator:현장 작업자
+Gil:길
+Sae:사에
+Fuyumi:후유미
+Fencing Club Girl B:펜싱부 소녀 B
+Black Dragon:블랙 드래곤
+Junichiro:준이치로
+F Army Fighter 66:F 아미 파이터 66
+Spazzy Dude:스패지 듀드
+Zerotwo:제로투
+Music Girl A:뮤직 소녀 A
+Foreign Guy:외국인 남자
+Lethe:레테
+Weak-Willed Girl:의지가 약한 여자
+Maeve:메이브
+Voice_Julius:율리우스의 목소리
+Medical Staff:의료진
+Potato:감자
+Kyoko?:쿄코
+Morgana:모르가나
+else:기타
+Asuna:아스나
+Miu・Elina:미우・엘리나
+回想＠メイプル:회상@메이플
+Amane's Dad:아마네의 아빠
+Track Club Member D:트랙부원 D
+Both Statues:두 조각상
+Reclus' Friends:은둔자의 친구들
+Rebel Eishi 4:레벨 에이시 4
+Umeda:우메다
+Male Student E:남학생 E
+Iwanako:이와나코
+Fan 2:팬 2
+Woman 1:여자 1
+Computer Voice:컴퓨터의 목소리
+Guard C:가드 C
+Kasuka:카스카
+Gentleman_Esaka:젠틀남자 에사카
+Beast:비스트
+Representative:대표
+Alicia:앨리시아
+fanＢＣ:팬ＢＣ
+City Official:시 공무원
+Yuusa:유사
+Woman in her 20s:20대 여자
+Police Officer:경찰관
+Stingray 1:스팅레이 1
+young Tsukasa:어린 츠카사
+Officer:경찰관
+Shah Mahda:샤 마흐다
+Cabinet Secretary B:내각 비서관 B
+Editor:에디터
+Frank:프랭크
+Female Guard:여자 가드
+Tatsumi Supporter 2:타츠미 서포터 2
+Caretaker:케어테이커
+Actress:여배우
+Man's Voice C:남자의 목소리 C
+Belial:벨리알
+Zombies moan:좀비 신음
+Yoruko:요루코
+Ahrima:아리마
+I knew it:알았어
+Asa:아사
+Doctor A:닥터 A
+Cop A:경찰 A
+Economic Analyst:경제 분석가
+Nisei:니세이
+Rio・Elina:리오・엘리나
+Schoolboy A:스쿨보이 A
+?? C:???
+Guard Operator:가드 운영자
+Takafuji Guy B:타카후지 가이 B
+Fukawa:후카와
+Terra:테라
+Reunion Soldier:리유니언 군인
+Fumiya:후미야
+News B:뉴스 B
+Joi:조이
+Antonin:안토닌
+Murray:머레이
+Pickpocket:소매치기
+Guider:가이더
+Kana?:카나
+Shiraho:시라호
+Creditor B:채권자B
+Nurse 3:간호사3
+Tojo:도조
+Stomach Bug:배벌레
+Newspaper Club:신문클럽
+Movie Star:무비스타
+Guard A:가드A
+Kobayakawa:코바야카와
+Iroe:이로에
+Shael:샤엘
+Math Teacher:수학선생님
+The Ladies:더 레이디스
+Heroine:주인공
+“Michiru”:미치루
+Assassin 4:어새신4
+Strange Person:이상한 사람
+Ceren:세렌
+Shinku:신쿠
+Lord Bettencourt:베탕쿠르 경
+Dreadlocks Guy:드레드락스 가이
+Ari:아리
+Irina:이리나
+Faris's Dad:페리스의 아빠
+Kotori_Unneeded:코토리
+Citizen:시티즌
+Anti-Round:안티라운드
+Ebisu:에비스
+Inoue_Trial:이노우에
+Head Nurse Tokiwa:간호사 토키와
+Foreign Tourist C:외국인 관광객 C
+Lady Customer B:레이디고객B
+Unknown:알 수 없음
+Ihara:이하라
+Receptionist:리셉션니스트
+Female Clerk A:여직원 A
+Hoodlum A:양아치 A
+Lucy:루시
+Nozomi:노조미
+Interviewer:면접관
+Kuwashima:쿠와시마
+Egg shop owner:계란집 주인
+Male Attendee 1:남자 참석자 1
+Researcher A:연구원 A
+Fiona:피오나
+Ruu:루
+Referee 2:심판2
+Yamato Operator 3:야마토 운영자3
+Chii:치이
+Daigo:다이고
+Classmate_Imamiya:클래스메이트_이마미야
+Cat-eared Maid:고양이귀 메이드
+Athletics Club Girl:육상부 여자
+Stryker Retsu:스트라이커 레츠
+Onigase:오니가세
+Leader B:리더 B
+Operator:운영자
+Picture this:이소녀 상상해 봐
+My Mother:나의 어머니
+Townsfolk:마을 사람들
+Alfred:알프레드
+Azusa:아즈사
+Jacques:자크
+Tarish:타리쉬
+Rhistel:리스텔
+Kyoko:쿄코
+Rentarou's Voice:렌타로의 목소리
+JulJames:줄제임스
+Kidnapper B:납치범 B
+Azusa・Nicola:아즈사・니콜라
+Thug C:깡패 C
+Emilio:에밀리오
+Hasaki:하사키
+Kyouhei:쿄헤이
+Watarai:와타라이
+Noble:노블
+Track Club Member:육상부원
+Kamijou Senior:카미조 시니어
+Mei:메이
+Teacher 7:선생님 7
+Number Three:넘버 쓰리
+Cookie 3:쿠키 3
+Cla-Bow:클라-보우
+Woman in White Robe:흰 가운을 입은 여자
+Subaru:스바루
+Trifa:트리파
+Sauber 1:자우버 1
+Karaoke Employee:노래방 직원
+PA:PA
+Interrogator:인터로게이터
+Haruko:하루코
+Komomo:코모모
+Oren:오렌
+young Student A:어린 학생A
+Student Guy A:남학생 A
+Chiromi:치로미
+Lens:렌즈
+Furukawa's Father:후루카와의 아버지
+Policeman A:경찰관A
+Celia:셀리아
+succubus:서큐버스
+Passing Student:통과하는 학생
+Tsuyoshi:츠요시
+Member:멤버
+Reinhard:라인하르트
+Assistant official:공무원보조
+Highschool Girl B:여고생B
+Third-year Girl B:3학년여고생B
+Tuerow:투에로
+Rusthammer Warriors:러스태머 워리어즈
+init python:파이썬
+Teacher_Trial:선생님
+Eleonora:엘레오노라
+Taohua:타오화
+Candidate:후보
+Lamester:라메스터
+High School Asuka:고교 아스카
+Takafumi:타카후미
+Orc Leader:오크 리더
+Blue-Haired Girl:푸른 머리 소녀
+Enosh:에노쉬
+Baron Casimir:바론 카지미르
+Teofilo Hurtado:테오필로 우르타도
+Miki:미키
+Cosmos:코스모스
+Maruko:마루코
+It said 12:12라고 했어
+Final Boss:최종 보스
+Setsuna:세츠나
+Suginami:스기나미
+Occult value:초자연적 가치
+youichi:요이치
+Entire Class:전체 반
+Samejima Toshikatsu:사메지마 토시카츠
+Shino:시노
+F Army Fighter 4:F 아미 파이터 4
+Little Lolita:리틀 로리타
+Hayden:헤이든
+Police officer A:경찰관 A
+Three People:세 사람
+Sophia:소피아
+??_Chihaya:치하야
+Class A Cheerleader:A클래스 치어리더
+Viral Attacker F:바이럴 어택커 F
+Cla-Sty:클래스티
+Jocelyn:조셀린
+Noiz:노이즈
+Kunahama FC Club:쿠나하마 FC 클럽
+Boy:소년
+Student 1:학생 1
+Takafuji Girl E:타카후지 소녀 E
+Freshman Girl B:신입생 소녀 B
+Brave Boy:용감한 소년
+young Yuuki:어린 유키
+Refugee:난민
+Cheery Legatus:명랑한 레가투스
+Andante:안단테
+Cabin Attendant:객실 승무원
+Miyako's Dad:미야코의 아빠
+Antiques shop owner:골동품 가게 주인
+Samayra:사마이라
+Guest C:게스트 C
+Victorian Soldier:빅토리아 군인
+Miu:미우
+Azusa:아즈사
+First-Year:1학년
+Dry Juice Member C:드라이 주스 멤버 C
+Sakuya_Megaphone:사쿠야_메가폰
+Passerby:지나가는 사람
+Constance:콘스탄스
+Boy #2:소년 2
+Amadeus:아마데우스
+Mechanic 1:기계공 1
+Villager 3:마을사람 3
+Anbe:안베
+Two People:두 사람
+Dragon:드래곤
+Joey:조이
+Maj. Walken:월켄 소령
+Horibe:호리베
+All three of them:셋 다
+Everyone_Trial:모두
+Rena:레나
+？？？:???
+pal:친구
+Robed Man_Tenma:로브남자_텐마
+Prefect 4:프리펙트 4
+Tabe:타베
+Protag(First):프로타그(퍼스트)
+Muelsyse:뮤엘시스
+Riko's Mother:리코의 어머니
+Whole Class:전체 학급
+Lookul:루쿨
+Kids:아이들
+Vagrant:방랑자
+Reader:독자
+Advertiser:광고주
+Momoyo Fan 6:모모요 팬 6
+Rudy:루디
+Grave Robber:도굴꾼
+Brigitte:브리짓
+>Luka:루카
+Cooking Girl C:요리 소녀 C
+Tourist:관광객
+Sakuya_Reused:사쿠야_재사용
+Taeko:타에코
+Kodama:코다마
+Atcher:애처
+Voice 1:보이스 1
+Gratien:그라티앙
+Asahi・Mahiru:아사히・마히루
+Catgirls:캣소녀
+Passionate Infected:열정적인 감염자
+Mizuha:미즈하
+Ex-Prez_Trial:전 대통령
+Black Suit #43:검은 정장 43
+Thug K:깡패 K
+Layla:레이라
+Ena:에나
+Kagari:카가리
+Children:어린이
+Wrestler 3:레슬러 3
+Mythran Soldier:미스란 군인
+Swimsuit Gal C:수영복 소녀 C
+Meiko:메이코
+Prostitute:창녀
+Viral Attacker E:바이러스 공격자 E
+A Spectating Knight:관람하는 기사
+Courier:택배
+Ansel:앤셀
+Miyako's Mom:미야코의 엄마
+American Eishi 5:아메리칸 에이시 5
+Other Four:다른 네 사람
+Man_Louis:남자_루이스
+Assemblyperson:의원
+Founder:창업자
+Male Soldier:남자 군인
+Mechanic:정비사
+Crew Chief:승무원장
+White Thing:하얀 것
+TV Announcer:TV 아나운서
+Female Student 4:여학생 4
+Military Operator:군인 운영자
+Schoolboy C_Trial:학생 C
+Pedestrian A:보행자 A
+Male Classmates:남자 반 친구들
+Imamiya:이마미야
+s:s
+Reluctant Legatus:마지못해 레가투스
+Ella:엘라
+Maroudo's Soldier D:마루도의 군인 D
+Ellen?:엘렌
+Lilly:릴리
+Old Goblin:올드 고블린
+Passenger A:승객 A
+Cooking Boy B:요리하는 소년 B
+UN Captain: UN 대장
+Delinquent C:불량배 C
+Mouri:모리
+Mr. Wong:웡 씨
+Shizuru:시즈루
+Girl B:소녀 B
+Otai:오타이
+Enemy:적
+Body:바디
+Hermit 4:은둔자 4
+Siege:시즈
+DiKaprio:디카프리오
+Cat?:캣
+qoo:큐
+Greatmouth Mob:그레이트머스 마피아
+Pugilist:퓨질리스트
+Lhora:호라
+Protagonist:주인공
+Yukit:유킷
+Guts:가츠
+・Hypothesis 2:가설 2
+Takei:타케이
+Mon3tr:몬 3
+Ryuuou:류우우
+Czerny:체르니
+Ex-president:전 사장
+Maroudo's Soldier N:마루도의 군인 N
+First:첫번째
+Makiko:마키코
+Dasius:다시우스
+Man in a T-shirt:T-shirt
+Katou:카토우
+Drunk A:드렁크 A
+Hawk 3:호크 3
+Lab worker A:실험실 직원 A
+Instigator:인스티게이터
+Vox Chaotica:복스 차오티카
+Azuki:아즈키
+The parlour maid:시녀
+Rival Guy:라이벌
+Takafuji Girl F:다카후지 소녀 F
+Person on Day Duty:근무 중인 사람
+Soldier:군인
+Inpatient:입원 환자
+Male Pedestrian 1:남성 보행자 1
+Pii:피이
+Miyato:미야토
+Groupie A:그룹 A
+Yuuma:유우마
+Girl ３:Girl 3
+Astaroth:아스타로스
+Theodora:테오도라
+Emmapos:엠마포스
+MA-KUN:마군
+White Cat:화이트 캣
+Senagawa:세나가와
+AI:AI
+Subordinate D:종속 D
+Voyeur:보이어
+Cheelai:치얼라이
+Onlooker C:룩커 C
+Minamo:미나모
+Kamishiro:가미시로
+Komi:코미
+Radio B:라디오 B
+Mr. Nothing:미스터 낫싱
+Maroudo's Soldier J:마루도의 군인 J
+Takeru's Mom:Takeru의 엄마
+American Eishi 6:아메리칸 에이시 6
+満琉:満琉
+young man B:어린 남자 B
+CowLady:카우레이디
+Second-In-Command:2인자
+Quiet Succubus:조용한 숙큐버스
+Other Men:기타 남성
+Reporter Yukihiro:유키히로 기자
+Kimura:키무라
+Butler:버틀러
+Male Classmate 2:남자 동급생 2
+Meguru's Mom:Meguru의 엄마
+BBQ Belligerent:BBQ 호전적
+Schoolgirl 1:여학생 1
+Kravel:크라벨
+Group member B:그룹 멤버 B
+Konami:코나미
+Executive:임원
+Miyako's voice:미야코의 목소리
+Coconut:코코넛
+Oda:오다
+Kung Fu Fighter:쿵푸 파이터
+Takamine:다카미네
+Worried voice:걱정스러운 목소리
+Bulma:불마
+Yuuki:유우키
+Zoe:조이
+Miss Aimee:미스 에이미
+Mink Teammate B:밍크 팀 동료 B
+Krip:크립
+Old Woman_Sakura:할머니_사쿠라
+Qais:카이스
+SISTER:자매
+Yogi:요기
+Ramsey:램지
+Shugo:슈고
+Grudge:원한
+Girl F:여자 F
+Male Student K:남학생 K
+Site Worker:현장 근로자
+Foreign Woman A:외국인 여자 A
+Travis:트래비스
+Sawada:사와다
+Incubus:인큐버스
+Kittymeow:키티미야옹
+Proprietress:여주인공
+Renge:렌게
+Whores:창녀
+Sarkaz Mercenary A:사르카즈 용병 A
+A Man's Voice:남자의 목소리
+Alaric:알라릭
+June:준
+Female Classmate 3:여자 반 친구 3
+Haruna's Mom:하루나의 엄마
+Becky:베키
+Meiya:메이야
+Council Officer:의원
+Uzuki Sepia:우즈키 세피아
+Kasumi:카스미
+Chamomile:카모마일
+Male Student 5:남학생 5
+Female Friend:여자 친구
+‘Korotkoff:코로트코프
+Pharah:파라
+Droste:드로스테
+Old fish dealer:늙은 물고기 딜러
+Number Two:넘버 투
+Ayaya's Mom:아야야의 엄마
+Koji:코지
+Synthetic Voice:합성 목소리
+Titty Ninja:티티 닌자
+narrator:내레이터
+Ohtori_Trial:오토리
+Meguri:메구리
+Kyousuke:쿄스케
+Robed Student A:로브 학생 A
+Nishimura:니시무라
+Older Student:나이 든 학생
+Key Girl_Kagari:키 소녀_카가리
+Class C Student 2:C반 학생 2
+Headquarters:본부
+Blood Writing:혈액 글쓰기
+Gallery A:갤러리 A
+Broca:브로카
+Brunette Whore:갈색 머리 창녀
+Grizzly 3:회색머리 3
+Imperial Eishi 1:제국 에이시 1
+Hare B:토끼 B
+Number One:넘버 원
+Soara:소아라
+Takafuji Girl B:타카후지 소녀 B
+Georges:조르주
+Giovanni:지오바니
+Bonnie:보니
+Sakura:사쿠라
+Giza:기자
+Casino customer A:카지노 손님 A
+Grinning Orcess:웃는 오르세스
+Bestia:베스티아
+Book:책
+Parca:파르카
+Otsuka:오츠카
+Takuji:타쿠지
+Kotomi:코토미
+Julia:줄리아
+young man A:청년A
+Francis:프란시스
+Noritoki:노리토키
+Sonia:소니아
+Fangirl B:팬소녀B
+Noah:노아
+Rylea:라일리아
+Alvida:알비다
+Urita:우리타
+Makina:마키나
+Male Worker 3:남자노동자3
+Sentinel:센티넬
+Prostitute 32:매춘부32
+Noble Lady:귀부인
+Kashiwagi:카시와기
+Zhenya:젠야
+Helicopter Pilot:헬리콥터 파일럿
+Audience 2:관객2
+Voice_Midou:미두의 목소리
+Girl_Kotori:소녀_코토리
+Meguru:메구루
+It says this:이렇게 말해요
+Scalper:스캘퍼
+Mihiro:미히로
+Bean the Infected:감염된 빈
+Envy:부러워
+Yuri:유리
+Hunter B:헌터B
+Loli:롤리
+Cla-Mini:클라미니
+Lightning Shun:번개슌
+????:???
+Cursed Spirit:저주받은 정령
+Guy Customer A:남자 손님 A
+Ayu:아유
+Jingorou:진고로
+Soldier #1:군인 1호
+again:다시
+Nanase:나나세
+Waitress:웨이트리스
+Low-Angler A:저어낚시꾼 A
+Committee Member A:위원 A
+Class C Girl 3:C반 여자 3
+Mysterious Fencer:수수께끼의 검사
+?_Yoshino:요시노
+Cat_Trial:고양이
+HR teacher:인사담당자
+The Other Four:나머지 4인
+Hitomi:히토미
+Sawarabi Captain:사와라비 대장
+Club Leader:부회장
+Girl Student D:여학생 D
+Raphael:라파엘
+Sixth Grader:6학년
+KyouSUKE:쿄스케
+Man1:남자1
+Hunter:헌터
+Mai:마이
+F Army Fighter 3:F 아미 파이터 3
+Haughty Succubus:거만한 석큐버스
+Giant Salamander:거대한 도롱뇽
+Cheetah:치타
+Squad Member C:소대원 C
+Rubina Member A:루비나원 A
+Cerberus:세르베루스
+Yoshie:요시에
+Hollywood Actress:할리우드 여배우
+Mechanic 3:기계공 3
+Zaneri:자네리
+Yosuke:요스케
+Thug 3:깡패 3
+Cheryl:셰릴
+Colonel Tanaka:타나카 대령
+Yua:유아
+Sakuya:사쿠야
+Dur-nar:두르나르
+BGM:BGM
+al:알
+Foreign Peddler:외국인 행상인
+Midnight:미드나잇
+Goblin:도깨비
+Tv:Tv
+Torrent Daisaku:토렌트 다이사쿠
+Mikihisa:미키히사
+Dealer E:딜러 E
+Misato:미사토
+Miu・Azusa・Hiyori:미우·아즈사·히요리
+Dominique:도미니크
+Female Students:여학생들
+Kawakami Mayor:카와카미 시장
+American Eishi 19:미국 에이시 19
+Mysterious Voice:신비한 목소리
+Law student:법학생
+Schoolboy:스쿨보이
+Question 16:질문 16
+Honor Guard Platoon:의장대 소대
+Nishina:니시나
+Sesa:세사
+Student 6:학생 6
+Chitose:치토세
+Nicola:니콜라
+Samurai Protagonist:사무라이 주인공
+Audience 4:관객 4
+Gladiia:글라디아
+Sora:소라
+Reclus' Friend #3:은둔자 친구 3
+Sceatoire:스케투아르
+Haguro:하구로
+American Eishi 10:아메리칸 에이시 10
+Hoodlum E:양아치 E
+Tina:티나
+Maroudo's Soldier A:마루도의 군인 A
+Kiyokawa:키요카와
+Giza?:기자
+Female student:여학생
+Subject:제목
+Traffic Guard:교통경찰
+Bionic Soldier A:바이오닉 군인 A
+Koppou Club Captain:코포우부장
+Cookie 2:쿠키2
+Tenjin:텐진
+Ghosts:유령
+Juliet:줄리엣
+Miss Chivalry:기사도
+Teacher A:선생님 A
+Customer A:손님 A
+Maroudo's Soldier Q:마루도의 군인 Q
+Girl Student C:여학생 C
+Spy 1:스파이 1
+Sylvia:실비아
+Male Voice:남자 목소리
+Sacchi:사키
+Tsukuno_Trial:츠쿠노
+?? A:???
+Pious Sister:경건한 자매
+Touri:도우리
+三人衆ＡＢＣ:삼인衆ＡＢＣ
+Mystery Waitress:미스터리 웨이트리스
+Printing machine:인쇄기
+Kurou:쿠로
+Third-Year Girl:3학년 소녀
+Person on Duty:근무자
+Police:경찰
+Shizuru's Mother:시즈루의 어머니
+The Two:두 사람
+Police Officer A:경찰관 A
+P.E. Teacher:체육 교사
+Sakuma:사쿠마
+Audience Member B:청중 멤버 B
+Nagi:나기
+Freshman Student:신입생
+Sender:발신자
+Koujaku Member B:코우자쿠 멤버 B
+Ver-Tod:베르토드
+Ace:에이스
+Yoshino_Trial:요시노
+Radio C:라디오 C
+Takayama:다카야마
+Lisa:리사
+Masaya:마사야
+Surtr:수르트
+Ryuuhou:류호
+Hayase Seki:하야세 세키
+白マント:백만트
+Abe:아베
+Hare:토끼
+Machi:마치
+Jack:잭
+Cop:경찰
+New Soldier:신입병
+Doctor B:의사 B
+Fuyou:후요
+Curtis:커티스
+Class C Student 3:C반 학생 3
+Dryad:드라이어드
+Transmission:통신
+Male Teacher A:남자선생님 A
+MusicBox:뮤직박스
+woman B:여자 B
+Lookout G:감시원 G
+Black Suit #25:검은 정장 25
+Palach:팔라흐
+Haughty voice:거만한 목소리
+Editor_Trial:편집자
+Irina?:이리나
+Momoteur:모모테루
+Kohaku:코하쿠
+Short Girl:키 작은 여자
+Shirase:시라세
+Saionji:사이온지
+Male Pupil F:남학생 F
+Delinquent B:불량 B
+Tamura:타무라
+Chika:치카
+Shopkeeper:상인
+Cleo:클레오
+Businessman B:사업가 B
+Me:나
+Kiyohito:키요히토
+Honoka:호노카
+Rio:리오
+Miu:미우
+Azusa:아즈사
+Everyone:모두
+Delinquent A:불량 A
+Little Sister:여동생
+Reyes:레이예스
+Nursing Staff:간호 직원
+Schoolgirl B_Trial:여학생 B
+Part-timer:알바생
+Sir Revenor:리브너 선생님
+Student 5:학생 5
+Thug:깡패
+Oval-faced Girl:타원형 얼굴의 여자
+American Eishi 11:아메리칸 에이시 11
+Rokushiki:로쿠시키
+Class A Student:A반 학생
+Prime Minister?:총리
+Nishizono:니시조노
+Guard Robot:가드 로봇
+Team Member B:팀원 B
+Schoolboy C:학생 C
+Goblin 86:고블린 86
+Man:남자
+Ken:켄
+Black Suit A:검은 정장 A
+Angel?:천사
+News F:뉴스 F
+Caleb:케일럽
+Hibiscus:히비스커스
+Ema:에마
+Amu:아무
+Himeno:히메노
+Animals:애니멀스
+Ayako:아야코
+Audience Member A:청중 A
+Takamiya:타카미야
+Kotone:코토네
+Yamashita:야마시타
+Dark Elf:다크 엘프
+VILLAGERS:마을
+Female Student 2:여학생 2
+Faust:파우스트
+Kanna:칸나
+Coworker 4:동료 4
+Pretty Boy:미남
+Aqua:아쿠아
+Detective:형사
+Teenager:십대
+young Chisato:어린 치사토
+Aroe's sister:아로에의 여동생
+Akane:아카네
+Urakami:우라카미
+Pedestrian B:보행자 B
+Yellow:옐로우
+Sayo:사요
+Gamble 2:갬블 2
+Police officer:경찰관
+Long-Haired Girl:긴 머리 소녀
+Oosumi Operator 1:오스미 운영자 1
+Lieselotte:리제로테
+Nileth:나일레스
+Small Ghost:작은 유령
+Takeru:타케루
+Jasper:재스퍼
+Stinson Look-alike:스틴슨 닮은꼴
+Iori:이오리
+Komori:코모리
+Girl E:소녀 E
+Bounty Hunter C:바운티 헌터 C
+Slacker 2:백수 2
+Atou:아토
+UN Soldier 2: UN 군인 2
+Soffia:소피아
+Commander Morrison:모리슨 사령관
+Old Lady A:할머니 A
+Saotome:사오토메
+L.G.D. Officer:LGD 장교
+Rio:리오
+Skarlet:스칼렛
+American Eishi 3:아메리칸 에이시 3
+It read:읽어보았다
+Chan  UmariK:찬 우마리크
+Akagi:아카기
+Bandmate:밴드메이트
+Little girl:어린 소녀
+Staff member:직원
+UN Eishi 1:UN 에이시 1
+Criminal:범죄자
+Rui:루이
+Shuma:슈마
+Earnest Student:진지한 학생
+Marianne:마리안
+Science Club:과학 동아리
+lenhablando:렌하블란도
+Kirara:키라라
+Shego:셰고
+Kimika:키미카
+2-S Student:2-S 학생
+Tomaso:토마소
+Rebel Eishi 3:반항아 에이시 3
+CP:CP
+C:C
+Shaya:샤야
+Kud:쿠드
+PE Girl A:체육소녀 A
+Wife B:아내 B
+Rapping Cat?:래핑캣
+Follower C:추종자 C
+Female Classmate C:여자반 친구 C
+Qoo:쿠
+Black Suit #3:검은 정장 3
+Nene's Mother:네네의 엄마
+Older Lady:할머니
+Liege:리에주
+Abbot:수도원장
+Housekeeper:가정부
+Frank Williams:프랭크 윌리엄스
+Second-year Girl B:2학년 여자 B
+Female Attendee 1:여자출석자 1
+Thug E:깡패 E
+Creepy Employee:무서운 직원
+Murakumo:무라쿠모
+Coworkers:동료들
+define:정의
+Girl In A Hurry:서두르는 여자
+Big Brother:빅브라더
+??_Chibimoth:치비모스
+Answer:답변
+Butcher:정육점주
+Inner voice 1:내면의 목소리 1
+Akemi:아케미
+Scene:씬
+Mr. Producer:미스터 프로듀서
+Hiroki:히로키
+Spectator B:관객 B
+Robed Man_Tenjin:로브를 입은 남자_텐진
+Drama Club Members:연극부원
+Reconnaissance:정찰
+Kazamatsuri Student:카자마츠리 학생
+Whitescar:화이트스카
+Gen. Radhabinod:라다비노드 장군
+Man with Glasses:안경 쓴 남자
+Questioner:질문자
+Viral Attacker C:바이러스 공격자 C
+Mr. Jougasaki:미스터. 조가사키
+Cat Mascot:고양이 마스코트
+Rubina Trainee:루비나 연수생
+Shop assistant:매점 직원
+Junpei:준페이
+Follower A:팔로워 A
+Man’s voice:남자 목소리
+Audience B:청중 B
+Male Worker 2:남자 종업원 2
+Tsukasa:츠카사
+Shop Girl:매점 소녀
+Birdhunter:조류 사냥꾼
+Station Announcer:스테이션 아나운서
+Goblin 3:도깨비 3
+Folks:사람들
+Voyeur Girl A:관음 소녀 A
+Bizarro-Mochizuki:비자로 모치즈키
+Group member A:그룹원 A
+Warning:경고
+Tori:토리
+Talulah:탈룰라
+Matchlock:화살
+Prisoner:죄수
+Abigail 2:아비게일 2
+Kid:꼬마
+Tane:타네
+Rosarian Knight:로자리안 나이트
+Morouka:모로우카
+Josef:요셉
+Coworker 3:동료 3
+Mogami Operator 4:모가미 운영자 4
+Koh:코
+Male Student F:남학생 F
+Class Teacher:담임 선생님
+Cla-Yil:클라-일
+younger sister:여동생
+Black Cat:블랙캣
+News:뉴스
+Mercy:머시
+Mamiko:마미코
+Margaret:마가렛
+Fly:플라이
+Kid's Spirit:키즈 스피릿
+Thiefs:도둑들
+Reverend Akai:아카이 목사
+Motorman Akai:자동차 운전수 아카이
+Tomotake Lord:토모타케 군주
+??:???
+Ryuusei:류세이
+Gamble 1:갬블 1
+Lust:러스트
+Skinhead:스킨헤드
+Taichi:타이치
+Murakami:무라카미
+Daisuke:다이스케
+Sir Faunch:서 폰치
+Unknown men:알려지지 않은 남자들
+Kanata:카나타
+Roka's Dad:로카의 아빠
+Man in Overalls:오버올을 입은 남자
+Newscaster:뉴스캐스터
+Sousuke:소스케
+Man's Voice:남자의 목소리
+Option_6:옵션 6
+Koujaku's Mother:코우자쿠의 어머니
+Ayaya:아야야
+Ninja 1:닌자 1
+Boy #1:소년 1
+Souichirou:소이치로
+Shibutaku:시부타쿠
+Male Student I:남학생 I
+Shin:신
+Baseball Catcher:야구 포수
+Innocent Girl:순진한 소녀
+Old vampire:늙은 뱀파이어
+Audience male 2:청중 남자 2
+Peach Kid:피치 키드
+Chihaya:치하야
+Ulrick:울릭
+Ichika's Friend A:이치카의 친구 A
+Marbas:마르바스
+FeatherMoon:페더문
+Angel C:엔젤 C
+Haruka:하루카
+Ronin:로닌
+Tarou:타로
+Reporter:리포터
+Reporter 4:리포터4
+From:프롬
+Track Club Girl D:육상부 소녀D
+Kethar:케타르
+Aisia:아이시아
+Romance level:연애레벨
+Messanger:메신저
+First-Year Boy:1학년 남자
+Pride:프라이드
+Fan 3:팬3
+Nao:나오
+Elina・Nicola:엘리나・니콜라
+Round Table Master:원탁마스터
+Zion:시온
+Ceri:세리
+mako & Yasuharu:마코 & 야스하루
+Winner:위너
+Watabe:와타베
+Spearman 1:스피어남자1
+Trazear:트레이지어
+Assassin:어쌔신
+Staff E:스태프E
+Female Teacher:여교사
+Lifeline:라이프라인
+Yukiko：http:유키코：http
+Class C Boy 1:C반 남자1
+Game King:게임킹
+Clint:클린트
+Amayuki:아마유키
+Male Staff-Member:남자 스태프
+Classmates:클래스메이트
+Kipper Jack:키퍼 잭
+Maho?:마호
+Father Gaimon:가이몬 신부
+SaraHassar:사라하사르
+Gil_Phone:길 핸드폰
+Furukawa:후루카와
+Nacho:나쵸
+Male Students A:남학생 A
+Gangsters:갱스터
+Servant 2:하인 2
+Group B:B조
+wom:여자
+Sarkaz Mercenary B:사르카즈 용병 B
+Brunette Girl:갈색 머리 소녀
+Sorry...:미안해...
+Kidnapper 2:납치범 2
+Old lady:Old Lady
+young Boy's Voice:Young Boy s Voice
+Bush Dog:부시 독
+Joe:조
+Indra:인드라
+Bowsette:보우셋
+Beth:베스
+Ima:이마
+Pyter:피터
+Classmate 4:Classmate
+Kyouko:쿄코
+Man voice 2:남자의 목소리 2
+Rika:리카
+Hot Girl:핫소녀
+Kurisu:크리수
+Rugby club:럭비부
+Auntie:아줌마
+Hunter D:헌터D
+Elderly Detective:노인탐정
+Boy Student E:남학생E
+Patia:파티아
+Male Disciple:남제자
+Andy:앤디
+News Reporter:뉴스 리포터
+Takigawa:타키가와
+Servant 1:서번트 1
+Koyuki:코유키
+A:A
+Man's voice:남자의 목소리
+Momotarou:모모타로
+Mob:몹
+PC:PC
+Arsonist:방화범
+Rusalka:루살카
+Yuuta:유우타
+Azel:아젤
+Calen:칼렌
+Ria:리아
+Yasuda:야스다
+qais:카이스
+Isaa:이사
+Old monk:노승
+Hawk:호크
+American Eishi 2:아메리칸 에이시 2
+Argo:아르고
+Stand Owner:스탠드 오너
+Saito:사이토
+Child 2:차일드 2
+Kaminari-sensei:카미나리 선생님
+Honor Student:우등생
+E-mail Program:메일 프로그램
+Extra:엑스트라
+Playboy C:플레이보이 C
+Usui:우스이
+Fukami:후카미
+Shimmering Vigil:쉬머링 비질
+BURST Member C:BURST 멤버 C
+Kosame:코사메
+Fox Tamer:여우 조련사
+Female guest B:여자 게스트 B
+It said:It Said
+Shimizu:시미즈
+Number two:2위
+English Text:영어 문자
+Maid:메이드
+Childcare Boy A:보육소년 A
+Text:문자
+Mercurius:머큐리우스
+Yoshino?:요시노
+Misono:미소노
+Pancho:판초
+Sir Talyn:탈린 경
+Lord:로드
+Komari:코마리
+Ritona:리토나
+Rusthammer Member:러스트해머 멤버
+King:킹
+Liurial:리우리얼
+BURST Member D:버스트 멤버 D
+Staff A:Hope
+Hope:호프
+The Fall of Icarus:이카루스의 몰락
+Felicity:펠리시티
+Yarai:야라이
+Shirasaki:시라사키
+??_Shizuru_Trial:시즈루
+Albas:엘바스
+Man A:남자 A
+Message:메세지
+mako:마코
+Lena:레나
+Jordi:졸디
+Toukou:투쿠
+Lemon:레몬
+Creator Girl B:크리에이터 소녀 B
+Female kidnapper:여자 납치범
+GevaudanAttack:게바단어택
+PE Girl B:체육소녀B
+Troops:부대
+Scared Child:겁먹은 아이
+Hideomi:히데오미
+Store Manager:점장
+Male Student A:남학생 A
+Wild Orc:와일드오크
+Trash 4:휴지통4
+Vesta:베스타
+Kotori_Trial:코토리
+Oskar:오스카
+Track Club Advisor:트랙클럽 고문
+Corporate Employee:기업사원
+Distant Voice:멀리있는 목소리
+Koide:코이데
+Gekiyasu:게키야스
+Failing Boy:실패소년
+Heather:헤더
+Fine Arts Girl A:미술 소녀 A
+Maroudo's Soldier V:마루도의 군인V
+Audio Engineer:오디오엔지니어
+Knowledge:지식
+Camp Soldier:캠프군인
+F Army Fighter 99:F군 파이터 99
+Slit-eyed Girl:슬릿눈소녀
+Yuuto:유토
+Vice Principal:교감
+Wiz:위즈
+Frog:개구리
+Fiends Gang Member:악당 갱단 멤버
+Tharos:타로스
+Baby:Baby
+Ver-Min:버민
+Vigna:비냐
+Creator Boy B:크리에이터 소년 B
+Looks:룩스
+Hustler:허슬러
+Subordinate:서브디네이트
+De Niro:드니로
+Choto:초토
+Folinic:폴리닉
+Maroudo's Soldier E:마루도의 군인 E
+Nasim:나심
+Reverend Marner:리벤더 마너
+Dorothea:도로테아
+Cop C:캅 C
+Black Suit B:검은 정장 B
+Mogami Operator 5:모가미 운영자 5
+みんな:미응나
+Another Cat:어나더 캣
+Platinum:플래티넘
+Osamu:오사무
+老人２:피플 투
+Boar_Trial:보얼
+Another Doll:어나더 인형
+Male Student B:남학생 B
+Azusa・Rio:아즈사·리오
+Merchant B:상인 B
+Guy B:남자 B
+Ricardo:리카르도
+Gluttony:폭식
+Rin's Father:린의 아버지
+Karasu:카라수
+Frost:프로스트
+Veteran in Suit:수트 입은 베테랑
+MIKA:미카
+Fraise:스트로베리
+Reina:퀸
+Champion:챔피언
+Option_3:옵션 3
+Lowlifes:로우라이프
+Ulm-Bow:울름보우
+Kidnapper 1:납치범 1
+SMC Reporter:SMC 리포터
+Masked Skywalker:가면 스카이워커
+Senpai's right:선배의 권리
+Moonshot Manager:문샷 매니저
+Ava:아바
+Congressman A:의원 A
+Yamauchi:야마우치
+Comms Voice:컴즈의 목소리
+Maroudo's Soldier 4:마루도의 군인 4
+Kosuke:코스케
+Grani:그라니
+Amane's Mom:아마네 엄마
+Waiter:웨이터
+くま:KUMA
+Moheiji:모헤이지
+Green:그린
+Michuru:미추루
+Track Club Member B:트랙 클럽 회원 B
+Boutique Owner:Shop Owner
+Man's Voice D:남자들의 목소리 D
+Aphid:아피드
+Businessman D:사업가D
+Bitter Man 4:쓴남자4
+Gangster B:갱스터B
+Weiss:와이스
+Ayana:아야나
+Hoodlum D:양아치 D
+Translation:번역
+Chicken:치킨
+Operator 3:운영자3
+Shizuku:시즈쿠
+Hanzo:한조
+Subordinate E:부하 E
+Kawakami?:카와카미
+Yue:유에
+Herbalist:약초학자
+young Lady:영부인
+Distant Relative:먼 친척
+Mogami Operator 2:모가미 운영자 2
+Occupation:직업
+Matcher:매처
+Kayumi:가유미
+Villain:빌런
+Stone the Infected:감염된 돌
+12F:12F
+Nipponese Soldier A:일본군 A
+Otaku A:오타쿠 A
+静春:静春
+Akane_Unneeded:아카네
+mon:몬
+Kanae:카나에
+Ghost 1:고스트 1
+Evelyn?:알린
+youko-sensei:요우코 센세이
+Sports Team Girls:스포트 팀 여자
+HQ Operator 4:HQ 운영자 4
+Mew:뮤
+Levy 6:레비 6
+Abyssal Goat:아비살 염소
+Yasuharu:야스하루
+Maroudo's Soldier K:마루도의 군인 K
+Thug 2:깡패 2
+Richard:리차드
+Che-Lin:첼린
+Vanguard:뱅가드
+Hiriko:히리코
+Sisters:자매
+Ruka:루카
+Dite:다이트
+Reunion Soldier A: 레우니온 군인 A
+PRTS:PRTS
+Paramedic_Trial:파라메딕
+Student Guy B:남학생B
+Faggot:패갓
+Bully:깡패
+Strange Girl:이상한 소녀
+Maid 24:메이드 24
+Man in Black:남자 인 블랙
+Meat Bun Seller:고기 빵 판매자
+Cowgirl:카우소녀
+Isuzu:이스즈
+F Army Fighter 78:F군 파이터 78
+Chest:가슴
+Gymnast Girl B:체조 소녀 B
+Harris Look-alike:해리스 닮은꼴
+Porn Actress:포르노 여배우
+Sasha:사샤
+Class S Student 3:클래스 S학생 3
+Investigator B:수사관 B
+Bionic Soldier C:바이오닉군인 C
+Employee A:직원 A
+Picture 1-A:그림 1-A
+Cardboard Creature:골판지 생물
+Emperor Balbora:발보라 황제
+Akimoto's Buddy B:아키모토의 친구 B
+—Current location:—현재 위치
+Mercenary A:용병 A
+Officer D:경관 D
+Cooking Girl B:요리소녀 B
+Minion 3:하수인3
+GO GO CURRY clerk:카레 서기 GO GO
+Ichika's Friend B:이치카의 친구 B
+Gal:겔
+SDF personnel:자위대 인사
+Yasuko:야스코
+Passenger D:승객 D
+Apparition:발현
+Medic B:메딕 B
+Thomas:토마스
+Eagle:이글
+Atsunori:아츠노리
+American Eishi 9:아메리칸 에이시 9
+Student B:학생 B
+Shizuru_Trial:시즈루
+Ticket Seller:티켓 셀러
+Male Dorm Head:남자 기숙사장
+Quercus:신
+Guy C:남자C
+Male Guard:남자 가드
+por:바이
+Clara:클라라
+Murata:무라타
+Male student 2:남학생2
+Arrhenius:아레니우스
+Yume:유메
+Drunkard:술고래
+Groupie 2:팬2
+Okabe:오카베
+Computerised voice:Computerized Voice
+Ansai:안사이
+Brat A:브렛 A
+Inoue_Phone:이노우에 핸드폰
+Koujaku:쿠자쿠
+Sieglinde:지글린드
+Shari:샤리
+Fine Arts Girl B:미술 소녀 B
+Train:학습
+Rios:라오스
+Tatjana:탓자나
+Michiko:미치코
+Male Classmate 1:남자 동급생 1
+?_Shizuru:시즈루
+sanae:사나에
+Student Girl D:학생소녀
+Reiji:레이지
+Attacker A:어택커
+sha:샤
+Yumiko:유미코
+Blonde Whore:금발창녀
+Commuting Student B:통근학생B
+Avalon Employee:아발론사원
+Liger 1:라이거1
+Kei:케이
+Minion 1:미니온 1
+Blondie:블론디
+Kazama Family:카자마 패밀리
+Guard A_Trial:가드 A
+Mizuki:미즈키
+Trash 5:쓰레기통 5
+Shitou:시토우
+Typhon:타이폰
+Madeline:메들린
+Woman’s voice:Woman s Voice
+Tracer:트레이서
+Spearman 4:창병4
+Leon:사자
+Baby Swallow:아기제비
+Nowaki:노와키
+Entertainment value:예능가치
+Female Attendee:여자참석자
+Businessman A:사업남자A
+Redhead Girl:빨간머리소녀
+Mishima:미시마
+Mr. Sakata:미스터. 사카타
+Kyozuka:쿄즈카
+Koumoto's friend:코모토의 친구
+downscale:다운스케일
+Woman's Voice_Trial:여자의 목소리
+Chinami:치나미
+Mutsuki:무츠키
+Animal Club Member:동물부원
+Yoshino's Voice:요시노의 목소리
+Security Guard:경비원
+Tifa:티파
+Pedestrian 2:보행자 2
+Thoroughbred Horse:서러브레드 말
+Clear:클리어
+Ashe:애쉬
+Itaru:이타루
+Oboro:오보로
+Lotus 3:로터스 3
+Bionic Soldier:바이오닉 군인
+Isara:이사라
+Pedestrian 6:보행자 6
+Koharu's Voice:코하루의 목소리
+Wild Feline Animal:야생 고양이 동물
+Fortune Teller:점쟁이
+Ricksut:릭싯
+Schoolgirl:여학생
+Patriot:패트리어트
+Girl in a Bikini:비키니 소녀
+Students_Trial:학생
+Mogami Operator 1:모가미 운영자 1
+Low-Angler B:로우 앵글러 B
+Licha:리차
+Gangster:갱스터
+Tsubame:츠바메
+Maggy:매기
+Nene:네네
+Security B:보안 B
+Yagi:야기
+Old Knight:올드 나이트
+Karen:카렌
+Oumi:오우미
+All three:셋 전부
+Uriel:우리엘
+Rickon:릭콘
+Lady Nive:레이디 레벨
+Reunion Troops:재회군
+Tiamat:티아마트
+Inquisitor:인퀴지터
+Little Kid:리틀키드
+Maroudo's Soldier O:마루도의 군인 O
+Foreign Man B:외국인남자B
+Playboy 2:플레이보이2
+Guy:남자
+Sergei:세르게이
+Moeka:모에카
+Male guest B:남자손님B
+Cooking Boy A:요리하는 소년 A
+Assailant?:가해자
+Prima:사촌
+Mamako:마마코
+Ichigaya:이치가야
+Height:하이트
+Maroudo:마루도
+Spectator:스펙터터
+Man 6:남자 6
+Shouhei:상희
+Siege crew:시즈 크루
+Louis:루이
+Pedestrian 3:보행자 3
+Noriyuki:노리유키
+Television:텔레비전
+Schoolboy B:남학생 B
+All together:모두 함께
+Mochizuki:모치즈키
+Gakuto:가쿠토
+???_Pani:파니
+Sakurai:사쿠라이
+Class S Student 4:S반 학생 4
+Nishinari:니시나리
+Girl_Haruka:소녀_하루카
+Maroudo's Soldier Y:마루도의 군인 Y
+Bionic Soldier B:바이오닉 군인 B
+Michiaki:미치아키
+Grizzly 1:그리즐리 1
+The Whole Class:The Whole Class
+Zenyatta:젠야타
+Assailant:가해자
+Milliela:밀리
+Hinami:히나미
+Jessica:제시카
+Mayo:메이
+Man E:남자E
+Monologue:모놀로그
+Aoi's Fan 3:아오이 팬3
+Ruriko:루리코
+?:??
+Kawakami:카와카미
+Fighter A:파이터 A
+Yukimasa:유키마사
+Brur:브루
+Lustful Boy:음정소년
+Red Fruit Tree:붉은 과수
+Guard B_Trial:가드 B
+Onlooker:온룩커
+Federico:페데리코
+Kotarou:코타로
+Matron:매트론
+Flame 1:불꽃 1
+Motoki:모토키
+Sachiko:사치코
+Other Maid:다른 메이드
+Dog:개
+Luka's Father:루크의 아버지
+Announcer:아나운서
+Man from Guardian B:수호자 B
+Creep:크립
+Hinata:히나타
+Guards Member:경비원
+Momoyo Fan 3:모모요 팬 3
+Nellievoice:넬리보이스
+Kananori:카나노리
+Engineer:엔지니어
+Miyamoto:미야모토
+Kisaki:키사키
+Cheerful Voice:명랑한 목소리
+orc:오크
+Opposing team:반대팀
+Rooster:루스터
+Conrad:콘래드
+Akita:아키타
+Leader A:리더A
+Morphe:모페
+Reunion Member:동창회 멤버
+Lookout F:룩아웃 F
+Orc Priest:오크 프리스트
+Shinano Operator 2:시나노 운영자 2
+Starter:스타터
+Yayoi:야요이
+Selphine:셀핀
+Bravo Leader:브라보 리더
+Battera:바테라
+Kaede's Mom:카에데의 엄마
+Fumi's Father:후미의 아버지
+ro:로
+Bowl:그릇
+Neko:네코
+Dazzanath:다짜나트
+Male Student 8:남학생 8
+Kio:키오
+Namahage:나마하게
+Midou_Unneeded:미도
+Edith?:에디스
+Web Designer:웹 디자이너
+Asada:아사다
+Tadashi:타다시
+Carolyn:캐롤린
+Voice 2:보이스 2
+Armadillo:아르마딜로
+Emi:에미
+Shuma's Statue:슈마의 동상
+Management student:경영 학생
+Ernesto:에르네스토
+X'Zaratl:엑스자라틀
+Unknown man 2:알 수 없는 남자 2
+Asumi:아스미
+Tasuke:타스케
+Gangster C:갱스터 C
+Mr. Toshiru:토시루
+Hoarse Voice:쉰 목소리
+UN Eishi 3:UN 에이시 3
+Ashiteru:아시테루
+Storm Legend:폭풍 전설
+Kadou:카도
+Loser:패자
+Kajou:카죠
+Yukio:유키오
+Mercenary:용병
+Alain:알랭
+Meteorite:운석
+Stand Runner:스탠드 러너
+Voyeur Girl C:도촬 소녀 C
+Misuzu’s mom:미스즈 엄마
+Florist:플로리스트
+Lilith:릴리스
+Piroshi:피로시
+Quoth the lid:뚜껑 쿠오스
+Cadet 2:생도 2
+Staff B:스태프 B
+Four People:네 사람
+Little Sakuya:리틀 사쿠야
+Stryker Hagane:스트라이커 하가네
+Commuting Student A:통학 A
+Eilat Captain:에일랏 캡틴
+Believer:빌리버
+Barmaid:바메이드
+Some Drunk:술취한 사람
+Arthur:아서
+Daggertongue:대거텅
+Daniel:다니엘
+Ursus Soldier:베어군인
+Non-Virgin:논버진
+Oribe:오리베
+Istina:이스티나
+Stella:스텔라
+Natori:나토리
+Yuuji:유지
+Penguin:펭귄
+American Eishi 15:아메리칸 에이시 15
+wyrd:와이어드 .
+Rimu:리무
+Ellie:엘리
+Cashier:. 캐셔
+Class Girl C:클래스 소녀 C
+Classmate:클래스메이트
+Dexter Mom:덱스터 맘
+Marie:마리
+Hermit 1:허밋 1
+Gamer:게이머
+Miyuki:미유키
+Shimako_Unneeded:시마코
+C-Zuru:C주루
+Shigure:시구르
+Yoh:All 5
+Tue-Les:요
+All 5:올 5
+Sand Sentinel:샌드 센티넬.
+Fumo:푸모
+Arzyl:아질
+Judo Club Member B:유도부 멤버 B
+Stormya:스톰야
+Seina:시나
+Arm:암
+Page Boy:Page Boy
+Lieutenant J:J 중위
+Goblin 1:고블린 1
+Dimolt:다이몰트
+Stoic Guy:금욕주의자
+Physical Strength:체력
+BURST Member A:BURST 멤버 A
+Awayuki:아와유키
+TV_B:TV B
+Old Dude:늙은 멋쟁이
+Kouzou:Kouzou
+??_Sakuya:사쿠야
+Matsukaze:마츠카제
+kim:킴
+Gymnast Girl C:체조소녀 C
+Female Employee:여사원
+Staff Lady:스태프 레이디
+SP3:SP3
+Flower B:플라워B
+Torlar:토르라
+thu:목
+Woman in her 30s:30대 여자
+Kaname's Mom:카나메의 엄마
+White Komainu:하얀 코마이누
+Class S Student D:S반 학생 D
+Child C:아동 C
+Mrs. Sakata:미세스. 사카타
+Voice from the Game:게임 속 목소리
+Female Tourist:여자 관광객
+Pot:냄비
+Talking Girl:말하는 소녀
+Milk:밀크
+Midoribashi:미도리바시
+Female Voice_Brenda:여자 목소리_브렌다
+Fiammetta:피아메타
+Female Researcher:여자 연구원
+Brother:형
+Haru's daughter:하루의 딸
+Michiru:미치루
+Horse:말
+Old Dog:늙은 개
+Class 2-S Student:2학년 S반 학생
+Grand Chamberlain:대시종
+Third-year Girl C:3학년 여자 C
+Ismail:이스마일
+Takahiro:타카히로
+Ranko:란코
+Collector:수집가
+Man In Black:남자 인 블랙
+Half Minotaur Girl:하프 미노타우로스 소녀
+Phil:필
+Mitsui:미츠이
+Kafka:카프카
+Zarya:자리야
+RowAndras:로우안드라스
+Mama:엄마
+Anna:안나
+Sakaki:사카키
+Noel:노엘
+Bully A:불리 A
+Barkeeper:바텐더
+Rondo:론도
+Laptop:노트북
+Shouichi:쇼이치
+Saki:사키
+Furoyamachi:후로야마치
+Female Archers:여궁수
+Mahiru:마히루
+Guard 3:가드3
+Believer B:신앙인B
+Naota:나오타
+Professor Gotou:고토우 교수
+Galabrieth:갈라브리스
+Barty:바티
+Kanon:카논
+Shopkeep:상점주인
+Male C:남자C
+High Schooler 1:고교생1
+Suspicious Man B:수상한 남자B
+Mini Cookie:미니쿠키
+Tsuri:츠리
+Schoolgirl B:여고생B
+Ceobe:세오베
+General Store Clerk:잡화점 점원
+Amedee:아메데
+Barion:바리온
+Hisao:히사오
+Passerby B:지나가는 사람B
+Kotarou_Trial:코타로
+Azusa:아즈사
+Ghost:유령
+Azusa・Miu・Hiyori:아즈사・미우・히요리
+Big Dude:빅 듀드
+Chocolate Mimic:초콜릿 흉내쟁이
+Premise  Announcer:전제 아나운서
+Bosha:보샤
+Ai:아이
+Rice Cooker:밥솥
+Prince:프린스
+Colonel Spareribs:대령 갈비
+Nakatani:나카타니
+Monika:모니카
+Teacher:선생님
+Reciter:낭송가
+Sunglasses Dude:선글라스 녀석
+Tatsumi Supporter 1:타츠미 서포터 1
+Raven:까마귀
+Pani_Phone:파니 핸드폰
+Puppet:인형
+Spectator E:관객 E
+Passerby A:지나가는 사람 A
+Leskinen:레스키넨
+Searching Mercenary:수색 용병
+Duke Werden:듀크 베르덴
+Narusawa:나루사와
+Cub:새끼
+Laia:라이아
+Slim Male Student:날씬한 남학생
+Soccer club members:축구부원
+Marimo:마리모
+Rebel Eishi 7:반항적 에이시 7
+Sotetsu:소테츠
+Fan C:팬 C
+Teacher 1:선생님 1
+Male classmate 2:남자 반 친구 2
+Ryuutarou:류타로
+Male 2:남자 2
+Voice_Nishikujou:목소리_니시쿠조
+Rehab Girl:리햅 소녀
+Shizune:시즈네
+Kenzou:켄조
+down:다운
+Kaori:카오리
+Marina:마리나
+Mirai:미라이
+Kyotaro:교타로
+pov:포브
+Abyssal Cow:아비설 카우
+Sekime:세키메
+Freshman Girl C:신입생 소녀 C
+Naomi:나오미
+Lycoris' Statue:리코리스 동상
+Everyone Else:다른 모든 사람
+We:우리
+Giantress:거인
+Kuro:쿠로
+Shion:시온
+Woman 2:여자 2
+Male Student C:남학생 C
+Poster:포스터
+Lich:리치
+CO:CO
+Takahashi:타카하시
+Male Student 1:남학생 1
+Madame Oni:마담 오니
+Female student 3:여학생 3
+Goblin 4:고블린 4
+One thing I can say:한 가지 말할 수 있는 것
+Other Participants:다른 참가자
+Henry:헨리
+Robert:로버트
+SECRETARY:비서
+at:at
+Hare's Mom:토끼 엄마
+Developer:개발자
+Male Student G:남학생 G
+Mitsuyoshi:미츠요시
+Attendee:참석자
+you:너
+Musician Boy A:뮤지션소년A
+Beatrice:베아트리스
+Iwaki:이와키
+Baseball Cap:야구모자
+Momoyo Fan 8:모모요팬8
+ASP Host:ASP호스트
+Circus 4:서커스4
+Rival:라이벌
+Ashley:애슐리
+Miss Ingrid:미스 잉그리드
+Gorilla:고릴라
+Shogun Hazuki:하즈키 쇼군
+Haruna:하루나
+Arkedon:아르케돈
+Female Classmate 4:여자 동창4
+Man_Midou:남자_미두
+Tourist A:투어 ist A
+Olga:올가
+I:I
+Eunectes:유넥티스
+Elma:엘마
+Fox:여우
+Belka:벨카
+Yuma:유마
+Schoolboy D:남학생 D
+Kagome:가고메
+Train Announcer:트레인 아나운서
+Female student 2:여학생 2
+Bear:곰
+Earth Dragon:어스 드래곤
+Lime Member B:라임 멤버 B
+UN Eishi: UN 에이시
+F Army Fighter 39:F 육군 전투기 39
+Kagami:가가미
+Nil:닐
+Kikkawa:키카와
+Kakei:카케이
+Rea:리아
+Motoki・Sophia:Motoki・Sophia
+Jerrun:제룬
+Team Member C:팀원 C
+Hunter A:헌터 A
+Referee 1:심판 1
+Vigilanteの誰か:비질란테
+Step 3:3단계
+Momoyo Fan 10:모모요 팬 10
+Female Ghost:여자 유령
+Linda:린다
+Serizawa:세리자와
+Memory Collector:메모리 컬렉터
+Jer:절
+President's Aide A:대통령 보좌관 A
+Takuya:타쿠야
+Suggestion:제안
+Principal Tue-Ste:교장화스테
+Rangers:레인저스
+News G:뉴스G
+Midou:미두
+Beni:베니
+Adult Actress:성인여배우
+Cake Shop:케이크가게
+Hae:해
+young Doctor:영닥터
+CAT:고양이
+Maroudo's Soldier F:마루도의 군인F
+Selestine Sister:셀레스틴 언니
+Sakar:사카르
+Orc Acolyte:오크 수행사
+Toshihiko:토시히코
+Woman A:여자A
+Umi:우미
+Katsuzawa:카츠자와
+Yuunagi Captain:유우나기 대장
+Jailer:교도관
+Ami:아미
+Outpatient Nurse B:외래 간호사 B
+Eleanor:엘리노어
+Chiyo:치요
+Blue:블루
+Bully B:괴롭힘 B
+To:To
+Stylist:스타일리스트
+Both:둘 다
+Blonde Girl:금발 소녀
+Maple:메이플
+Classmate C:반 친구 C
+Passing Student 2:합격생 2
+Water Seller:물 판매자
+Blaze:블레이즈
+Adelaida:아델라이다
+Coven Leader:코븐 리더
+Squad Member A:분대원 A
+Head Housekeeper:가정부장
+Because it IS night:밤이니까
+Akushima:아쿠시마
+you deleted Info:정보를 삭제했습니다
+Ophelia:오필리아
+Cookie:쿠키
+Angelica:안젤리카
+Black Suit #17:검은 정장 17
+Lotus:로터스
+Sou:소우
+Whole Audience:전체 관객
+Daigoro:다이고로
+Staff Member:직원
+Cassius:캐시어스
+Rowan:로완
+Hawk 4:호크 4
+Boy 2:소년 2
+Kyuro:큐로
+Assassin 3:어쌔신 3
+Rin:린
+Tachanka:타찬카
+Dealer C:딜러 C
+Fashion Design Club:패션 디자인 동아리
+Risa:리사
+Kid B:키드 B
+Man in Wheelchair:휠체어를 탄 남자
+Sea Monster:바다괴수
+Employee:직원
+Gamble 3:도박 3
+Genji:겐지
+Oogami:오가미
+Bodyguard:보디가드
+Senior colleague:선임 동료
+young Boy:어린 소년
+Konami's Friend B:코나미의 친구 B
+Diet Member:다이어트 멤버
+Hoodlum Leader:양아치 리더
+Old Woman 2:할머니 2
+Sanda Aiya:산다 아이야
+Dora:도라
+Tomoko:토모코
+Firefighter:소방관
+Handmaiden:시녀
+Sho:쇼
+Track Club Girl B:육상부 여자 B
+Vigilante:자경단원
+Gravel:자갈
+Hawk 1:호크 1
+Newspaper Club Girl:신문부 여자
+Farmer:농부
+Woman:여자
+Female Suzuki_Trial:스즈키
+Store Clerk:점원
+Tatsu:타츠
+Eishi 1:에이시 1
+Radio Announcer:라디오 아나운서
+LACKEYS:라키즈
+Narrow-Eyed Girl:눈이 가늘게 뜬 소녀
+Face:페이스
+Guard B:가드 B
+Ghost＆Renya:유령과 렌야
+Shizuru_Phone:시즈루 핸드폰
+Merchant C:상인 C
+Voice_Gil:길의 목소리
+Man B:남자 B
+Lotus 2:로터스 2
+Trio A:트리오 A
+Male B:남자 B
+Girl 1:소녀 1
+Juuzou:주조
+Guest Actor:게스트 배우
+Old Man A:노인 A
+Yutaka:유타카
+Appraiser:감정사
+Short-haired Girl:단발머리 소녀
+Angel B:천사 B
+Motivational Bird:의욕적인 새
+Professor:교수
+Numada:누마다
+Boy Student C:남학생 C
+Miyashima:미야시마
+Ryuusei?:류세이
+Miss Tachibana:미스 타치바나
+Ayamine:아야미네
+Drone:드론
+Lime Member A:라임 멤버 A
+Romanov Twin:로마노프 트윈
+Erika:에리카
+Blushing girl:얼굴 붉히는 여자
+Other Teen:다른 사춘기
+Voice_Sakuya:사쿠야의 목소리
+BIG YAKUZA:빅 야쿠자
+Madame:마담
+Wasp:와스프
+Passenger:패신저
+Caesar Fangirl:시저 팬소녀
+Elizabeth?:엘리자베스
+Saburou:사부로
+Ollia:올리아
+Woman 3:우먼 3
+Kagekatsu:카게카츠
+Terminator?:터미네이터
+Toji:토지
+Guy Holding a Flyer:전단지를 든 사람
+Worker:근로자
+Kazumi:카즈미
+Senior Class Leader:고학년 반장
+Dump-Truck Driver:덤프트럭 운전사
+Doran:도란
+Tokido:토키도
+Operator 4:운영자 4
+Sandy:샌디
+Viral Attacker B:바이러스 공격자 B
+Mikawa:미카와
+Samael:사마엘
+Flustered Guy:당황한 사람
+Hissy Cat:히시캣
+Man With Glasses:안경 쓴 남자
+SKINNY YAKUZA:말랐어 야쿠자
+Platoon C:C 소대
+Trainee:연수생
+Joseph:조셉
+Driver:운전사
+Classmate 6:반 친구 6
+Minori:미노리
+MP 1:MP 1
+Asuho:아스호
+Man in Suit:정장 입은 남자
+>I'll ask you again:다시 물어보죠
+Passing Townsperson:지나가는 읍민
+Kaname:카나메
+Tsumiki:츠미키
+Officer B:경찰 B
+Prostitute 46:창녀 46
+Radio A:라디오 A
+Hachiroku:하치로쿠
+Villager:마을 사람
+Leather Jacket:가죽 재킷
+Bounty Hunter:바운티 헌터
+Phone_Ex-Prez:전직 대통령 핸드폰
+Sir Joffrey:조프리 경
+Minagi:미나기
+Tae:타에
+Batri:베트리
+Mask the Saito:사이토 가면
+Mitsuki:미츠키
+Ichiko:이치코
+July:줄리
+Other Thug:다른 깡패
+Lost Girl:잃어버린 소녀
+Kyojin:교진
+McPherson:맥퍼슨
+First-year Girl C:1학년 소녀 C
+Kirki:키르키
+Naru:나루
+Narrow-eyed Girl:눈이 좁은 소녀
+Utsugi:우츠기
+エレベーター:에레베터
+Silver-Haired youth:은발 청년
+Both Of Us:우리 둘 다
+2:2
+Mysterious Voice 4:신비한 목소리 4
+Mushroom:버섯
+Muffin:머핀
+Black Suit #20:검은 정장 20
+Shougo:쇼고
+Playboy:플레이보이
+Indignant Mercenary:분노한 용병
+Bat:박쥐
+DIRECTOR:감독
+Delta:델타
+Henri Chevrot:앙리 셰브로
+Mao's Mom:마오의 엄마
+Bath Clerk:목욕탕 직원
+Unknown man 1:신원 불명의 남자 1
+Man With Girlfriend:여자친구가 있는 남자
+Taxi Driver:택시 운전사
+Ephemera:에페메라
+Imperial Eishi 2:제국 에이시 2
+Lookout:파수꾼
+High Schooler 2:고등학생 2
+American Eishi 17:미국 에이시 17
+Card Soldiers:카드 군인
+Emma?:엠마
+Visitor B:방문자 B
+Drunk:술 취한
+Twintailed maid:꼬리 두 개 달린 하녀
+Townsperson A:마을 사람 A
+Beat-up Student:구타당한 학생
+Emma:엠마
+Track Club Girl C:육상부 여자 C
+Policeman C:경찰관 C
+Infected Dave:감염된 데이브
+>Hint 1:힌트 1
+Caterpillar:캐터필러
+1st Lt. Munakata:무나카타 중위
+Her:그녀
+Kesser:케서
+Mayor?:시장
+Miyuu:미유
+UN Eishi 2: UN 에이시 2
+Child 1:어린이 1
+Inner voice 3:내면의 목소리 3
+Genjousai:겐조사이
+Trash 2:쓰레기 2
+American Eishi 1:미국 에이시 1
+Man G:남자 G
+Female Classmate B:여자 반 친구 B
+Hisakaki:히사카키
+Imperial Eishi 3:제국 에이시 3
+Captain Belmont:캡틴 벨몬트
+Plushie:플러시
+Mink Teammate A:밍크 팀원 A
+Loud Classmate:큰 소리 반 친구
+Mister Bretzel:미스터 브레첼
+Maid 28:메이드 28
+K's Connector:케이의 커넥터
+Gym Teacher:체육 교사
+Kondo:콘도
+Yoshioka:요시오카
+Indarah:인다라
+Migjeni:미그제니
+Maroudo's Soldier 6:마루도의 군인 6
+Bus Driver:버스 운전사
+Mink:밍크
+Okuda:오쿠다
+Traveller:여행자
+Audience 3:청중 3
+Earth Mage:대지 마법사
+The Official:공식
+Pioneer:개척자
+Zahira:자히라
+Fan B:팬 B
+Droopy-eyed Girl:눈이 처진 소녀
+Person with cape:망토를 두른 사람
+Merchant A:상인 A
+Bandit Leader:도적 두목
+Kaoru's Clone:카오루의 분신
+Worn-out Infected:지친 감염자
+Chocoa:초코아
+PMC Member B:PMC 멤버 B
+Isdruel:이스드루엘
+Turtle:거북이
+Suguru:스구루
+Paulette:폴렛
+Ann:앤
+Ran's Mom:란의 엄마
+Venis:비니스
+Touma's Father:토우마의 아버지
+Other Alexia:다른 알렉시아
+Pirate:해적
+Mikael:미카엘
+Flirty Guy:꼬시는 남자
+Vampire child:뱀파이어 아이
+Black Suit #137:검은 정장 137
+Yuuri:유리
+Dad:아빠
+2nd Lt. Kazama:카자마 소위
+Old Man 1:노인 1
+Takako:타카코
+Shy Orcess:수줍은 오르세스
+Wei Fumizuki:웨이 후미즈키
+Girl in Uniform:제복을 입은 소녀
+OutCast:아웃캐스트
+Lady Rosalie:레이디 로잘리
+Villain Hazuki:빌레인 하즈키
+Hatsumi:하츠미
+Caesar:시저
+Goblin 26:도블린 26
+少WomanのBeliever:소녀 신자
+Reiko:레이코
+Protester:시위대
+Symmetra:대칭
+Both_Shizuru:보츠 시즈루
+Asahi:아사히
+Audience 6:관객 6
+Satou:사투
+General Spareribs:제너럴 스페어 리브스
+Loudspeaker:라우드스피커
+Satcher:사처
+Recruit:
+Ch'en:첸
+Cla-Bal:클라발
+Takos Lady:타코스 레이디
+Kashou:카쇼
+Tenma:텐마
+Twig:트윅
+Greynuty:그레이누티
+Rd_maid:로드 메이드
+Chihaya_Phone:치하야 핸드폰
+Shunsuke:슌스케
+Shindou:신두
+Trash 1:쓰레기 1
+Ashe's Mom:애쉬의 엄마
+Umeko:우메코
+Ginevra:기네브라
+Kanae?:카나에
+Maroudo's Soldier P:마루도의 군인 P
+High School Nao:고교생 나오
+Shae:샤에
+Housewife B:주부 B
+Jin-kun:진군
+Mea:메아
+Moeka・Hiyori・Rio:모에카・히요리・리오
+imagyou:이마교
+Cassi:카시
+Big Man_Takasago:빅남자_타카사고
+Cecelia:세실리아
+Male student:남학생
+Reclus' Friend:은둔자의 친구
+Gallery B:갤러리 B
+Female Attendee 3:여자참석자 3
+Erich:에리히
+Slavya:슬라비아
+young Guy:젊은이
+UN Eishi 4:UN 에이시 4
+Dantalion:단탈리온
+Mrs. Cheung:부인. Cheung
+Hazel:헤이즐
+Duty M.:듀티 M.
+Floor Manager:바닥 관리자
+Burly Soldier:벌리 군인
+Rebel Eishi 2:레벨 에이시 2
+Gretcha:그레차
+Kotori:코토리
+Gnash:나쉬
+Toue:투에
+Adrov:아드로프
+Nicola:니콜라
+1st Lt. Hayase:하야세 중위
+Amelia:아멜리아
+News I:뉴스 I
+Goblin 126:도블린 126
+Router:라우터
+Female Reporter:여자 기자
+KIMURA:키무라
+Second-Year Girl:2학년 여자
+Squad Member B:스쿼드 멤버 B
+Komine:코미네
+Fuyutsuki:푸유츠키
+Trustworthiness:신뢰도
+William:윌리엄
+Voice_Shizuru_Phone:시즈루 폰의 목소리
+Classmate Guys:동급생
+Childcare Boy B:육아 소년 B
+Begging Bag:베깅백
+Commentator:해설자
+Silence:침묵
+Male Student D:남학생 D
+Jacob:제이콥
+Ryoko:료코
+Robin:로빈
+Kunieda:쿠니에다
+Kansai Person:간사이 사람
+Amelie:아멜리
+Frio:프리오
+Bubbly Little Girl:활기찬 꼬마
+Girl Students:여학생
+Swimsuit Gal B:수영복 소녀 B
+Class Rep:반장
+Delinquent:불량배
+Fuminori:후미노리
+Aroe:아로에
+Futaki:후타키
+Prostitute 21:창녀 21
+American Eishi 8:아메리칸 에이시 8
+narration:내레이션
+Runa:루나
+Mirror:거울
+Lotus 1:로터스 1
+Kaede:카에데
+Classmate A:반 친구 A
+The cook:요리사
+Mayuri:마유리
+Old Guy:할아버지
+Take walls:벽을 쌓다
+Stryker?:스트라이커
+Nagai:나가이
+Koume:코우메
+Haruhiko:하루히코
+Kumiko:쿠미코
+Preschooler:미취학 아동
+Hideo:히데오
+Grandma:할머니
+Leto:레토
+Boy A:소년 A
+Actor on TV:TV 배우
+Cat Witch:고양이 마녀
+HEN:HEN
+Michel:미셸
+Boy_Yoshino:소년 요시노
+Doll Employee:인형 직원
+Captain:선장
+Bob:밥
+Alistar:알리스타
+Music Teacher:음악 선생님
+Dora..:도라..
+Bionic Soldier D:바이오닉 군인 D
+Nena:네나
+Margit:마르기트
+Takuji:타쿠지
+P:P
+Haruna's Dad:하루나의 아빠
+Yukari:유카리
+Superintendent:감독관
+young Man in Suit:정장을 입은 청년
+Mikoto:미코토
+Otome Game Hero:오토메 게임 히어로
+Tama:타마
+Both of us:우리 둘 다
+Mohawk:모호크
+Momoka:모모카
+Male Student H:남학생 H
+Class C Girl 2:C반 여자 2
+Mohawk Dude:모호크 Dude
+Headmaster:교장 선생님
+Jason:제이슨
+TV Host:TV 호스트
+Rubina Member B:루비나 멤버 B
+Female student 1:여학생 1
+Javimother:자비마더
+Yakitori Seller:꼬치구이 판매자
+Spareribs:스페어립스
+対戦者:대전자
+Step 1:1단계
+Mitten:벙어리장갑
+Maroudo's Soldier H:마루도의 군인 H
+Gergiev:게르기예프
+Mrs. Shimazu:Mrs. 시마즈
+Sailor:세일러
+`3rd Year Girl 1:3학년 소녀 1
+Tsukinogi:츠키노기
+PA Announcement:PA 공지
+Yuna:유나
+Tomoya:토모야
+Bitter Man 1:비터남자 1
+Logistics Operator:물류 운영자
+Rounders:라운더스
+Female Customer B:여손님 B
+Yang's Sister:양언니
+The Butcher:정육점
+Chihaya_Trial:치하야
+Coffee Shop Owner:다방주인
+ドライジュースメンバーＢ:드라이쥬스멘바Ｂ
+Duck:오리
+Riko:리코
+Boy Student D:남학생 D
+Foreigner:외국인
+Student Girl A:학생 여학생 A
+Reinhardt:라인하르트
+Yoshimori:요시모리
+Whore:창녀
+Iwai:이와이
+BURST Member B:버스트 멤버 B
+Brown-haired Guy:갈색 머리 남자
+Agents:에이전트
+Station Employee:역무원
+Judo Club Member A:유도부 A
+Sister A:언니 A
+Ogawa:오가와
+Trio:트리오
+Kotaro:코타로
+Iwona:이오나
+Kitten Maple:키튼 메이플
+Lu:루
+Blond Haired Girl:금발 소녀
+Monou:모노우
+Trucker:트러커
+Male Shopper A:남성 쇼핑객 A
+Ritsu:리츠
+Tick:틱
+Hollywood Actor:할리우드 배우
+Gitano:기타노
+Bizarro-Kakei:비자로 카케이
+Azusa・Rio・Hiyori:아즈사・리오・히요리
+Class D Student:D반 학생
+A Wild Knight:야생의 기사
+Shrine Princess:신사 공주
+Liliana:릴리아나
+Misha:미샤
+Printy:프린티
+youichi?:요이치
+Ikuko:이쿠코
+Class E Student:E반 학생
+MARIYA:MARY
+Coworker 2:동료 2
+Momoyo Fan 5:모모요 팬 5
+The three of us:우리 셋
+Guest B:게스트 B
+Lee:이
+Staffer A:스태퍼 A
+Kitty:키티
+Chanho:찬호
+Shionogi:시오노기
+Slaves:노예
+ALPACA:알파카
+Doll:인형
+Adjutant Hill:부관힐
+The Girls:더 소녀즈
+Aki:아키
+Dojo Student:도장학생
+Minamo's Mom:미나모 엄마
+Yuzuru:유즈루
+Maroudo's Soldier 3:마루도의 군인 3
+Yaginuma:야기누마
+Local Person:현지인
+Lycoris:리코리스
+Alexia:알렉시아
+Almost everybody:거의 모두
+Roy:로이
+Spokesman McKee:맥키 대변인
+Black Dogs:블랙독스
+Aika:아이카
+Game:게임
+Relative A:상대 A
+Matsuyama:마츠야마
+Mean-Looking Guy:비열한 사람
+Azai Gonzou:아자이 곤조
+Soldier 2:군인2
+Rito:리토
+Kasajima Miwa:카사지마 미와
+Man C:남자C
+Samantha:사만다
+Amadeus Maho:아마데우스 마호
+Thugs:깡패
+Maroudo's Soldier S:마루도의 군인 S
+Julie:줄리
+Shinkawa:신카와
+Prudent Elder:신중한 장로
+Fuko:후코
+Classmate 5:동급생 5
+American Eishi:아메리칸 에이시
+Chibimoth:치비모스
+Shyrenthe:샤이렌테
+Ensia:Six
+Mari:마리
+Naori:나오리
+??_Gil:길
+Spinne:스핀
+Rio・Hiyori:리오・히요리
+Letter:편지
+Soldier #2:군인 #2
+Tubal Cain:투발카인
+Runt Orc:런트 오크
+Spectator F:스펙테이터 F
+Sumika:스미카
+Luka’s Father:루크의 아버지
+Violet-Haired Girl:보라색 머리 소녀
+Miyako:미야코
+Ginga:긴가
+Sachi's Uncle:사치의 삼촌
+Anteater:개미핥기
+Professor Shibata:시바타 교수
+Mature Lady:숙녀
+Rupika:루피카
+Lena #2:레나#2
+Chihaya_Unneeded:치하야
+Warrior:전사
+Unknown Voice:???
+Male 1:남자1
+Rude Succubus:막돼먹은 서큐버스
+Man With Bandana:반다나를 쓴 남자
+Cooking Girl A:요리소녀A
+M-Kina:M 키나
+Ohtori:오오토리
+Broadcaster:방송인
+Classmate 3:동창3
+Tomosane:토모사네
+Rebel Eishi 5:. 반란군 에이시 5
+Saigusa:사이구사
+Sales Lady:세일즈 레이디
+Karade Master:가라테 마스터
+Staff D:스태프 D
+Franka:프랭크
+Flower A:플라워 A
+Firewatch:파이어워치
+Redhead Guy:레드헤드 남자
+«Subject:알로이스 경
+Sir Alois:주제
+Zombie:좀비
+Cooking Club Girl:쿠킹 클럽 소녀
+BandanaGuy:반다나 남자
+TV:TV
+Katsuhei:카츠헤이
+Dorj:도르지
+Male Student J:남학생 J
+Woman性客Ｂ:여성 고객 B
+Sigmund:지그문트
+Lucio:루시오
+Naota:나오타
+Female Classmate A:여자 동급생 A
+Survivor:생존자
+Man2:남자 2
+Tara:타라
+Futaba:후타바
+Lily:릴리
+Mayaka:마야카
+Random:랜덤
+Playboy A:플레이보이 A
+Lezard 1:레자드 1
+Deandra:디안드라
+Toudou:투두
+Violetta:비올레타
+Kido:키도
+Ulyana:울리아나
+Larry:래리
+Female Stall Owner:여자 스톨 오너
+Nangoshi:난고시
+Kiki:키키
+Volker:볼커
+Seamus:시무스
+Pochi:포치
+ＡＶ女優:AV 여배우
+Victim:피해자
+Rosa:로사
+Guy in Charge:교회 안의 사람
+Arcade clerk:오락실 사무원
+Student:스튜던트
+Audience Member 1:관객1
+Ines:이네스
+Levi:리바이
+Shadow:섀도우
+Horrid Harry:호리드 해리
+Yulya:율리아
+Tue-Mai:화 - 마이
+Fencing Club Girl C:펜싱부 소녀 C
+Student D:학생 D
+Storekeeper:점원
+Tom:톰
+Man D:남자 D
+Store\\Attendant:매장 직원
+Lena's Voice:레나의 목소리
+Mem XXIII:멤 XXIII
+New Guest:새 손님
+Baal:바알
+Mila:밀라
+Operator Barty:운영자 바티
+Whisperain:위스퍼린
+Ushio:우시오
+?? B:???
+Tout:투트
+Kokoro:코코로
+Male guest A:남자 손님 A
+Serious Girl:심각한 소녀
+Lucia_Trial:루시아
+Schreiber:작가
+Secretary:비서
+NewMemberA:신규 멤버 A
+Rope:로프
+Maroudo's Soldier 1:마루도의 군인
+Vigilante員:자경단원
+Oonishi:오오니시
+Female Churchgoer:여자 교회 신자
+Mary:메리
+Raziel:라지엘
+Rintaro?:린타로
+Matterhorn:마터호른
+Patient:페이션트
+Shimei:시메이
+Senri:센리
+Priscilla:프리실라
+Y-Miko:와이미코
+Mud Girl:머드소녀
+Marion:마리온
+Scout:스카우트
+Male Classmate:남자 동급생
+Editor_Ansai_Trial:에디터 안사이
+Chinese Person:중국인
+Voices:보이스들
+Maroudo's Soldier G:마루도의 군인 G
+woman A:여자 A
+Salesgirl:세일즈소녀
+Class C Student:C반 학생
+Dorianna:도리아나
+Curator:큐레이터
+Whip Wielder:채찍 휘두르는 사람
+Statue:조각상
+Kodachi:코다치
+Remi:레미
+Mysterious Girl:수수께끼의 소녀
+Rebel Eishi 8:역적 에이시 8
+Reclus' Friend #1:수감자의 친구 1
+College Student:대학생
+Guerrilla:게릴라
+Monster Hunter:몬스터 헌터
+The Three:더 쓰리
+Pizza Vendor:피자 벤더
+Aronya:아로냐
+Toland:톨랜드
+Goddess:여신
+Gallery C:갤러리 C
+Toshie:도시
+Terato:테라토
+UN Eishi 5:UN 에이시 5
+Student Girl B:여학생 B
+Oue:Oue
+Girl Student B:여학생 B
+Sukumon Breeder:스쿠몬 브리더
+mv:MV
+Manager:매니저
+Rebecca:레베카
+Sakuya HB:사쿠야 HB
+Garforth:가포스
+Creepy Rabbit:크리피 래빗
+Schoolboy_Trial:스쿨보이
+Crazed Male Student:미친 남학생
+Arika:아리카
+Jasmine:재스민
+Suzaki_Wiretap:스자키 와이어탭
+Kotarou    HP:Kotarou HP
+Ninja 2:닌자 2
+Staffer:Staff
+King Orwell Rose:킹 오웰 로즈
+Coworker:코워커
+Classmates A:동급생 A
+Call Girl:콜소녀
+Relative:친척
+Naruko:나루코
+Attendant's Voice:Attendant Voice
+Hare A:토끼 A
+Schneider:슈나이더
+Furukawa's Mother:후루카와의 어머니
+Madoka:마도카
+Chieka:치에카
+Yeah!:그래!
+Miya:미야
+Whispers:속삭임
+Natsumi:나츠미
+Ureshino:우레시노
+The housekeeper:가정부
+Other student:다른 학생
+Chilling Voice:오싹한 목소리
+Buchi:부치
+Aciddrop:애시드롭
+Sir Archibald:아키볼드 경
+Theresis:테레시스
+Shimako:시마코
+young\\Woman@s\\Voice:어린 여자 목소리
+Takmine:타크마인
+Female Customer:여자 손님
+Naked Dude:나체의 친구
+Delivery Person:배달원
+Miu:미우
+Marco:마르코
+Kraug:크라우그
+Imagawa:이마가와
+Yukito:유키토
+Armoured Man A:Armored Man A
+Girlfriend:여자친구
+Passerby C:행인 C
+Girl’s voice:소녀의 목소리
+Legendary Sukumon:전설의 스쿠몬
+Talking Girl 2:말하는 소녀2
+Both of them:둘다
+Moderator:모더레이터
+Date:데이트
+Tutor:가정교사
+Abigail:아비가일
+Lady Ignoring Me:나를 무시하는 아가씨
+Yumi\\and\\Kotori:유미와 코토리
+Otaku B:오타쿠B
+Noriko:노리코
+Card Soldier A:카드 군인 A
+Classmate 2:동급생 2
+Paparazzi:파파라치
+Spearman 2:창병 2
+Zoey:조이
+Mrs. Jougasaki:미세스. 죠가사키
+Ceylon:실론
+Saori:사오리
+Brat B:브랫 B
+Audience Member 3:관객 3
+Kawagoe:카와고에
+Kisara:키사라
+Friend 2:친구 2
+HOODED MAN:후드남자
+Sauber 2:자우버 2
+Exna:엑스나
+Female Player:여자 플레이어
+Jaina:제이나
+Robot:로봇
+Madori:마도리
+Jigoro:지고로
+Bitter Root:비터 루트
+Guy Customer B:남자 고객 B
+Again:어게인
+Demon:악마
+Dealer:딜러
+Ninomae:니노마에
+Andre:기타
+Director:감독
+Duchess:공작부인
+High Priest:대제사장
+Housewife A:주부 A
+Email:이메일
+Mephisto:메피스토
+Miku:미쿠
+Lacey:레이시
+Passerby D:행인 D
+Hiromi:히로미
+Okaizumi:오카이즈미
+Old Woman 1:늙은 여자 1
+FeMale student:여학생
+Omar:오마르
+Man voice 1:남자 목소리 1
+Female Customer A:여자 손님 A
+Lab mems:실험실 멤스
+ＤＪ:D
+you threw away Info:정보를 버렸구나
+Mina:나
+Visitor D:방문자 D
+Drunk C:드렁크 C
+Fuji:후지
+Fairy:요정
+Maroudo's Soldier T:마루도의 군인 T
+Another Drunk:어나더 드렁크
+Orc Herald:오크 헤럴드
+All Ligers:올 라이거
+Heiki:하이키
+Hurdle:허들
+Man in Black Suit:검은 정장을 입은 남자
+Child Yamato:. 꼬마 야마토
+Maho:마호
+Willow:윌로우
+Pani:파니
+Tsukasa:츠카사
+Zakuro:자쿠로
+Elizabeth:엘리자베스
+Men:남자
+Morider:모라이더
+Yamato's Father:야마토의 아버지
+Prisoner B:죄수 B
+John:존
+Strelka:스트렐카
+Masato:마사토
+Haruyama:하루야마
+Police Officer B:경찰 B
+youhei:요헤이
+Sunburnt Guy:햇빛에 탄 남자
+je:제
+Other Butler:다른 집사
+Maroudo's Soldier 9:마루도의 군인9
+Prefect 1:반장 1
+Lia:리아
+Evangeline?:에반젤린
+Kidnapper A:유괴범 A
+Sheena:시나
+Jak:잭
+Squid:오징어
+Hire:하이어
+Aosta:아오스타
+Skadi:스카디
+Male Student 4:남학생4
+Shurik:슈릭
+Man 4:남자4
+Night Nurse A:야간간호사 A
+Yelling Drunk:술취한 소리
+Ryuuhei:류헤이
+Shigetsugu:시게츠구
+Man 5:남자 5
+Muramatsu:무라마츠
+Capt. Sagiri:Capt. 사기리
+Alisa:알리사
+Student 4:학생 4
+Highschool Girl A:여고생 A
+Mist:미스트
+New quest:뉴 퀘스트
+―――Set power:세트 파워
+Justyna:저스티나
+Elina・Motoki:유토·하스·카
+Rinne:린네
+Sickly Lilith:병든 릴리스
+Hirooka:히로오카
+Operator 1:운영자 1
+Takafuji Guy A:다카후지 남자 A
+Elderly People:노인
+Nishiogi:니시오기
+Aocat:아오캣
+Snowsant:눈산트
+Joachim:요아킴
+Prefecture Resident:현민
+老人１:프레지던트 1
+Eiichi:에이이치
+Zap:잽
+Stitch Canvas:스티치 캔버스
+Ueda:우에다
+Middle-Aged Dude:중년 남자
+Hilko:힐코
+Wei Yenwu:웨이옌우
+Trader:트레이더
+Akeno:아케노
+Sloth:슬로스
+Hokurikan 2:Hokurikan
+2nd Lt. Kashiwagi:중령 2위 카시와기
+Ulcro:울크로
+Newcomer:신인
+Boy・Girl:소년소녀
+Onlooker B:방관자 B
+Male student 1:남학생1
+Reflection:리플렉션
+Sonya:소냐
+Albert:알버트
+Operations Chief:작전과장
+Close Aide B:측근 B
+Strider Boy:스트라이더 소년
+Subordinate C:부하 C
+Tentacles:촉수
+Daughter 2:딸 2
+Froppy:프로피
+Menes:메네스
+Kumi:쿠미
+Ichikawa:이치카와
+Paramedic:구급대원
+Recording:녹음
+Suzaki_Phone:스자키 폰
+Audience 9:Audience9
+Female:여자
+Takafuji Girl D:타카후지 소녀 D
+Groupies:그루피
+Minata:미나타
+Team Member A:팀 멤버 A
+Satoko:사토코
+Metis:메티스
+Co.:주식회사
+Stryker Ten:스트라이커 텐
+Mostima:모스티마
+PE Teacher:체육선생님
+Heavyrain:헤비레인
+Manako:마나코
+Second-Year Boy:2학년 남자아이
+Female Pedestrian 2:여행자2
+Bearded Guy:수염난 남자
+Ghost AI:유령AI
+Mother A:엄마A .
+Eyjafjalla:에이야프잘라
+Man 2:남자 2
+Yukizuki:유키즈키
+Priest:프리스트
+Hamada:하마다
+Attacker B:공격자 B
+Usagi Modoki Leader:우사기 모도키 리더
+Daughter:도터
+Momoyo Fan 4:모모요 팬 4
+American Eishi 16:아메리칸 에이시 16
+Captain Garrett:가렛 선장
+HANAZAWA:하나자와
+Male Shopper B:남성 쇼핑객
+Officer C:C 경관
+(Fake) Hotline:(가짜) 핫라인
+PRODUCER:프로듀서
+Yakuza:야쿠자
+Obtained Info:정보를 입수했습니다
+Mystery:미스터리
+Salivating Succubus:침 흘리는 서큐버스
+Delinquent 2:불량자 2
+Mortimer:모티머
+The message:메시지
+Imposing Commander:당당한 사령관
+`3rd Year Girl 2:3학년 소녀 2
+Chihiro:치히로
+Informis:인포미스
+Servants:서번트
+Suzu:스즈
+The Emperor:황제
+Chris:크리스
+Tokikaze:토키카제
+Iana:이아나
+Mell:멜
+«Cause:코즈
+Eleonore:에레오노레
+Kuuderella:쿠데렐라
+Mysterious Cat:수수께끼의 고양이
+Sachie:사치에
+Customer 2:손님 2
+Archosauria B:아르코사우리아 B
+Female Shopper:여자 쇼핑객
+Kagetsu:카게츠
+Bounty Hunter B:바운티 헌터 B
+Yellow-Haired Girl:노란 머리 소녀
+Man_Trial:남자
+Boss Orleans:보스 오를레앙
+Profesor:교수
+Oshiba:오시바
+Myself:나 자신
+Chan  KuroKumori:쿠로 짱구모리
+Plastic Knight:플라스틱 기사
+Female Student L:여학생 L
+Mashiro:마시로
+019:019
+Adult Video Actress:성인 비디오 여배우
+Stranger:낯선 사람
+Ramen store clerk:라면 가게 점원
+Male Attendee 2:남자 참석자 2
+Lydie:리디
+Maroudo's Soldier 2:마루도의 군인
+Lana:라나
+Coach:코치
+Substitute:대리
+Knives:칼
+Meowmel:야옹멜
+Old Man C:C노인
+Female Student:여학생
+ドライジュースメンバーＡ:드라이 주스 멤버 A
+Flashy Churchgoer:화려한 교회 신도
+Former Headmaster:전 교장
+Man With Bandanna:반다나를 든 남자
+Mr. Gkrouwlies:그크루울리스 씨
+?_Kotori_Trial:Kotori_Trial
+Spectators:관중
+His Friends:그의 친구들
+Hertzwann:헤르츠완
+Bounty Hunter A:바운티 헌터 A
+Ell:엘
+Kroos:크루스
+News C:뉴스 C
+Paige:페이지
+Male Friend:남자 친구
+Red Dog:레드독
+Messenger:메신저
+extenDerek:ExtenDerek
+Tesshin:테신
+Girl Student E:여학생 E
+Riku:리쿠
+Feather Moon:페더문
+Thug 1:터그 1
+Group A:그룹 A
+Tomoyo:도모요
+Male A:남자 A
+Gatekeeper:Gatekeeper
+Assistant Director:Assistant Director
+Zii-Zii:ZiiZii
+young Amiya:Young Amiya
+Viral Attacker A:바이러스 공격자 A
+Ghorza:고르자
+Male Teacher:남자 교사
+Shashi Ashuvaha:Shashi 아슈바하
+Ohrana:오라나
+Tableware Seller:식기 판매자
+youko:요코
+BROTHERS:브라더스
+Test 1:테스트 1
+Dorm Mother:기숙사 엄마
+Instructor:강사
+Ryuuya:류야
+Viral Attacker D:바이러스 공격자
+Archosauria A:아르코사우리아
+Ana:아나
+Spokesperson:대변인
+Audience C:관객 C
+Brute:브루트
+Speaker:스피커
+Pet Cat:펫캣
+Cat:캣
+Boy Student F:남학생 F
+Bush dog:부시 개
+Voice_Yoshino:요시노의 목소리
+Randou:랜두
+Shima:시마
+Catboy:캣보이
+Chief:치프
+News Program:뉴스 프로그램
+Japanese:일본어
+Boar:멧돼지
+Ryuzoji:류조지
+Boutique Staff:매점 직원
+Shinichi:신이치
+Goblin Girl:고블린 소녀
+PMC Member A:PMC 멤버 A
+Mover:무버
+Head Nurse:간호사
+Levy 9:레비 9
+Kreide:크레이데
+Suzuki_Trial:. Suzuki_Trial
+Nijye:니제
+Customers:고객
+Nurse A:간호사 A
+Shop Owner:샵 오너
+Assembly Member:국회의원
+Cal:Cal
+Question 15:질문 15
+Axy:Axy
+Grandmother:할머니
+News J:뉴스 J
+Takaya:Takaya
+Kon:Kon
+Dhalslim:달슬림
+Lazurit:라주리트
+Girl 2:소녀 2
+Realtor:부동산 중개인
+James:제임스
+Man F:남자 F
+Weather Vane:웨더 베인
+young Attendant:Young Attendant
+Kugura:쿠구라
+Clarice:Clarice
+Female Goblin:여자 고블린
+客２:客2
+Member A:멤버 A
+Maron:마룬
+Goblin 11:고블린 11
+Mare:마레
+Tattooed Man_Trial:문신남
+xysizEileen:엑시즈 에일린
+Female Student 1:여학생 1
+Class Girl:여학생
+Yin-Yang Girl:음양소녀
+An Audience Knight:관객기사
+Kenta:노래
+1st Lt. Suzumiya:1st Lt. 스즈미야
+Hazuki's Dad:하즈키 아빠
+Female Spectator:여자관객
+Eidood:에이두드
+Oil:오일
+Mellvoice:멜보이스
+Female Student 3:여학생3
+Cynthia:신시아
+GIRL:소녀
+Thanatos:타나토스
+News L:뉴스엘
+Creature:크리처
+Holly:홀리
+Hest:말
+Nanano:나나노
+Mischievous Kid:장난꾸러기
+Asumi's Mom:아스미 엄마
+Yukino:유키노
+Women 2:여자 2
+Animal Caretaker:동물관리사
+couldn:할 수 있었어
+>Alice:앨리스
+Swire:스와이어
+Man 1:남자1
+Third-year Girl A:3년차 A
+???_Nishikujou:니시쿠조
+Male Nerd:남자 너드
+Mona:모나
+Liu Fang:류팡
+younger Sister:여동생
+Sir Lysander:라이샌더 경
+Kohaku's Mother:코하쿠의 어머니
+・Example:예
+Mother B:마더 B
+Members:멤버즈
+Shigusa Yoshimitsu:시구사 요시미츠
+Kaoru:카오루
+extend:연장
+Female Student I:여학생 I
+JULIE:줄리
+Sena:세나
+Natsuki:나츠키
+Reclus:은둔자
+Shiloh Captain:실로 캡틴
+Night Shift Nurse A:야근 간호사 A
+Acolyte:종사자
+young men:청년
+BURST Radio:버스트 라디오
+Childcare Boy C:육아 소년 C
+American Eishi 7:미국 에이시 7
+Rintaro’s Mother:린타로의 어머니
+Rinka:린카
+Old Lady B:할머니 B
+Bard:바드
+Yamate:야마테
+Albedo:알베도
+Students:학생
+This:이것
+Dealer B:딜러B
+Hanako?_Kotori:하나코 코토리
+Lookout B:파수꾼B
+Exchange Student:교환학생
+Female Captain:여대장
+News E:뉴스E
+Buff Guy:버프 남자
+Aunty:아줌마
+Male Worker 1:남근로자1
+Shibata:시바타
+Fighter B:파이터B
+Mysterious Voice 1:신비한목소리1
+Hiroo:히로오
+Camael:카마엘
+Iida:이드
+チンピラＣ:양아치 C
+Kirihara:키리하라
+Club President:동아리 회장
+Mako?:마코
+Bandmate 2:밴드메이트 2
+Mccree:맥크리
+Shinano Operator 1:시나노 운영자 1
+Caravan Leader:캐러밴 리더
+Nene's Classmate B:네네의 동급생 B
+Takafuji FC Club:다카후지 FC 클럽
+Haywood:헤이우드
+Creditor A:채권자 A
+An Aged Knight:늙은 기사
+Panda:판다
+Severin:세베린
+Akihito:아키히토
+Conductor:지휘자
+Woman's Voice:여자의 목소리
+Beggar:거지
+«P.S.:PS
+Esaka_Unneeded:에사카
+Student's Mom:학생엄마
+Masakadeus:마사카데우스
+Nurse 2:간호사2
+Sol:솔
+Nicola?:니콜라
+Principal:교장
+Shun:슌
+UN Officer:UN 장교
+Hiyori:히요리
+Misc.:Missc
+Madam:마담
+Male Teacher B:남자 선생님 B
+Classmate 1:클래스메이트 1
+Keisuke:케이스케
+priority:우선순위
+Ayabe:아야베
+Old Mercenary:노용병
+Gavial:가비알
+Haruki:하루키
+Dio:디오
+Cla-Sty Junior:클라스티 주니어
+Child:아이
+Rikako:리카코
+Shiina:시이나
+Hoshiguma:호시구마
+Boy Student A:남학생A
+?_Chihaya:치하야
+Witch:마녀
+Lalatina:라라티나
+Researcher C:연구원 C
+Child D:차일드 D
+Researcher B:연구원 B
+Elysium:엘리시움
+Taguchi:타구치
+Bravo 2:브라보 2
+It goes:간다
+Yuuka:유우카
+Brigand:도적
+Tokita Akihiro:토키타 아키히로
+Boy F:소년 F
+Mayer:메이어
+Man A+B:남자 A와 B
+Sasa:사사
+Brinnid:브리니드
+Millie:밀리
+Maid 2:메이드 2
+Mototada:모토타다
+Nina:니나
+Punk:펑크
+Customer B:고객 B
+Nae:내
+신사:신사
+Rina:리나
+Natalie:나탈리
+Amiya:아미야
+Ryukaku:류카쿠
+Lin Yühsia:린 유시아
+Satsuki:사츠키
+Cabinet Secretary:내각장관
+Female Staff:여직원
+Yuuna:유우나
+Cheating player B:치트 플레이어 B
+Defender Operators:디펜딩 운영자
+Masaki:마사키
+Ylszaras:일자라스
+1st Lt. Tsukuyomi:중위 츠쿠요미
+Kim:김
+Kii:기이
+Female Student D:여학생 D
+Motoki:모토키
+Honor Guard Unit:의장대
+Kinu:키누
+W:W
+・Day One:하루
+Beak-Nose:부리코
+Crowd:군중
+Three people:세 사람
+Wrath:분노
+Mythran Officer:미스란 장교
+Yukie:유키에
+Alina:알리나
+Torlene:토렌
+Boras:보라스
+Judogi-Clad Male:유도복 남
+Hiroaki:히로아키
+Takumi:타쿠미
+Koko1010:코코1010
+Underclassman A:후배 A
+Redheaded Noble:빨간머리귀족
+Worker B:직장인 B
+Kayo:카요
+Tomahawk 1:토마호크 1
+Aoi's Fan 1:아오이 팬 1
+Second-year Girl A:2학년 소녀 A
+Yorimitsu:요리미츠
+Hiyoshi:히요시
+Moriguchi:모리구치
+Orcs:오크
+Masaomi?:마사오미
+Female Soldier:여군
+Karls Lightwind:칼스 라이트윈드
+Nora:노라
+Hoodlum:양아치
+Medic C:메딕 C
+Male classmate 1:남자 동급생 1
+Itsuki:이츠키
+Lab worker B:실험실 작업자 B
+2-S Class:2-S반
+Nemu:네무
+Geezer:기저
+Audience 7:관객7
+Nakamura:나카무라
+Panicked People:당황한 사람들
+Parent A:부모 A
+Michael:마이클
+Assistant Chief:부서장
+Suspicious Man A:수상한 남자 A
+momm:엄마
+Kuwahara:쿠와하라
+Agatha:아가사
+Noa:노아
+Android 18:안드로이드 18
+Attendant:수행자
+Adnachiel:아드나키엘
+Hellagur:헬라구르
+Phoenix:피닉스
+Dianna:다이애나
+Student Girls:여학생
+Boy Student B:남학생 B
+Chris's Father:크리스의 아버지
+Veteran Guard:보훈병
+Food Stand Cat:푸드 스탠드 고양이
+Rioko:리오코
+Miike:미이케
+Haru:하루
+Elina・Sophia:에리나·소피아
+But:엉덩이
+Sofa:소파
+Akimoto:아키모토
+Landlord:집주인
+n:n
+Inner voice 2:내면의 목소리 2
+Sil:실
+Kagetora:카게토라
+Sheila:쉴라
+Pani_Unneeded:파니
+Yamate's Mother:야마테의 어머니
+Patron:보스
+Itou:이토
+Attacker:어택커
+Mr.Bear:미스터베어
+Ghou:구
+An Infected Knight:감염기사
+Robber:도적
+Costume:코스튬
+All:올
+OutCast A:아웃캐스트 A
+News K:뉴스K
+Kengo:켄고
+Tamamo:타마모
+Mifuyu:미후유
+Corporate Staff:회사 직원
+Sumo Club Member:스모부 회원
+Kai:카이
+Flora:플로라
+Eri's big sister:에리 언니
+Cosplay Heroine:코스프레 히로인
+Andras:안드라스
+Carina:카리나
+???_Chihaya_Trial:치하야
+Risa's Mom:리사의 엄마
+Angel:천사
+Taiyaki Shopkeeper:타코야끼 가게 주인
+Male Tourist:남자 관광객
+Producer:프로듀서
+Male Classmate B:남자 동급생 B
+Hibari:히바리
+Tor:토르
+Team X:팀 X
+Nipponese Soldier B:일본군 B
+nvl:nvl
+Disciple:제자
+Prisoner C:죄수 C
+Simon:시몬
+Beagle:비글
+Koppou Club Member:코푸 클럽 회원
+Old Lady:올드 레이디
+Tsukuyo:쓰쿠요
+Tomoko_Trial:토모코
+Fangirl A:팬소녀 A
+Vigilante Yoshida:비질란테 요시다
+Host:주인
+Hoederer:헤데러
+Kyoka:쿄카
+Perfumer:조향사
+Mercenary C:용병
+Kiyoka:뱀
+Lecturer:강사
+Application:응용
+Music Girl B:음악소녀B
+Cadet 3:사관생도3
+Lawyer:변호사
+Maids:메이드
+Ghost?:고스트
+F Army Fighter 2:F군 파이터 2
+Chizuru:치즈루
+Ebs:Ebs
+Japanese Text:일본어 텍스트
+Akira:아키라
+Kazuya:카즈야
+Artist:아티스트
+Gang member:갱 멤버
+Kouchin:코친
+Camp Guard:캠프 가드
+Cheating player A:바람난 플레이어 A
+Momoyo Fan 7:모모요 팬 7
+Ibuki:이부키
+Tanis:태니스
+MC:MC
+Haughty Classmate:도도한 동급생
+His Ring:그의 반지
+Medic Operator:메딕 운영자
+Option_5:옵션 5
+Jackie:재키
+Victor 1:빅터 1
+Hana:하나
+Yoroi:요로이
+Night Nurse:야간 간호사
+Woman C:여자 C
+Asuka:Sugar
+PE Boy A:체육 소년 A
+Security:보안
+Swim Club Member:수영부 회원
+Tsumugu:쓰무구
+・Hypothesis 4:가설 4
+Tanaka:타나카
+Drunks:술
+Triangle:트라이앵글
+Nurse:간호사
+Marla:말라
+Didier:디디에
+Vaelen:베인
+Broadcast:방송
+Overseer:감독
+Passerby 1:행인 1
+Mio:미오
+Brad:브래드
+Females:여자
+Minawa:미나와
+Cla-min:클라민
+HQ:HQ
+Embassy Staff:대사관 직원
+Rich Girl:리치 소녀
+Information Control:정보 제어
+Option_1:옵션 1
+Male Classmate A:남자 동급생 A
+Spectator 2:관중
+Demoness:악마
+Taiga:타이가
+Hyoma:효마
+Moeka:모에카
+Lancet-2:란셋-2
+Sachiderella:사치데렐라
+Odilon:오딜론
+Ron:론
+Girl:소녀
+Koumoto:코모토
+? _Kagari:카가리
+Chan Oniichans Here:찬 오니찬스 히어
+? _Chibimoth:치비모스
+T-shirt:티셔츠
+Young Boy's Voice:어린 소년의 목소리
+It Said:잇 사이드
+Staff A.:스태프 A.
+?? _Shizuru_Trial:시즈루
+KUMA:쿠마
+Evelyn? HQ Operator 4:에블린 HQ 운영자 4
+Thug 2 Richard:터그 2 리처드
+Soldier Reunion A:군인 동창회 A
+Computerized Voice:컴퓨터 목소리
+Vigilanteの誰ika:비질란테 리카
+少Woman'Believer:초등학생 빌리버
+Music Student D:음악 학생 D
+MARY:메리
+Six:식스
+Everything:에브리씽
+MV:MV
+River:리버
+Kotarou HP:코타루 HP
+Attendant' Voice:참석자 목소리
+Young\\Woman@s\\Voice:젋은 여성 목소리
+Armored Man A:장갑남자 A
+D:D
+Hokurikan:호쿠리칸
+Audience9:시청자9
+? _Kotori_Trial:코토리
+ExtenDerek:익스텐더데렉
+Gatekeeper Assistant Director:게이트키퍼 어시스턴트 디렉터
+Young Amiya:영 아미야
+. Suzuki_Trial:. 스즈키
+Takaya 'Kon:타카야 콘
+Young Attendant:어린 수행원
+PS:PS
+Lin Yuhsia:린 유시아
+Day One:첫날
+Sugar:슈가
